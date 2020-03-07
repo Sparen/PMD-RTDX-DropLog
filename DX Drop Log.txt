@@ -7,6 +7,7 @@ Poké not shown. All items alphabetized by category
 Shop/Wall/Sparkle Tile (Blue/Gold)/Vault only: [S] [W] [V] [TB] [TG]
 Ground + Shop/Wall, etc: [+S]
 Treasure Box drops not shown
+Second part dungeons (e.g. Peaks) have separate data even if they act as continuations on subsequent visits
 
 Items not shown if:
 - Tiny Apple + Food Finder
@@ -64,7 +65,7 @@ Consumables | Apple, Big Apple
 Berries     | Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Sleep
-Wands       | Tunnel
+Wands       | Petrify, Tunnel
 Orbs        | 
 Held Items  | 
 TMs         | 
@@ -102,13 +103,13 @@ Special     |
 ----------------------------------------------------------------
 Mt. Thunder Peak
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Apple
 Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | Gold Ribbon [SB]
+Held Items  | Gold Ribbon [SB], Joy Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
@@ -116,12 +117,12 @@ Special     |
 ----------------------------------------------------------------
 Great Canyon
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Apple [+S], Max Ether
+Berries     | Pecha, Rawst [S]
 Projectiles | 
-Seeds       | 
+Seeds       | Totter [S]
 Wands       | 
-Orbs        | 
+Orbs        | All Power-Up [S], Foe-Hold [S]
 Held Items  | 
 TMs         | 
 Special     | 
@@ -130,11 +131,25 @@ Special     |
 ----------------------------------------------------------------
 Lapis Cave
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Apple, Max Ether
+Berries     | Chesto, Pecha
+Projectiles | Geo Pebble
+Seeds       | Eyedrop, Sleep, Tiny Reviver
+Wands       | Slow
+Orbs        | Escape, Foe-Seal, Petrify, Slow, Slumber
+Held Items  | 
+TMs         | Flash Cannon
+Special     | Link Box
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Rock Path
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether [S]
+Berries     | Oran [+S]
+Projectiles | Geo Pebble [+S]
+Seeds       | Tiny Reviver [+S]
+Wands       | Slumber
 Orbs        | 
 Held Items  | 
 TMs         | 
@@ -144,21 +159,21 @@ Special     |
 ----------------------------------------------------------------
 Mt. Blaze
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
+Consumables | Grimy Food, Max Ether
+Berries     | Oran, Pecha
+Projectiles | Geo Pebble [+S], Gravelerock [+S]
 Seeds       | 
-Wands       | 
-Orbs        | 
+Wands       | Stayaway
+Orbs        | Wigglytuff [S]
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Link Box [+S]
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Mt. Blaze Peak
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
@@ -167,31 +182,45 @@ Orbs        |
 Held Items  | 
 TMs         | 
 Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Snow Path
+- - - - - - - - - - - - - - - -
+Consumables | Apple
+Berries     | 
+Projectiles | Geo Pebble
+Seeds       | Sleep, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Link Box
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Frosty Forest
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Max Ether, Zinc [SB]
+Berries     | Oran
 Projectiles | 
-Seeds       | 
+Seeds       | Blast, Stun, Totter
 Wands       | 
-Orbs        | 
+Orbs        | Defense Scarf
 Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
-Frosty Grotto
+Heart of the Frosty Forest
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Apple, Max Ether
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Blast, Tiny Reviver
 Wands       | 
-Orbs        | 
+Orbs        | Slumber
 Held Items  | 
 TMs         | 
 Special     | 
