@@ -10,7 +10,7 @@ Treasure Box drops not shown
 Second part dungeons (e.g. Peaks) have separate data even if they act as continuations on subsequent visits
 
 Items not shown if:
-- Tiny Apple + Food Finder
+- Tiny Apple + Food Finder [Warning: Food Finder can trigger even if it's a client/hungry Pokémon with the ability]
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 STORY DUNGEONS - MAIN GAME
@@ -89,25 +89,25 @@ Special     |
 ----------------------------------------------------------------
 Mt. Thunder
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [SB], Iron [SB], Max Ether
-Berries     | 
+Consumables | Apple, Calcium [SB], Iron [SB], Protein [SB], Max Ether
+Berries     | Oran, Pecha, Rawst
 Projectiles | Gravelerock
-Seeds       | 
-Wands       | Slow
+Seeds       | Blast, Sleep, Tiny Reviver, Training
+Wands       | Slow, Tunnel
 Orbs        | 
 Held Items  | Defense Scarf
-TMs         | 
+TMs         | Charge Beam
 Special     | 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Mt. Thunder Peak
 - - - - - - - - - - - - - - - -
-Consumables | Apple
+Consumables | Apple, Max Ether
 Berries     | Oran
-Projectiles | 
-Seeds       | 
-Wands       | 
+Projectiles | Gravelerock
+Seeds       | Eyedrop
+Wands       | Petrify
 Orbs        | 
 Held Items  | Gold Ribbon [SB], Joy Ribbon
 TMs         | 
@@ -131,13 +131,13 @@ Special     |
 ----------------------------------------------------------------
 Lapis Cave
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Chesto, Pecha
-Projectiles | Geo Pebble
-Seeds       | Eyedrop, Sleep, Tiny Reviver
-Wands       | Slow
-Orbs        | Escape, Foe-Seal, Petrify, Slow, Slumber
-Held Items  | 
+Consumables | Apple, Calcium [SB], Max Elixir [SB], Max Ether
+Berries     | Chesto, Oran, Pecha, Rawst
+Projectiles | Geo Pebble, Gravelerock
+Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver
+Wands       | Slow, Stayaway
+Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Slow, Slumber
+Held Items  | Efficient Bandanna, Mach Ribbon
 TMs         | Flash Cannon
 Special     | Link Box
 ----------------------------------------------------------------
@@ -175,13 +175,13 @@ Mt. Blaze Peak
 - - - - - - - - - - - - - - - -
 Consumables | Max Ether
 Berries     | 
-Projectiles | 
+Projectiles | Gravelerock
 Seeds       | 
-Wands       | 
+Wands       | Slow
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Link Box
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -229,39 +229,39 @@ Special     |
 ----------------------------------------------------------------
 Mt. Freeze
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
+Consumables | Apple, Max Ether
+Berries     | Chesto, Oran
+Projectiles | Geo Pebble
+Seeds       | Stun, Tiny Reviver, Totter
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | Escape, Foe-Seal, Petrify, Slumber
+Held Items  | Detect Band
 TMs         | 
-Special     | 
+Special     | Link Box
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Mt. Freeze Peak
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Max Ether
+Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Link Box
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Uproar Forest
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Chestnut
+Berries     | Cheri
+Projectiles | Geo Pebble
+Seeds       | Totter
+Wands       | Petrify, Stayaway
 Orbs        | 
 Held Items  | 
 TMs         | 
