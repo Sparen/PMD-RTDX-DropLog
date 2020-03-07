@@ -4,7 +4,7 @@ Using a text file like usual since an attempt at a Flask + JSON db was aggravati
 
 Poké not shown. All items alphabetized by category
 
-Shop/Wall/Vault only: [S] [W] [V]
+Shop/Wall/Sparkle Tile (Blue/Gold)/Vault only: [S] [W] [V] [TB] [TG]
 Ground + Shop/Wall, etc: [+S]
 Treasure Box drops not shown
 
@@ -80,13 +80,223 @@ Projectiles | Gravelerock
 Seeds       | Blast, Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Cover Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Mt. Thunder
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Calcium [SB], Iron [SB], Max Ether
+Berries     | 
+Projectiles | Gravelerock
+Seeds       | 
+Wands       | Slow
+Orbs        | 
+Held Items  | Defense Scarf
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Thunder Peak
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Oran
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Gold Ribbon [SB]
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Great Canyon
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Lapis Cave
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Blaze
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Blaze Peak
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Frosty Forest
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Frosty Grotto
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Freeze
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Freeze Peak
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Uproar Forest
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Howling Forest
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Magma Cavern
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Magma Cavern Pit
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Sky Tower
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Sky Tower Summit
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
