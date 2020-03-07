@@ -1,0 +1,140 @@
+Pokémon Mystery Dungeon DX
+
+Using a text file like usual since an attempt at a Flask + JSON db was aggravating
+
+Poké not shown. All items alphabetized by category
+
+Shop/Wall/Vault only: [S] [W] [V]
+Ground + Shop/Wall, etc: [+S]
+Treasure Box drops not shown
+
+Items not shown if:
+- Tiny Apple + Food Finder
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STORY DUNGEONS - MAIN GAME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------------------------------------------------
+Tiny Woods
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Thunderwave Cave
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha
+Projectiles | Gravelerock
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Steel
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha, Rawst
+Projectiles | Gravelerock
+Seeds       | Blast, Sleep, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Sinister Woods
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Big Apple
+Berries     | Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Blast, Sleep
+Wands       | Tunnel
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Silent Chasm
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran, Rawst
+Projectiles | Gravelerock
+Seeds       | Blast, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Mt. Thunder
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STORY DUNGEONS - POSTGAME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EXTRA DUNGEONS - MAIN GAME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------------------------------------------------
+Oddity Cave
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Blast, Sleep, Tiny Reviver
+Wands       | Petrify
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EXTRA DUNGEONS - POSTGAME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------------------------------------------------
+Template
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
