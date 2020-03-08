@@ -11,9 +11,10 @@ Second part dungeons (e.g. Peaks) have separate data even if they act as continu
 
 Items not shown if:
 - Tiny Apple + Food Finder [Warning: Food Finder can trigger even if it's a client/hungry Pokémon with the ability]
+- Monster House
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-STORY DUNGEONS - MAIN GAME
+DUNGEONS - MAIN GAME
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----------------------------------------------------------------
@@ -146,13 +147,13 @@ Special     |
 Lapis Cave
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Calcium [SB], Max Elixir [SB], Max Ether
-Berries     | Chesto, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | Slow, Stayaway
-Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Slow, Slumber
-Held Items  | Efficient Bandanna, Mach Ribbon
-TMs         | Flash Cannon
+Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Slow, Slumber
+Held Items  | Efficient Bandanna, Gold Ribbon [SB], Mach Ribbon, Twist Band
+TMs         | Flash Cannon, Rest
 Special     | Link Box
 ----------------------------------------------------------------
 
@@ -328,11 +329,11 @@ Special     |
 Sky Tower
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple [SB], Max Elixir [SB], Max Ether
-Berries     | Oran
+Berries     | Oran, Pecha
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver [SB], Tiny Reviver [SB]
 Wands       | 
-Orbs        | Foe-Seal, Petrify
+Orbs        | All Dodge, Foe-Hold [SB], Foe-Seal, Nullify, Petrify, Quick, Slumber
 Held Items  | 
 TMs         | 
 Special     | 
@@ -340,6 +341,38 @@ Special     |
 
 ----------------------------------------------------------------
 Sky Tower Summit
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple [SB], Max Elixir [SB], Max Ether
+Berries     | Rawst
+Projectiles | 
+Seeds       | Eyedrop, Reviver [SB], Tiny Reviver
+Wands       | 
+Orbs        | Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+STORY DUNGEONS - POSTGAME
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------------------------------------------------
+Solar Cave
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Stormy Sea
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
@@ -353,12 +386,106 @@ Special     |
 ----------------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-STORY DUNGEONS - POSTGAME
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 EXTRA DUNGEONS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+----------------------------------------------------------------
+Remains Island
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Oran, Rawst
+Projectiles | 
+Seeds       | Eyedrop
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Waterfall Pond
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Desert Region
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Southern Cavern
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Wyvern Hill
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Darknight Relic
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Grand Sea
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Template
