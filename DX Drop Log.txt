@@ -59,6 +59,20 @@ Special     |
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
+Oddity Cave
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Blast, Sleep, Tiny Reviver
+Wands       | Petrify
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
 Sinister Woods
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple
@@ -160,9 +174,9 @@ Special     |
 Mt. Blaze
 - - - - - - - - - - - - - - - -
 Consumables | Grimy Food, Max Ether
-Berries     | Oran, Pecha
+Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble [+S], Gravelerock [+S]
-Seeds       | Sleep, Tiny Reviver
+Seeds       | Eyedrop, Sleep, Tiny Reviver
 Wands       | Petrify, Slow, Stayaway, Whirlwind
 Orbs        | Wigglytuff [S]
 Held Items  | Gold Ribbon [SB]
@@ -201,12 +215,12 @@ Special     | Link Box
 ----------------------------------------------------------------
 Frosty Forest
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether, Zinc [SB]
+Consumables | Apple, Max Ether, Zinc [SB]
 Berries     | Oran
-Projectiles | 
+Projectiles | Geo Pebble
 Seeds       | Blast, Stun, Totter
 Wands       | 
-Orbs        | Defense Scarf
+Orbs        | Defense Scarf, Mach Ribbon
 Held Items  | 
 TMs         | 
 Special     | 
@@ -343,25 +357,7 @@ STORY DUNGEONS - POSTGAME
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-EXTRA DUNGEONS - MAIN GAME
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-----------------------------------------------------------------
-Oddity Cave
-- - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Oran, Pecha, Rawst
-Projectiles | 
-Seeds       | Blast, Sleep, Tiny Reviver
-Wands       | Petrify
-Orbs        | 
-Held Items  | 
-TMs         | 
-Special     | 
-----------------------------------------------------------------
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-EXTRA DUNGEONS - POSTGAME
+EXTRA DUNGEONS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----------------------------------------------------------------
