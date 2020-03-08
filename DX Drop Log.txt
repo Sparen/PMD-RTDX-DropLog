@@ -162,8 +162,8 @@ Mt. Blaze
 Consumables | Grimy Food, Max Ether
 Berries     | Oran, Pecha
 Projectiles | Geo Pebble [+S], Gravelerock [+S]
-Seeds       | 
-Wands       | Stayaway
+Seeds       | Tiny Reviver
+Wands       | Slow, Stayaway, Whirlwind
 Orbs        | Wigglytuff [S]
 Held Items  | 
 TMs         | 
@@ -232,11 +232,11 @@ Mt. Freeze
 Consumables | Apple, Max Ether
 Berries     | Chesto, Oran
 Projectiles | Geo Pebble
-Seeds       | Stun, Tiny Reviver, Totter
+Seeds       | Blast, Stun, Tiny Reviver, Totter
 Wands       | 
-Orbs        | Escape, Foe-Seal, Petrify, Slumber
-Held Items  | Detect Band
-TMs         | 
+Orbs        | Escape, Foe-Seal, Petrify, Rollcall, Slumber
+Held Items  | Detect Band, Mach Ribbon
+TMs         | Hyper Beam
 Special     | Link Box
 ----------------------------------------------------------------
 
@@ -246,9 +246,9 @@ Mt. Freeze Peak
 Consumables | Max Ether
 Berries     | Oran
 Projectiles | 
-Seeds       | 
+Seeds       | Blast, Sleep
 Wands       | 
-Orbs        | 
+Orbs        | Slumber, Totter
 Held Items  | 
 TMs         | 
 Special     | Link Box
@@ -285,14 +285,14 @@ Special     |
 ----------------------------------------------------------------
 Magma Cavern
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
-Orbs        | 
-Held Items  | 
-TMs         | 
+Consumables | Big Apple [SB], Grimy Food, Max Elixir [SB], Max Ether
+Berries     | Chesto, Oran, Rawst
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver
+Wands       | Petrify
+Orbs        | Revive All [SB], Rollcall [SB], Trapbust [SB]
+Held Items  | Cover Band, Nullify Bandanna
+TMs         | Hyper Beam, Solar Beam
 Special     | 
 ----------------------------------------------------------------
 
@@ -300,8 +300,8 @@ Special     |
 Magma Cavern Pit
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | 
-Projectiles | 
+Berries     | Oran
+Projectiles | Geo Pebble
 Seeds       | 
 Wands       | 
 Orbs        | 
@@ -313,12 +313,12 @@ Special     |
 ----------------------------------------------------------------
 Sky Tower
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Big Apple [SB], Max Elixir [SB], Max Ether
+Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | 
+Orbs        | Foe-Seal, Petrify
 Held Items  | 
 TMs         | 
 Special     | 
