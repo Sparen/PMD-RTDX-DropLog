@@ -6,6 +6,7 @@ Poké not shown. All items alphabetized by category
 
 Shop/Wall/Sparkle Tile (Blue/Gold)/Vault only: [S] [W] [V] [TB] [TG]
 Ground + Shop/Wall, etc: [+S]
+Floor only [F:##]
 Treasure Box drops not shown
 Second part dungeons (e.g. Peaks) have separate data even if they act as continuations on subsequent visits
 
@@ -21,7 +22,7 @@ DUNGEONS - MAIN GAME
 Tiny Woods
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | 
+Berries     | Pecha
 Projectiles | 
 Seeds       | 
 Wands       | 
@@ -273,20 +274,20 @@ Special     | Link Box
 Uproar Forest
 - - - - - - - - - - - - - - - -
 Consumables | Chestnut, Tiny Apple
-Berries     | Cheri
-Projectiles | Geo Pebble
-Seeds       | Eyedrop, Totter
+Berries     | Cheri, Pecha
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Eyedrop, Sleep, Totter
 Wands       | Confuse, Petrify, Slow, Slumber, Stayaway
 Orbs        | 
 Held Items  | Cover Band, Lucky Ribbon
-TMs         | 
+TMs         | Fling, Gyro Ball
 Special     | 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Magma Cavern
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple [SB], Grimy Food, Max Elixir [SB], Max Ether
+Consumables | Big Apple [SB], Grimy Food, Max Elixir [SB], Max Ether, Zinc [SB]
 Berries     | Chesto, Oran, Rawst
 Projectiles | Geo Pebble
 Seeds       | Blast, Reviver [SB], Tiny Reviver
@@ -359,16 +360,18 @@ Special     |
 
 ----------------------------------------------------------------
 Solar Cave
+[WARNING: PERISH SONG (Jynx)]
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Max Ether
+Berries     | Cheri, Oran, Pecha
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Quick [S], Reviver [SB]
+Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | 
-TMs         | 
-Special     | 
+Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon
+TMs         | Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
+Special     | Evolution Crystal [S]
+ - Bottom - | Deluxe Box x 2; TM x 3; Held Item x 1
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -419,6 +422,7 @@ Special     |
 
 ----------------------------------------------------------------
 Desert Region
+[WARNING: SHEDINJA]
 - - - - - - - - - - - - - - - -
 Consumables | Max Elixir
 Berries     | 
@@ -461,14 +465,15 @@ Special     |
 
 ----------------------------------------------------------------
 Darknight Relic
+[WARNING: PERISH SONG (Misdreavus); SHEDINJA]
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Persim Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
