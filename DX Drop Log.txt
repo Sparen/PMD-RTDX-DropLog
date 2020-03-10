@@ -108,8 +108,8 @@ Mt. Thunder
 Consumables | Apple, Calcium [SB], Iron [SB], Protein [SB], Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Gravelerock
-Seeds       | Blast, Sleep, Tiny Reviver, Training
-Wands       | Slow, Tunnel
+Seeds       | Blast, Sleep, Tiny Reviver, Totter, Training
+Wands       | Confuse, Petrify, Slow, Tunnel
 Orbs        | 
 Held Items  | Defense Scarf
 TMs         | Charge Beam
@@ -151,9 +151,9 @@ Consumables | Apple, Calcium [SB], Max Elixir [SB], Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver
-Wands       | Slow, Stayaway
+Wands       | Confuse, Slow, Stayaway, Switcher
 Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Slow, Slumber
-Held Items  | Efficient Bandanna, Gold Ribbon [SB], Mach Ribbon, Twist Band
+Held Items  | Efficient Bandanna, Gold Ribbon [SB], Heal Ribbon, Mach Ribbon, Nullify Bandanna, Power Band, Twist Band
 TMs         | Flash Cannon, Rest
 Special     | Link Box
 ----------------------------------------------------------------
@@ -178,11 +178,11 @@ Mt. Blaze
 Consumables | Grimy Food, Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble [+S], Gravelerock [+S]
-Seeds       | Eyedrop, Sleep, Tiny Reviver
+Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | Petrify, Slow, Stayaway, Whirlwind
 Orbs        | Wigglytuff [S]
 Held Items  | Gold Ribbon [SB]
-TMs         | 
+TMs         | Focus Blast
 Special     | Link Box [+S]
 ----------------------------------------------------------------
 
@@ -316,11 +316,11 @@ Special     |
 Sky Tower
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple [SB], Max Elixir [SB], Max Ether
-Berries     | Oran, Pecha
+Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Reviver [SB], Tiny Reviver [SB]
+Seeds       | Eyedrop, Heal, Reviver [SB], Tiny Reviver [SB]
 Wands       | 
-Orbs        | All Dodge, Foe-Hold [SB], Foe-Seal, Nullify, Petrify, Quick, Slumber
+Orbs        | All Dodge, Foe-Hold [+SB], Foe-Seal, Nullify, Petrify, Quick, Revive All [SB], Rollcall [+SB], Slumber, Trapbust [SB], Trawl, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 
@@ -334,7 +334,7 @@ Berries     | Rawst
 Projectiles | 
 Seeds       | Eyedrop, Reviver [SB], Tiny Reviver
 Wands       | 
-Orbs        | Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust
+Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust
 Held Items  | 
 TMs         | 
 Special     | 
@@ -359,22 +359,6 @@ Special     |
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
-Solar Cave
-[WARNING: PERISH SONG (Jynx)]
-- - - - - - - - - - - - - - - -
-Consumables | Max Ether
-Berries     | Cheri, Oran, Pecha
-Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Quick [S], Reviver [SB]
-Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
-Orbs        | 
-Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon
-TMs         | Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
-Special     | Evolution Crystal [S]
- - Bottom - | Deluxe Box x 2; TM x 3; Held Item x 1
-----------------------------------------------------------------
-
-----------------------------------------------------------------
 Stormy Sea
 - - - - - - - - - - - - - - - -
 Consumables | 
@@ -393,6 +377,22 @@ EXTRA DUNGEONS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----------------------------------------------------------------
+Solar Cave
+[WARNING: PERISH SONG (Jynx)]
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | Cheri, Oran, Pecha
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Quick [S], Reviver [SB]
+Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
+Orbs        | 
+Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon
+TMs         | Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
+Special     | Evolution Crystal [S]
+ - Bottom - | Deluxe Box x 2; TM x 3; Held Item x 1
+----------------------------------------------------------------
+
+----------------------------------------------------------------
 Remains Island
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
@@ -408,16 +408,18 @@ Special     |
 
 ----------------------------------------------------------------
 Waterfall Pond
+B10 Mystery House
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
 Projectiles | 
-Seeds       | 
-Wands       | 
-Orbs        | 
-Held Items  | 
+Seeds       | Reviver [SB]
+Wands       | Slow [S]
+Orbs        | All Dodge, Cleanse, Decoy, Foe-Seal [S], Petrify, Rollcall, Wigglytuff [S]
+Held Items  | Efficient Bandanna, Heal Ribbon
 TMs         | 
-Special     | 
+Special     | Evolution Crystal [F:19]
+ - Bottom - | Deluxe Box x 1; Evolution Crystal x 2
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -480,6 +482,20 @@ Special     |
 
 ----------------------------------------------------------------
 Grand Sea
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Far-Off Sea
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
