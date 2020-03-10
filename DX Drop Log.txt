@@ -220,23 +220,23 @@ Frosty Forest
 Consumables | Apple, Max Ether, Zinc [SB]
 Berries     | Oran
 Projectiles | Geo Pebble
-Seeds       | Blast, Stun, Totter
-Wands       | 
-Orbs        | Defense Scarf, Mach Ribbon
-Held Items  | 
+Seeds       | Blast, Stun, Tiny Reviver, Totter
+Wands       | Slow
+Orbs        | Slumber
+Held Items  | Defense Scarf, Heal Ribbon, Mach Ribbon
 TMs         | 
-Special     | 
+Special     | Link Box
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Heart of the Frosty Forest
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | 
-Projectiles | 
+Berries     | Oran
+Projectiles | Geo Pebble
 Seeds       | Blast, Tiny Reviver
 Wands       | 
-Orbs        | Slumber
+Orbs        | Foe-Hold, Nullify, Slumber
 Held Items  | 
 TMs         | 
 Special     | 
@@ -361,13 +361,13 @@ Special     |
 ----------------------------------------------------------------
 Stormy Sea
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | All Power-Up, Decoy, Escape, Foe-Hold, Health, Nullify, Rare Quality, Totter, Trawl
+Held Items  | Efficient Bandanna, Gold Ribbon, Persim Band, Weather Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
@@ -496,14 +496,15 @@ Special     |
 
 ----------------------------------------------------------------
 Far-Off Sea
+[WARNING: GUILLOTINE (Krabby)]
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Elixir
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | Cleanse, Foe-Hold, Foe-Seal, Health, Revive All, Slow, Totter
+Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
