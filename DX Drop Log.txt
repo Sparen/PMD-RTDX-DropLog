@@ -134,9 +134,9 @@ Special     |
 Great Canyon
 - - - - - - - - - - - - - - - -
 Consumables | Apple [+S], Max Ether
-Berries     | Pecha, Rawst [S]
+Berries     | Oran, Pecha, Rawst [S]
 Projectiles | 
-Seeds       | Totter [S]
+Seeds       | Tiny Reviver, Totter [S]
 Wands       | 
 Orbs        | All Power-Up [S], Foe-Hold [S]
 Held Items  | 
@@ -290,10 +290,10 @@ Magma Cavern
 Consumables | Big Apple [SB], Grimy Food, Max Elixir [SB], Max Ether, Zinc [SB]
 Berries     | Chesto, Oran, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Reviver [SB], Tiny Reviver
-Wands       | Petrify
+Seeds       | Blast, Reviver [SB], Tiny Reviver, Training
+Wands       | Petrify, Slow, Slumber, Stayaway
 Orbs        | Health [SB], Revive All [SB], Rollcall [SB], Trapbust [SB]
-Held Items  | Cover Band, Fickle Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
+Held Items  | Cover Band, Defense Scarf, Efficient Bandanna, Fickle Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
 TMs         | Hyper Beam, Solar Beam
 Special     | 
 ----------------------------------------------------------------
@@ -304,7 +304,7 @@ Magma Cavern Pit
 Consumables | 
 Berries     | Oran
 Projectiles | Geo Pebble
-Seeds       | 
+Seeds       | Tiny Reviver [SB]
 Wands       | 
 Orbs        | 
 Held Items  | 
@@ -315,12 +315,12 @@ Special     |
 ----------------------------------------------------------------
 Sky Tower
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple [SB], Max Elixir [SB], Max Ether
-Berries     | Chesto, Oran, Pecha, Rawst
+Consumables | Big Apple [SB], Calcium [SB], Max Elixir [SB], Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Eyedrop, Heal, Reviver [SB], Tiny Reviver [SB]
 Wands       | 
-Orbs        | All Dodge, Foe-Hold [+SB], Foe-Seal, Nullify, Petrify, Quick, Revive All [SB], Rollcall [+SB], Slumber, Trapbust [SB], Trawl, Weather Lock
+Orbs        | All Dodge, Foe-Hold [+SB], Foe-Seal, Nullify [+SB], Petrify, Quick, Revive All [SB], Rollcall [+SB], Slow, Slumber, Trapbust [SB], Trawl, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 
@@ -383,11 +383,11 @@ Solar Cave
 Consumables | Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Quick [S], Reviver [SB]
+Seeds       | Blast, Eyedrop, Quick [S], Reviver [SB], Stun, Totter
 Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon
-TMs         | Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
+Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon, Joy Ribbon, Scope Lens
+TMs         | Earthquake, Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
 Special     | Evolution Crystal [S]
  - Bottom - | Deluxe Box x 2; TM x 3; Held Item x 1
 ----------------------------------------------------------------
@@ -488,7 +488,7 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | 
+Orbs        | Rollcall
 Held Items  | 
 TMs         | 
 Special     | 
