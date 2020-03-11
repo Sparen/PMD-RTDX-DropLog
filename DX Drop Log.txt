@@ -395,13 +395,13 @@ Special     | Evolution Crystal [F:99]
 ----------------------------------------------------------------
 Northern Range
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
+Consumables | Apple, Calcium [SB], Max Elixir, Max Ether
+Berries     | Oran
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Cover Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
