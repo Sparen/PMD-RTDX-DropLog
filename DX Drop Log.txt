@@ -138,10 +138,10 @@ Special     |
 ----------------------------------------------------------------
 Great Canyon
 - - - - - - - - - - - - - - - -
-Consumables | Apple [+S], Max Ether
-Berries     | Oran, Pecha, Rawst [S]
+Consumables | Apple [+S], Max Ether, Zinc [SB]
+Berries     | Cheri, Oran, Pecha, Rawst [S]
 Projectiles | 
-Seeds       | Tiny Reviver, Totter [S]
+Seeds       | Eyedrop, Tiny Reviver, Totter [+S]
 Wands       | 
 Orbs        | All Power-Up [S], Foe-Hold [S]
 Held Items  | 
@@ -180,11 +180,11 @@ Special     |
 ----------------------------------------------------------------
 Mt. Blaze
 - - - - - - - - - - - - - - - -
-Consumables | Grimy Food, Max Ether
+Consumables | Grimy Food, Max Elixir [SB] Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble [+S], Gravelerock [+S]
-Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver
-Wands       | Petrify, Slow, Stayaway, Whirlwind
+Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter
+Wands       | Confuse, Petrify, Slow, Stayaway, Whirlwind
 Orbs        | Wigglytuff [S]
 Held Items  | Gold Ribbon [SB]
 TMs         | Focus Blast
@@ -196,7 +196,7 @@ Mt. Blaze Peak
 - - - - - - - - - - - - - - - -
 Consumables | Max Ether, Grimy Food
 Berries     | 
-Projectiles | Gravelerock
+Projectiles | Geo Pebble, Gravelerock
 Seeds       | 
 Wands       | Slow
 Orbs        | 
@@ -365,7 +365,6 @@ Special     |
 
 ----------------------------------------------------------------
 Stormy Sea
-B12, B32, B33 Mystery House
 - - - - - - - - - - - - - - - -
 Consumables | Calcium [SB], Max Elixir, Max Ether, Zinc [SB]
 Berries     | Sitrus [SB]
@@ -513,15 +512,14 @@ Special     |
 
 ----------------------------------------------------------------
 Waterfall Pond
-B10 Mystery House
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | Reviver [SB]
 Wands       | Slow [S]
-Orbs        | All Dodge, Cleanse, Decoy, Foe-Seal [S], Petrify, Rollcall, Wigglytuff [S]
-Held Items  | Efficient Bandanna, Heal Ribbon
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, Petrify, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
+Held Items  | Efficient Bandanna, Heal Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf
 TMs         | 
 Special     | Evolution Crystal [F:19]
  - Bottom - | Deluxe Box x 1; Evolution Crystal x 2
