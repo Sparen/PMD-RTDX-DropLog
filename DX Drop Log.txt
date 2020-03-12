@@ -438,15 +438,15 @@ Special     |
 ----------------------------------------------------------------
 Fiery Field
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Calcium [SB], Grimy Food, Iron [SB], Max Elixir, Max Ether, Zinc [SB]
+Berries     | Oran, Rawst [+S]
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Heal, Life [SB], Sleep
+Wands       | Pounce
 Orbs        | 
-Held Items  | 
+Held Items  | Efficient Bandanna [+S], Goggle Specs, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
-Special     | 
+Special     | Evolution Crystal [+S]
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -651,7 +651,7 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Cleanse, Foe-Hold, Foe-Seal, Health, Revive All, Slow, Totter
+Orbs        | Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Revive All, Slow, Totter
 Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
 TMs         | 
 Special     | 
@@ -659,20 +659,22 @@ Special     |
 
 ----------------------------------------------------------------
 Joyous Tower
+TODO: Determine if there is a set Escape Orb drop [Current: 1F]
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether, Perfect Apple, Zinc [SB]
 Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
-Orbs        | 
+Projectiles | Geo Pebble, Gravelerock, Silver Spike
+Seeds       | Quick
+Wands       | Slow
+Orbs        | Escape, Rainy
 Held Items  | 
-TMs         | 
+TMs         | Explosion
 Special     | 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
 Purity Forest
+TODO: Determine if there is a set Escape Orb drop 
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
