@@ -155,7 +155,7 @@ Lapis Cave
 Consumables | Apple, Calcium [SB], Max Elixir [SB], Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock
-Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver
+Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver, Totter
 Wands       | Confuse, Petrify, Slow, Stayaway, Switcher
 Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Slow, Slumber
 Held Items  | Cover Band, Detect Band, Efficient Bandanna, Gold Ribbon [SB], Heal Ribbon, Mach Ribbon, Nullify Bandanna, Power Band, Twist Band
@@ -187,7 +187,7 @@ Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter
 Wands       | Confuse, Petrify, Slow, Slumber, Stayaway, Whirlwind
 Orbs        | Wigglytuff [S]
 Held Items  | Gold Ribbon [SB]
-TMs         | Focus Blast
+TMs         | Dragon Claw, Focus Blast
 Special     | Link Box [+S]
 ----------------------------------------------------------------
 
@@ -250,13 +250,13 @@ Special     |
 ----------------------------------------------------------------
 Mt. Freeze
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
+Consumables | Apple, Max Ether, Protein [SB]
 Berries     | Chesto, Oran
 Projectiles | Geo Pebble
 Seeds       | Blast, Sleep, Stun, Tiny Reviver, Totter
-Wands       | Stayaway
+Wands       | Petrify, Stayaway
 Orbs        | Escape, Foe-Hold, Foe-Seal, Petrify, Rollcall, Slumber
-Held Items  | Detect Band, Gold Ribbon [SB], Mach Ribbon
+Held Items  | Detect Band, Gold Ribbon [SB], Heavy Rotation Specs, Mach Ribbon
 TMs         | Hyper Beam
 Special     | Link Box
 ----------------------------------------------------------------
@@ -352,13 +352,13 @@ STORY DUNGEONS - POSTGAME
 ----------------------------------------------------------------
 Howling Forest
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple, Max Ether
+Consumables | Apple, Big Apple, Max Ether
 Berries     | Oran
 Projectiles | 
-Seeds       | Empowerment, Joy [SB], Sleep, Stun, Training
-Wands       | Slumber
+Seeds       | Blast, Empowerment, Joy [SB], Sleep, Stun, Training
+Wands       | Slumber, Stayaway, Surround, Whirlwind
 Orbs        | 
-Held Items  | 
+Held Items  | Efficient Bandanna
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
@@ -379,6 +379,7 @@ Special     |
 
 ----------------------------------------------------------------
 Buried Relic
+{+Wall}
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Carbos [SB], Iron [SB], Max Elixir, Max Ether, Zinc [SB]
 Berries     | Oran, Pecha, Rawst
@@ -408,6 +409,20 @@ Special     |
 
 ----------------------------------------------------------------
 Pitfall Valley
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Carbos [SB], Max Elixir, Max Ether, Zinc [SB]
+Berries     | Oran, Pecha, Rawst
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Joy [SB], Reviver [SB], Tiny Reviver, Totter
+Wands       | Petrify, Warp
+Orbs        | 
+Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Silver Trench
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
@@ -476,6 +491,20 @@ TMs         |
 Special     | 
 ----------------------------------------------------------------
 
+----------------------------------------------------------------
+Wish Cave
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 EXTRA DUNGEONS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -500,12 +529,12 @@ Special     | Evolution Crystal [S]
 Remains Island
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Oran, Rawst
+Berries     | Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Eyedrop
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Efficient Bandanna
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
@@ -570,16 +599,18 @@ Special     |
 
 ----------------------------------------------------------------
 Unown Relic
+{+Wall}
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Apple, Max Ether
+Berries     | Chesto, Oran
 Projectiles | 
-Seeds       | 
+Seeds       | Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
-TMs         | 
+Held Items  | Joy Ribbon
+TMs         | Hidden Power [F:11]
 Special     | 
+ - Bottom - | Pretty Box x 2; TM x 1
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -622,6 +653,34 @@ Seeds       |
 Wands       | 
 Orbs        | Cleanse, Foe-Hold, Foe-Seal, Health, Revive All, Slow, Totter
 Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Joyous Tower
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Purity Forest
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
