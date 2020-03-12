@@ -366,13 +366,13 @@ Special     |
 ----------------------------------------------------------------
 Stormy Sea
 - - - - - - - - - - - - - - - -
-Consumables | Calcium [SB], Max Elixir, Max Ether, Zinc [SB]
+Consumables | Calcium [SB], Carbos [SB], Max Elixir, Max Ether, Zinc [SB]
 Berries     | Sitrus [SB]
 Projectiles | 
 Seeds       | Reviver [SB]
 Wands       | 
-Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Health, Inviting, Nullify, Rare Quality, Rollcall, Slow, Totter, Trawl
-Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Scope Lens, Weather Band, X-Ray Specs
+Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, Petrify, Quick, Rare Quality, Rollcall, Slow, Totter, Trawl
+Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Scope Lens, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
