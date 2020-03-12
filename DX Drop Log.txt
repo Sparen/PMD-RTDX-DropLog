@@ -19,6 +19,9 @@ X-Ray Specs
 - Shows items in walls as well
 - Primarily used post Sky-Tower
 
+Joy Ribbon
+- Apx 2 exp/5 steps
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 DUNGEONS - MAIN GAME
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -384,7 +387,7 @@ Buried Relic
 Consumables | Apple, Carbos [SB], Iron [SB], Max Elixir, Max Ether, Zinc [SB]
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Life [SB], Sleep, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Life [SB], Reviver [SB], Sleep, Stun, Tiny Reviver, Totter, Warp
 Wands       | Petrify, Pounce, Slumber, Stayaway, Two-Edged, Whirlwind
 Orbs        | 
 Held Items  | Efficient Bandanna, Friend Bow [F:99] Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Weather Band, X-Ray Specs
@@ -493,6 +496,21 @@ Special     |
 
 ----------------------------------------------------------------
 Wish Cave
+TODO: Determine if there is a set Escape Orb drop [Current: 1F, 2F, 17F]
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether, Protein [SB]
+Berries     | Cheri, Oran, Pecha, Sitrus [SB]
+Projectiles | Gravelerock, Iron Spike, Silver Spike
+Seeds       | Heal, Stun, Tiny Reviver
+Wands       | HP-Swap, Pounce, Slow, Stayaway, Surround, Switcher
+Orbs        | All Protect, Cleanse, Escape, Hail, Quick, Reset, Rollcall, See-Trap, Slumber, Trapbust
+Held Items  | Efficient Bandanna, Friend Bow, Joy Ribbon, Weather Band
+TMs         | Dark Pulse, Hidden Power
+Special     | 
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+Murky Cave
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
@@ -601,13 +619,13 @@ Special     |
 Unown Relic
 {+Wall}
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Chesto, Oran
+Consumables | Apple, Calcium [W], Carbos [W], Iron [W], Max Ether, Protein [W]
+Berries     | Chesto, Oran, Pecha, Sitrus [W]
 Projectiles | 
 Seeds       | Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Joy Ribbon
+Held Items  | Joy Ribbon, Pecha Scarf
 TMs         | Hidden Power [F:11]
 Special     | 
  - Bottom - | Pretty Box x 2; TM x 1
@@ -617,8 +635,8 @@ Special     |
 Darknight Relic
 [WARNING: PERISH SONG (Misdreavus); SHEDINJA]
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir, Max Ether
-Berries     | 
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
