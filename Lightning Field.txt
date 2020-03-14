@@ -2,7 +2,7 @@
 Lightning Field
 Floors: 30
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Calcium [T], Max Elixir [+S], Max Ether
 Berries     | Chesto, Oran, Pecha [+S], Rawst
