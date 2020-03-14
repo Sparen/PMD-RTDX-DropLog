@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Heart of the Frosty Forest
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran
+Projectiles | Geo Pebble
+Seeds       | Blast, Tiny Reviver
+Wands       | 
+Orbs        | Foe-Hold, Nullify, Slumber
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+Purity Forest
+Floors: 
+Warnings: 
+Wall Items:
+TODO: Determine if there is a set Escape Orb drop 
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

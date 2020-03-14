@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Magma Cavern
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple [T], Grimy Food, Max Elixir [T], Max Ether, Zinc [T]
+Berries     | Chesto, Oran, Rawst
+Projectiles | Geo Pebble
+Seeds       | Blast, Reviver [T], Tiny Reviver, Training
+Wands       | Petrify, Slow, Slumber, Stayaway
+Orbs        | Health [T], Revive All [T], Rollcall [T], Trapbust [T]
+Held Items  | Cover Band, Defense Scarf, Efficient Bandanna, Fickle Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
+TMs         | Hyper Beam, Solar Beam
+Special     | 
+----------------------------------------------------------------

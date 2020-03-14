@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fiery Field
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Calcium [T], Grimy Food, Iron [T], Max Elixir, Max Ether, Zinc [T]
+Berries     | Oran, Rawst [+S]
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Heal, Life [T], Sleep
+Wands       | Pounce
+Orbs        | 
+Held Items  | Efficient Bandanna [+S], Goggle Specs, Recovery Scarf, Weather Band, X-Ray Specs
+TMs         | 
+Special     | Evolution Crystal [+S]
+----------------------------------------------------------------

@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Thunder Peak
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran
+Projectiles | Gravelerock
+Seeds       | Eyedrop
+Wands       | Petrify
+Orbs        | 
+Held Items  | Gold Ribbon [T], Joy Ribbon
+TMs         | 
+Special     | 
+----------------------------------------------------------------

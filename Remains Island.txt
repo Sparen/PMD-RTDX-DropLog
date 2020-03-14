@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Remains Island
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Eyedrop
+Wands       | 
+Orbs        | 
+Held Items  | Efficient Bandanna
+TMs         | 
+Special     | 
+----------------------------------------------------------------

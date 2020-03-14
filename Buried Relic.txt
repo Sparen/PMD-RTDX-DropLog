@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+Buried Relic
+Floors: 
+Warnings: 
+Wall Items: Yes
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Carbos [T], Iron [T], Max Elixir, Max Ether, Zinc [T]
+Berries     | Oran, Pecha, Rawst
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Empowerment, Eyedrop, Life [T], Reviver [T], Sleep, Stun, Tiny Reviver, Totter, Warp
+Wands       | Petrify, Pounce, Slumber, Stayaway, Two-Edged, Whirlwind
+Orbs        | 
+Held Items  | Efficient Bandanna, Friend Bow [F:99] Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Weather Band, X-Ray Specs
+TMs         | Embargo, Fling, Focus Blast, Sky Drop
+Special     | Evolution Crystal [F:99]
+ - Bottom - | Deluxe Box x 4; Evolution Crystal x 8, Friend Bow x 1
+----------------------------------------------------------------

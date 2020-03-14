@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Steel
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha, Rawst
+Projectiles | Gravelerock
+Seeds       | Blast, Sleep, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

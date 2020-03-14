@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Grand Sea
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | Rollcall
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

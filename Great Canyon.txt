@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Great Canyon
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple [+S], Max Ether, Zinc [T]
+Berries     | Cheri, Oran, Pecha, Rawst [S]
+Projectiles | 
+Seeds       | Eyedrop, Tiny Reviver, Totter [+S]
+Wands       | 
+Orbs        | All Power-Up [S], Foe-Hold [S]
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

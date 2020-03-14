@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Pitfall Valley
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Carbos [T], Max Elixir, Max Ether, Zinc [T]
+Berries     | Oran, Pecha, Rawst
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Joy [T], Reviver [T], Tiny Reviver, Totter
+Wands       | Petrify, Warp
+Orbs        | 
+Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+TMs         | 
+Special     | 
+----------------------------------------------------------------

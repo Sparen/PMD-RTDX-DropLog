@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Snow Path
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple
+Berries     | 
+Projectiles | Geo Pebble
+Seeds       | Sleep, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Link Box
+----------------------------------------------------------------

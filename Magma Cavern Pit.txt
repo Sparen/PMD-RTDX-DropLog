@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Magma Cavern Pit
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Oran
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver [T]
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

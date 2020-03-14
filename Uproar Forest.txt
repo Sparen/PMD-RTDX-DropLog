@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Uproar Forest
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Chestnut, Tiny Apple
+Berries     | Cheri, Pecha
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Eyedrop, Sleep, Totter
+Wands       | Confuse, Petrify, Slow, Slumber, Stayaway
+Orbs        | 
+Held Items  | Cover Band, Lucky Ribbon
+TMs         | Fling, Gyro Ball
+Special     | 
+----------------------------------------------------------------

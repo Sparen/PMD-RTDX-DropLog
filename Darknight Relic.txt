@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Darknight Relic
+Floors: 
+Warnings: PERISH SONG [Misdreavus]; Shedinja
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Oran
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Persim Band
+TMs         | 
+Special     | 
+----------------------------------------------------------------

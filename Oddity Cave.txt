@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Oddity Cave
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Blast, Sleep, Tiny Reviver
+Wands       | Petrify
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Far-Off Sea
+Floors: 
+Warnings: GUILLOTINE [Krabby]
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Revive All, Slow, Totter
+Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
+TMs         | 
+Special     | 
+----------------------------------------------------------------

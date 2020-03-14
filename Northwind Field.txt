@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Northwind Field
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

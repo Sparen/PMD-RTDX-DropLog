@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Stormy Sea
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Calcium [T], Carbos [T], Max Elixir, Max Ether, Zinc [T]
+Berries     | Sitrus [T]
+Projectiles | 
+Seeds       | Reviver [T]
+Wands       | 
+Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, Petrify, Quick, Rare Quality, Rollcall, Slow, Totter, Trawl
+Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Scope Lens, Weather Band, X-Ray Specs
+TMs         | 
+Special     | 
+----------------------------------------------------------------

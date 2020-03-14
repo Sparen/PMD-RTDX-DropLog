@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sky Tower Summit
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple [T], Max Elixir [T], Max Ether
+Berries     | Rawst
+Projectiles | 
+Seeds       | Eyedrop, Reviver [T], Tiny Reviver
+Wands       | 
+Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

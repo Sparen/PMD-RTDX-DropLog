@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+Joyous Tower
+Floors: 
+Warnings: 
+Wall Items:
+TODO: Determine if there is a set Escape Orb drop [Current: 1F]
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether, Perfect Apple, Zinc [T]
+Berries     | 
+Projectiles | Geo Pebble, Gravelerock, Silver Spike
+Seeds       | Quick
+Wands       | Slow
+Orbs        | Escape, Rainy
+Held Items  | 
+TMs         | Explosion
+Special     | 
+----------------------------------------------------------------

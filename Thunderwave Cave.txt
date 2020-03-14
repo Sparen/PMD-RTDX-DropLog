@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thunderwave Cave
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha
+Projectiles | Gravelerock
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

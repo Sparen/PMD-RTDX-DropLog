@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Freeze
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether, Protein [T]
+Berries     | Chesto, Oran
+Projectiles | Geo Pebble
+Seeds       | Blast, Sleep, Stun, Tiny Reviver, Totter
+Wands       | Petrify, Stayaway
+Orbs        | Escape, Foe-Hold, Foe-Seal, Petrify, Rollcall, Slumber
+Held Items  | Detect Band, Gold Ribbon [T], Heavy Rotation Specs, Mach Ribbon
+TMs         | Hyper Beam
+Special     | Link Box
+----------------------------------------------------------------

@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Rock Path
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether [S]
+Berries     | Oran [+S]
+Projectiles | Geo Pebble [+S]
+Seeds       | Tiny Reviver [+S]
+Wands       | Slumber
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

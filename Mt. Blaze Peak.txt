@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Blaze Peak
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether, Grimy Food
+Berries     | 
+Projectiles | Geo Pebble, Gravelerock
+Seeds       | 
+Wands       | Slow
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Link Box
+----------------------------------------------------------------

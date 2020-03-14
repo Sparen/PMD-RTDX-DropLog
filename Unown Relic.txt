@@ -1,0 +1,17 @@
+----------------------------------------------------------------
+Unown Relic
+Floors: 
+Warnings: 
+Wall Items: Yes
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Calcium [W], Carbos [W], Iron [W], Max Ether, Protein [W]
+Berries     | Chesto, Oran, Pecha, Sitrus [W]
+Projectiles | 
+Seeds       | Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | Joy Ribbon, Pecha Scarf
+TMs         | Hidden Power [F:11]
+Special     | 
+ - Bottom - | Pretty Box x 2; TM x 1
+----------------------------------------------------------------

@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Blaze
+Floors: 
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Grimy Food, Max Elixir [T], Max Ether, Protein [T]
+Berries     | Cheri, Oran, Pecha
+Projectiles | Geo Pebble [+S], Gravelerock [+S]
+Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter
+Wands       | Confuse, Petrify, Slow, Slumber, Stayaway, Whirlwind
+Orbs        | Wigglytuff [S]
+Held Items  | Gold Ribbon [T]
+TMs         | Dragon Claw, Focus Blast
+Special     | Link Box [+S]
+----------------------------------------------------------------

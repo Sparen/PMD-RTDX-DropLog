@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Desert Region
+Floors: 
+Warnings: SHEDINJA
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mt. Freeze Peak
+Floors: Extension
+Warnings: 
+Wall Items: No
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | Oran
+Projectiles | 
+Seeds       | Blast, Life [T], Sleep
+Wands       | 
+Orbs        | Slumber, Tiny Reviver, Totter
+Held Items  | 
+TMs         | 
+Special     | Link Box
+----------------------------------------------------------------

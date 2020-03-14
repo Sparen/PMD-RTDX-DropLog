@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Northern Range
+Floors: 
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Calcium [T], Max Elixir, Max Ether
+Berries     | Oran
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | Cover Band
+TMs         | 
+Special     | 
+----------------------------------------------------------------
