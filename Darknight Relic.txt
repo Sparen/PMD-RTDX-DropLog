@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Darknight Relic
-Floors: 
+Floors: 15
 Warnings: PERISH SONG [Misdreavus]; Shedinja
 Wall Items:
 - - - - - - - - - - - - - - - -

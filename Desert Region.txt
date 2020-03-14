@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Desert Region
-Floors: 
+Floors: 20
 Warnings: SHEDINJA
 Wall Items:
 - - - - - - - - - - - - - - - -

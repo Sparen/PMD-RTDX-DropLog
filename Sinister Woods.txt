@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Sinister Woods
-Floors: 
+Floors: 13
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -

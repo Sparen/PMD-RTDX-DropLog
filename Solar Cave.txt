@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Solar Cave
-Floors: 
+Floors: 20
 Warnings: PERISH SONG [Jynx]
 Wall Items:
 - - - - - - - - - - - - - - - -

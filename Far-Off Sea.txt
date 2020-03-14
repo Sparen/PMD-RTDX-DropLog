@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Far-Off Sea
-Floors: 
+Floors: 75
 Warnings: GUILLOTINE [Krabby]
 Wall Items:
 - - - - - - - - - - - - - - - -

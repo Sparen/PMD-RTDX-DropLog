@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Thunderwave Cave
-Floors: 
+Floors: 5
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -

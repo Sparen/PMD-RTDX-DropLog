@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 Wish Cave
-Floors: 
+Floors: 99
 Warnings: 
 Wall Items:
 TODO: Determine if there is a set Escape Orb drop [Current: 1F, 2F, 17F]
