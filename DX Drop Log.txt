@@ -560,13 +560,13 @@ Special     |
 ----------------------------------------------------------------
 Waterfall Pond
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir, Max Ether
+Consumables | Calcium [SB], Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | Reviver [SB]
 Wands       | Slow [S]
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, Petrify, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
-Held Items  | Efficient Bandanna, Heal Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, One-Room, Petrify, Quick, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
+Held Items  | Efficient Bandanna, Gold Ribbon [SB], Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | Evolution Crystal [F:19]
  - Bottom - | Deluxe Box x 1; Evolution Crystal x 2
