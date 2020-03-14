@@ -4,13 +4,13 @@ Floors: 30
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
-Orbs        | 
-Held Items  | 
+Consumables | Apple, Calcium [T], Max Elixir [+S], Max Ether
+Berries     | Chesto, Oran, Pecha [+S], Rawst
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Empowerment, Heal, Sleep, Warp
+Wands       | Confuse, Slow [S], Stayaway
+Orbs        | One-Room [S]
+Held Items  | Efficient Bandanna, X-Ray Specs [S]
 TMs         | 
-Special     | 
+Special     | Evolution Crystal [S]
 ----------------------------------------------------------------
