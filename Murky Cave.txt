@@ -1,16 +1,16 @@
 ----------------------------------------------------------------
 Murky Cave
-Floors: 
+Floors: 19
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Apple, Carbos [T], Protein [T]
+Berries     | Cheri, Pecha, Rawst
+Projectiles | Gravelerock, Iron Spike
+Seeds       | Empowerment, Stun, Warp
+Wands       | Petrify, Pounce
 Orbs        | 
-Held Items  | 
+Held Items  | Cover Band, Nullify Bandanna, Persim Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
