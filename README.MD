@@ -26,3 +26,7 @@ Items not shown if:
 X-Ray Specs
 - Shows items in walls as well
 - Primarily used post Sky-Tower
+
+### Other Notes
+
+- Kecleon Shop in Pokémon Square seems to stock permenant stack upgrade items after clearing Murky Cave

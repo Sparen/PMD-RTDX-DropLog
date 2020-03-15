@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
 Northwind Field
-Floors: 
-Warnings: 
-Wall Items:
+Floors: 30
+Warnings: PERISH SONG [Jynx, Politoed]
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
+Consumables | Apple, Carbos [T], Iron [T], Max Ether, Protein [T]
+Berries     | Cheri, Oran, Pecha, Rawst, Sitrus [T]
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
