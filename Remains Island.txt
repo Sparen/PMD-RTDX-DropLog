@@ -2,15 +2,16 @@
 Remains Island
 Floors: 13
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Elixir, Max Ether
-Berries     | Oran, Pecha, Rawst
+Consumables | Apple, Iron [T], Max Elixir, Max Ether
+Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Eyedrop
 Wands       | 
 Orbs        | 
-Held Items  | Efficient Bandanna
-TMs         | 
+Held Items  | Efficient Bandanna, Heal Ribbon
+TMs         | False Swipe [F:13]
 Special     | 
+ - Bottom - | Pretty Box x 2; TM x 1
 ----------------------------------------------------------------

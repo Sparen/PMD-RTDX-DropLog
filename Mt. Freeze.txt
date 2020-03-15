@@ -4,13 +4,13 @@ Floors: 20
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether, Protein [T]
-Berries     | Chesto, Oran
+Consumables | Apple [+S], Max Ether, Protein [T]
+Berries     | Chesto, Oran, Rawst [S]
 Projectiles | Geo Pebble
-Seeds       | Blast, Sleep, Stun, Tiny Reviver, Totter
-Wands       | Petrify, Stayaway
-Orbs        | Escape, Foe-Hold, Foe-Seal, Petrify, Rollcall, Slumber
-Held Items  | Detect Band, Gold Ribbon [T], Heavy Rotation Specs, Mach Ribbon
-TMs         | Hyper Beam
+Seeds       | Blast, Sleep, Stun, Tiny Reviver [+S], Totter
+Wands       | Petrify, Slow, Stayaway
+Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Petrify, Rollcall, Slumber, Totter, Trawl
+Held Items  | Detect Band, Efficient Bandanna, Gold Ribbon [T], Heavy Rotation Specs, Mach Ribbon, Zinc Band [S]
+TMs         | Hyper Beam, Surf
 Special     | Link Box
 ----------------------------------------------------------------
