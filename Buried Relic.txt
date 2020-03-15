@@ -4,13 +4,13 @@ Floors: 99
 Warnings: 
 Wall Items: Yes
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Carbos [T], Iron [T], Max Elixir, Max Ether, Zinc [T]
-Berries     | Oran, Pecha, Rawst
+Consumables | Apple, Calcium [W], Carbos [TW], Iron [TW], Max Elixir, Max Ether, Protein [W], Zinc [TW]
+Berries     | Oran, Pecha, Rawst, Sitrus [W]
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Life [T], Reviver [T], Sleep, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Life [TW], Reviver [T], Sleep, Stun, Tiny Reviver, Totter, Warp
 Wands       | Petrify, Pounce, Slumber, Stayaway, Two-Edged, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Friend Bow [F:99] Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Friend Bow [F:99] Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Weather Band, X-Ray Specs
 TMs         | Embargo, Fling, Focus Blast, Sky Drop
 Special     | Evolution Crystal [F:99]
  - Bottom - | Deluxe Box x 4; Evolution Crystal x 8, Friend Bow x 1
