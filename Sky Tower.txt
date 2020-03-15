@@ -5,11 +5,11 @@ Warnings:
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple [T], Calcium [T], Max Elixir [T], Max Ether
-Berries     | Cheri, Chesto, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst, Sitrus [T]
 Projectiles | 
 Seeds       | Eyedrop, Heal, Reviver [T], Tiny Reviver [T]
 Wands       | 
-Orbs        | All Dodge, Foe-Hold [+F], Foe-Seal, Nullify [+F], Petrify, Quick, Revive All [T], Rollcall [+F], Slow, Slumber, Trapbust [T], Trawl, Weather Lock
+Orbs        | All Dodge, Foe-Hold [+T], Foe-Seal, Nullify [+T], Petrify, Quick, Revive All [T], Rollcall [+T], Slow, Slumber, Totter, Trapbust [T], Trawl, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 

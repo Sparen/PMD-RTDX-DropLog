@@ -7,9 +7,9 @@ Wall Items: No
 Consumables | Big Apple [T], Max Elixir [T], Max Ether
 Berries     | Rawst
 Projectiles | 
-Seeds       | Eyedrop, Reviver [T], Tiny Reviver
+Seeds       | Eyedrop, Reviver [T], Tiny Reviver [+T]
 Wands       | 
-Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust
+Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 

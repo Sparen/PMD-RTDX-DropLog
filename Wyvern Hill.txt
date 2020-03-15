@@ -5,9 +5,9 @@ Warnings:
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Calcium [W], Max Ether
-Berries     | Chesto, Oran,  Pecha [+S], Rawst
+Berries     | Chesto, Oran, Pecha [+S], Rawst
 Projectiles | Geo Pebble [S]
-Seeds       | Decoy [S], Empowerment, Eyedrop, Tiny Reviver, Totter
+Seeds       | Decoy [S], Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
 Wands       | Switcher
 Orbs        | Evasion [S], See-Trap [S]
 Held Items  | Efficient Bandanna
