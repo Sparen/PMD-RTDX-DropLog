@@ -2,15 +2,16 @@
 Grand Sea
 Floors: 30
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Calcium [F:30], Carbos [F:30], Iron [F:30], Max Elixir, Max Ether, Protein [F:30,T], Zinc [F:30,T]
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Rollcall
-Held Items  | 
+Orbs        | Cleanse, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, Nullify, One-Room, Petrify, Rollcall, Slow, Totter
+Held Items  | Efficient Bandanna, Scope Lens
 TMs         | 
 Special     | 
+ - Bottom - | Deluxe Box x 2; Vitamin x 5
 ----------------------------------------------------------------

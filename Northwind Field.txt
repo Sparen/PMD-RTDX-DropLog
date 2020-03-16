@@ -4,13 +4,13 @@ Floors: 30
 Warnings: PERISH SONG [Jynx, Politoed]
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Carbos [T], Iron [T], Max Ether, Protein [T]
-Berries     | Cheri, Oran, Pecha, Rawst, Sitrus [T]
+Consumables | Apple, Carbos [T], Iron [T], Max Elixir [S], Max Ether, Protein [T]
+Berries     | Cheri, Oran, Pecha [+S], Rawst, Sitrus [T]
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Sleep, Tiny Reviver
-Wands       | 
+Seeds       | Blast, Sleep, Tiny Reviver [+S]
+Wands       | Pounce [S]
 Orbs        | 
 Held Items  | 
-TMs         | 
+TMs         | Aerial Ace [S], Double Team [S], Focus Blast [S]
 Special     | 
 ----------------------------------------------------------------
