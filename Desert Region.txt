@@ -2,15 +2,16 @@
 Desert Region
 Floors: 20
 Warnings: SHEDINJA
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
-Orbs        | 
-Held Items  | 
+Consumables | Big Apple [S], Calcium [T], Carbos [T], Max Elixir [+S], Max Ether, Protein [T]
+Berries     | Oran, Pecha
+Projectiles | Geo Pebble, Golden Fossil [F:20], Golden Spike [F:20], Iron Spike
+Seeds       | Blast, Empowerment, Eyedrop, Reviver [T], Tiny Reviver, Totter
+Wands       | Confuse, Tunnel, Whirlwind
+Orbs        | All Dodge [S], Evasion [S]
+Held Items  | Persim Band, Scope Lens
 TMs         | 
-Special     | 
+Special     | Evolution Crystal [S]
+  - Top -   | Deluxe Box x 1; Golden Fossil x 20; Golden Spike x 20
 ----------------------------------------------------------------
