@@ -1,16 +1,16 @@
 ----------------------------------------------------------------
 Mt. Faraway
-Floors: 
+Floors: 60
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
-Wands       | 
+Consumables | Apple, Calcium [T], Iron [T], Max Elixir, Max Ether, Zinc [T]
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst, Sitrus [T]
+Projectiles | Geo Pebble
+Seeds       | Blast, Empowerment, Eyedrop, Heal [+T], Sleep, Tiny Reviver, Warp
+Wands       | Slumber, Surround
 Orbs        | 
-Held Items  | 
+Held Items  | Efficient Bandanna, Nullify Bandanna, Recovery Scarf, Weather Band
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
