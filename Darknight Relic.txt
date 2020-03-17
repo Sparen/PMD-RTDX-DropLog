@@ -5,12 +5,13 @@ Warnings: PERISH SONG [Misdreavus]; Shedinja
 Wall Items:
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Oran
+Berries     | Oran, Rawst
 Projectiles | 
-Seeds       | 
-Wands       | 
+Seeds       | Blast
+Wands       | HP-Swap, Stayaway
 Orbs        | 
-Held Items  | Persim Band
-TMs         | 
+Held Items  | Efficient Bandanna, Persim Band
+TMs         | Brutal Swing [F:15], Dark Pulse [F:15], Shadow Ball [F:15], Sludge Bomb [F:15], Snarl [F:15]
 Special     | 
+ - Bottom - | Deluxe Box x 1; TM x 5
 ----------------------------------------------------------------
