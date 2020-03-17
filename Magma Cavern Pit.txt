@@ -4,10 +4,24 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | Oran
 Projectiles | Geo Pebble
-Seeds       | Tiny Reviver [T]
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

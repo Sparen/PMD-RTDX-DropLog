@@ -4,13 +4,39 @@ Floors: 30
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
-Consumables | Calcium [T], Grimy Food, Iron [T], Max Elixir, Max Ether, Zinc [T]
-Berries     | Oran, Rawst [+S]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Grimy Food, Max Elixir, Max Ether
+Berries     | Oran, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Heal, Life [T], Sleep
+Seeds       | Blast, Eyedrop, Heal, Sleep
 Wands       | Pounce
 Orbs        | 
-Held Items  | Efficient Bandanna [+S], Goggle Specs, Recovery Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
-Special     | Evolution Crystal [+S]
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Rawst
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Efficient Bandanna
+TMs         | 
+Special     | Evolution Crystal
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Iron, Zinc
+Berries     | 
+Projectiles | 
+Seeds       | Life
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
 ----------------------------------------------------------------

@@ -4,6 +4,8 @@ Floors: 99
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
 Projectiles | 

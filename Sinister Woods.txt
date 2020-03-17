@@ -4,6 +4,8 @@ Floors: 13
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 

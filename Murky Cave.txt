@@ -4,13 +4,27 @@ Floors: 19
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Carbos [T], Protein [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple
 Berries     | Cheri, Pecha, Rawst
 Projectiles | Gravelerock, Iron Spike
 Seeds       | Empowerment, Stun, Warp
 Wands       | Petrify, Pounce
 Orbs        | 
 Held Items  | Cover Band, Nullify Bandanna, Persim Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos, Protein
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

@@ -2,16 +2,53 @@
 Waterfall Pond
 Floors: 19
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Calcium [T], Max Elixir, Max Ether
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
-Seeds       | Reviver [T]
-Wands       | Slow [S]
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, One-Room, Nullify, Petrify, Quick, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
-Held Items  | Efficient Bandanna, Gold Ribbon [T], Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
+Seeds       | 
+Wands       | 
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal, Inviting, One-Room, Nullify, Petrify, Quick, Revive All, Rollcall, Slumber, Totter
+Held Items  | Efficient Bandanna, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
-Special     | Evolution Crystal [F:19]
- - Bottom - | Deluxe Box x 1; Evolution Crystal x 2
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | Slow
+Orbs        | Foe-Seal, Wigglytuff
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium
+Berries     | 
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | 
+Held Items  | Gold Ribbon
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | Evolution Crystal x 2
+Special     | Deluxe Box x 1
 ----------------------------------------------------------------

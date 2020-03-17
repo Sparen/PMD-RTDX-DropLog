@@ -4,13 +4,27 @@ Floors: 60
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [T], Iron [T], Max Elixir, Max Ether, Zinc [T]
-Berries     | Cheri, Chesto, Oran, Pecha, Rawst, Sitrus [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Empowerment, Eyedrop, Heal [+T], Sleep, Tiny Reviver, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Warp
 Wands       | Slumber, Surround
 Orbs        | 
 Held Items  | Efficient Bandanna, Nullify Bandanna, Recovery Scarf, Weather Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Iron, Zinc
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Heal
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

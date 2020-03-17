@@ -4,6 +4,8 @@ Floors: 3
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | Pecha
 Projectiles | 

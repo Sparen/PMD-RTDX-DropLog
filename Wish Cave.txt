@@ -5,13 +5,27 @@ Warnings:
 Wall Items:
 TODO: Determine if there is a set Escape Orb drop [Current: 1F, 2F, 17F]
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether, Protein [T]
-Berries     | Cheri, Oran, Pecha, Sitrus [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha
 Projectiles | Gravelerock, Iron Spike, Silver Spike
 Seeds       | Heal, Stun, Tiny Reviver
 Wands       | HP-Swap, Pounce, Slow, Stayaway, Surround, Switcher
 Orbs        | All Protect, Cleanse, Escape, Hail, Quick, Reset, Rollcall, See-Trap, Slumber, Trapbust
 Held Items  | Efficient Bandanna, Friend Bow, Joy Ribbon, Weather Band
 TMs         | Dark Pulse, Hidden Power
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Protein
+Berries     | Sitrus
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
 Special     | 
 ----------------------------------------------------------------

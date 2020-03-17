@@ -4,6 +4,56 @@ Floors:
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Wall
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
 Projectiles | 

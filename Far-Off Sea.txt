@@ -4,6 +4,8 @@ Floors: 75
 Warnings: GUILLOTINE [Krabby]
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Max Elixir
 Berries     | 
 Projectiles | 

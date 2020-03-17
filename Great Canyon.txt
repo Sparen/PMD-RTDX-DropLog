@@ -4,12 +4,38 @@ Floors: 12
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple [+S], Max Ether, Zinc [T]
-Berries     | Cheri, Oran, Pecha, Rawst [S]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Cheri, Oran, Pecha
 Projectiles | 
-Seeds       | Eyedrop, Tiny Reviver, Totter [+S]
+Seeds       | Eyedrop, Tiny Reviver, Totter
 Wands       | 
-Orbs        | All Power-Up [S], Foe-Hold [S]
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Apple
+Berries     | Rawst
+Projectiles | 
+Seeds       | Totter
+Wands       | 
+Orbs        | All Power-Up, Foe-Hold
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Zinc
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
 Held Items  | 
 TMs         | 
 Special     | 

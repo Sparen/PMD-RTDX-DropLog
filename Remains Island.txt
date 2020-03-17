@@ -4,14 +4,39 @@ Floors: 13
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Iron [T], Max Elixir, Max Ether
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Eyedrop
 Wands       | 
 Orbs        | 
 Held Items  | Efficient Bandanna, Heal Ribbon
-TMs         | False Swipe [F:13]
+TMs         | 
 Special     | 
- - Bottom - | Pretty Box x 2; TM x 1
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Iron
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | False Swipe x 1
+Special     | Pretty Box x 2
 ----------------------------------------------------------------

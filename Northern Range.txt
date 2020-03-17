@@ -4,13 +4,27 @@ Floors: 25
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [T], Max Elixir, Max Ether
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Cover Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

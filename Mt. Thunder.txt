@@ -4,13 +4,39 @@ Floors: 13
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple [+S], Calcium [T], Iron [T], Protein [T], Max Elixir [T], Max Ether [+S]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
-Projectiles | Gravelerock [+S]
-Seeds       | Blast, Eyedrop [+S], Sleep, Tiny Reviver, Totter, Training
+Projectiles | Gravelerock
+Seeds       | Blast, Eyedrop, Sleep, Tiny Reviver, Totter, Training
 Wands       | Confuse, Petrify, Slow, Tunnel
-Orbs        | Rollcall [S], Wigglytuff [S]
-Held Items  | Defense Scarf [+S], Heavy Rotation Specs [+S]
+Orbs        | 
+Held Items  | Defense Scarf, Heavy Rotation Specs
 TMs         | Charge Beam
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | 
+Projectiles | Gravelerock
+Seeds       | Eyedrop
+Wands       | 
+Orbs        | Rollcall, Wigglytuff
+Held Items  | Defense Scarf, Heavy Rotation Specs
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Iron, Protein, Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
 Special     | 
 ----------------------------------------------------------------

@@ -4,6 +4,8 @@ Floors: 15
 Warnings: PERISH SONG [Misdreavus]; Shedinja
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Rawst
 Projectiles | 
@@ -11,7 +13,18 @@ Seeds       | Blast
 Wands       | HP-Swap, Stayaway
 Orbs        | 
 Held Items  | Efficient Bandanna, Persim Band
-TMs         | Brutal Swing [F:15], Dark Pulse [F:15], Shadow Ball [F:15], Sludge Bomb [F:15], Snarl [F:15]
+TMs         | 
 Special     | 
- - Bottom - | Deluxe Box x 1; TM x 5
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | Brutal Swing x 1, Dark Pulse x 1, Shadow Ball x 1, Sludge Bomb x 1, Snarl x 1
+Special     | Deluxe Box x 1
 ----------------------------------------------------------------

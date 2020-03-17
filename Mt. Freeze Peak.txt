@@ -4,13 +4,27 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Elixir [T], Max Ether, Protein [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | 
-Seeds       | Blast, Life [T], Sleep
+Seeds       | Blast, Sleep
 Wands       | 
 Orbs        | Slumber, Tiny Reviver, Totter
 Held Items  | 
 TMs         | 
 Special     | Link Box
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir, Protein
+Berries     | 
+Projectiles | 
+Seeds       | Life
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
 ----------------------------------------------------------------

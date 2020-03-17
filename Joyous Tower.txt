@@ -5,7 +5,9 @@ Warnings:
 Wall Items:
 TODO: Determine if there is a set Escape Orb drop [Current: 1F]
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether, Perfect Apple, Zinc [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether, Perfect Apple
 Berries     | 
 Projectiles | Geo Pebble, Gravelerock, Silver Spike
 Seeds       | Quick
@@ -13,5 +15,17 @@ Wands       | Slow
 Orbs        | Escape, Rainy
 Held Items  | 
 TMs         | Explosion
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Zinc
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
 Special     | 
 ----------------------------------------------------------------

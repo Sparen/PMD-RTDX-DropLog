@@ -4,14 +4,39 @@ Floors: 11
 Warnings: 
 Wall Items: Yes
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [W], Carbos [W], Iron [W], Max Ether, Protein [W]
-Berries     | Chesto, Oran, Pecha, Sitrus [W]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Chesto, Oran, Pecha
 Projectiles | 
 Seeds       | Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Joy Ribbon, Pecha Scarf
-TMs         | Hidden Power [F:11]
+TMs         | 
 Special     | 
- - Bottom - | Pretty Box x 2; TM x 1
+- - - - - - - - - - - - - - - -
+Wall
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Carbos, Iron, Protein
+Berries     | Sitrus
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | Hidden Power x 1
+Special     | Pretty Box x 2
 ----------------------------------------------------------------

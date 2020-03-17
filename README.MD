@@ -7,11 +7,6 @@ All data is stored in plain text.
 ### Storage Notes
 Poké not shown. All items alphabetized by category
 
-Annotations:
-* Shop/Wall/Vault/Sparkle Tile only: [S] [W] [V] [T]
-* Ground + Shop/Wall, etc: [+S]
-* Floor only [F:##]
-
 Treasure Box drops not shown
 
 Second part dungeons (e.g. Peaks) are treated separately

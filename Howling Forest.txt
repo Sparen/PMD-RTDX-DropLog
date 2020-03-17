@@ -4,13 +4,27 @@ Floors: 15
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether
 Berries     | Oran
 Projectiles | 
-Seeds       | Blast, Empowerment, Joy [T], Sleep, Stun, Training
+Seeds       | Blast, Empowerment, Sleep, Stun, Training
 Wands       | Slumber, Stayaway, Surround, Whirlwind
 Orbs        | 
 Held Items  | Efficient Bandanna
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | Hoy
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

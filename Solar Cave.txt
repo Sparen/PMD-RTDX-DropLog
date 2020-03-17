@@ -4,14 +4,51 @@ Floors: 20
 Warnings: PERISH SONG [Jynx]
 Wall Items:
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Quick [S], Reviver [T], Stun, Totter
+Seeds       | Blast, Eyedrop, Stun, Totter
 Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Friend Bow [F:20], Gold Ribbon, Heal Ribbon, Joy Ribbon, Scope Lens
-TMs         | Earthquake, Energy Ball [F:20], Flamethrower [F:20], Ice Beam [F:20]
-Special     | Evolution Crystal [S]
- - Bottom - | Deluxe Box x 2; TM x 3; Held Item x 1
+Held Items  | Efficient Bandanna, Gold Ribbon, Heal Ribbon, Joy Ribbon, Scope Lens
+TMs         | Earthquake
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | Quick
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Evolution Crystal
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Friend Bow x 1
+TMs         | Energy Ball x 1, Flamethrower x 1, Ice Beam x 1
+Special     | Deluxe Box x 2
 ----------------------------------------------------------------

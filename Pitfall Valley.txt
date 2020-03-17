@@ -4,13 +4,27 @@ Floors: 25
 Warnings: 
 Wall Items:
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Carbos [T], Max Elixir, Max Ether, Zinc [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Joy [T], Reviver [T], Tiny Reviver, Totter
+Seeds       | Blast, Tiny Reviver, Totter
 Wands       | Petrify, Warp
 Orbs        | 
 Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos, Zinc
+Berries     | 
+Projectiles | 
+Seeds       | Joy, Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

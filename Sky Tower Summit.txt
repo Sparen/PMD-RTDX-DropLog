@@ -4,12 +4,26 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple [T], Max Elixir [T], Max Ether
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
 Berries     | Rawst
 Projectiles | 
-Seeds       | Eyedrop, Reviver [T], Tiny Reviver [+T]
+Seeds       | Eyedrop, Tiny Reviver
 Wands       | 
 Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust, Weather Lock
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | Reviver, Tiny Reviver
+Wands       | 
+Orbs        | 
 Held Items  | 
 TMs         | 
 Special     | 

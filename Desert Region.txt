@@ -4,14 +4,51 @@ Floors: 20
 Warnings: SHEDINJA
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple [S], Calcium [T], Carbos [T], Max Elixir [+S], Max Ether, Protein [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir, Max Ether
 Berries     | Oran, Pecha
-Projectiles | Geo Pebble, Golden Fossil [F:20], Golden Spike [F:20], Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Reviver [T], Tiny Reviver, Totter
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Blast, Empowerment, Eyedrop, Tiny Reviver, Totter
 Wands       | Confuse, Tunnel, Whirlwind
-Orbs        | All Dodge [S], Evasion [S]
+Orbs        | 
 Held Items  | Persim Band, Scope Lens
 TMs         | 
-Special     | Evolution Crystal [S]
-  - Top -   | Deluxe Box x 1; Golden Fossil x 20; Golden Spike x 20
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | All Dodge, Evasion
+Held Items  | 
+TMs         | 
+Special     | Evolution Crystal
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Carbos, Protein
+Berries     | 
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | Golden Fossil x 20, Golden Spike x 20
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Deluxe Box x 1
 ----------------------------------------------------------------

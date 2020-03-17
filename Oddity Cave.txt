@@ -4,6 +4,8 @@ Floors: 8
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | 

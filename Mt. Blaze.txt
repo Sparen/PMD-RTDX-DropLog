@@ -4,13 +4,39 @@ Floors: 15
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Grimy Food, Max Elixir [T], Max Ether, Protein [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Grimy Food, Max Ether
 Berries     | Cheri, Oran, Pecha
-Projectiles | Geo Pebble [+S], Gravelerock [+S]
+Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter
 Wands       | Confuse, Petrify, Slow, Slumber, Stayaway, Whirlwind
-Orbs        | Wigglytuff [S]
-Held Items  | Gold Ribbon [T]
+Orbs        | 
+Held Items  | 
 TMs         | Dragon Claw, Focus Blast
-Special     | Link Box [+S]
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | Geo Pebble, Gravelerock
+Seeds       | 
+Wands       | 
+Orbs        | Wigglytuff
+Held Items  | 
+TMs         | 
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir, Protein
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Gold Ribbon
+TMs         | 
+Special     | 
 ----------------------------------------------------------------

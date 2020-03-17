@@ -4,7 +4,9 @@ Floors: 30
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Calcium [F:30], Carbos [F:30], Iron [F:30], Max Elixir, Max Ether, Protein [F:30,T], Zinc [F:30,T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
@@ -13,5 +15,28 @@ Orbs        | Cleanse, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, Nullify, One
 Held Items  | Efficient Bandanna, Scope Lens
 TMs         | 
 Special     | 
- - Bottom - | Deluxe Box x 2; Vitamin x 5
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Protein, Zinc
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | Calcium x 1, Carbos x 1, Iron x 1, Protein x 1, Zinc x 1
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Deluxe Box x 2
 ----------------------------------------------------------------

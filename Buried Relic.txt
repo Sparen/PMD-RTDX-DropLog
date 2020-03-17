@@ -4,14 +4,63 @@ Floors: 99
 Warnings: 
 Wall Items: Yes
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [W], Carbos [TW], Iron [TW], Max Elixir, Max Ether, Protein [W], Zinc [TW]
-Berries     | Oran, Pecha, Rawst, Sitrus [W]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Life [TW], Reviver [T], Sleep, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Warp
 Wands       | Petrify, Pounce, Slumber, Stayaway, Two-Edged, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Friend Bow [F:99] Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Weather Band, X-Ray Specs
 TMs         | Embargo, Fling, Focus Blast, Sky Drop
-Special     | Evolution Crystal [F:99]
- - Bottom - | Deluxe Box x 4; Evolution Crystal x 8, Friend Bow x 1
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos, Iron, Zinc
+Berries     | 
+Projectiles | 
+Seeds       | Life, Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Wall
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Life
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Friend Bow x 1
+TMs         | 
+Special     | Deluxe Box x 4, Evolution Crystal x 8
 ----------------------------------------------------------------

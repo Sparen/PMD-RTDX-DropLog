@@ -4,6 +4,8 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Max Ether, Grimy Food
 Berries     | 
 Projectiles | Geo Pebble, Gravelerock

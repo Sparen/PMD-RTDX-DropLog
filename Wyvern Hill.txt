@@ -4,14 +4,51 @@ Floors: 30
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Calcium [W], Max Ether
-Berries     | Chesto, Oran, Pecha [+S], Rawst
-Projectiles | Geo Pebble [S]
-Seeds       | Decoy [S], Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Chesto, Oran, Pecha, Rawst
+Projectiles | Geo Pebble
+Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
 Wands       | Switcher
-Orbs        | Evasion [S], See-Trap [S]
+Orbs        | 
 Held Items  | Efficient Bandanna
 TMs         | 
 Special     | 
-  - Top -   | Deluxe Box x 5
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Pecha
+Projectiles | Geo Pebble
+Seeds       | Decoy
+Wands       | 
+Orbs        | Evasion, See-Trap
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Deluxe Box x 5
 ----------------------------------------------------------------

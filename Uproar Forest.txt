@@ -4,6 +4,8 @@ Floors: 4
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Chestnut, Tiny Apple
 Berries     | Cheri, Pecha
 Projectiles | Geo Pebble, Iron Spike

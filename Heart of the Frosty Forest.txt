@@ -4,6 +4,8 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble

@@ -4,12 +4,26 @@ Floors: 34
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple [T], Calcium [T], Max Elixir [T], Max Ether
-Berries     | Cheri, Chesto, Oran, Pecha, Rawst, Sitrus [T]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst, 
 Projectiles | 
-Seeds       | Eyedrop, Heal, Reviver [T], Tiny Reviver [T]
+Seeds       | Eyedrop, Heal
 Wands       | 
-Orbs        | All Dodge, Foe-Hold [+T], Foe-Seal, Nullify [+T], Petrify, Quick, Revive All [T], Rollcall [+T], Slow, Slumber, Totter, Trapbust [T], Trawl, Weather Lock
+Orbs        | All Dodge, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Rollcall, Slow, Slumber, Totter, Trawl, Weather Lock
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Calcium, Max Elixir
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Reviver, Tiny Reviver
+Wands       | 
+Orbs        | Foe-Hold, Nullify, Revive All, Rollcall, Trapbust
 Held Items  | 
 TMs         | 
 Special     | 

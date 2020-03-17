@@ -4,11 +4,25 @@ Floors:
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether [S]
-Berries     | Oran [+S]
-Projectiles | Geo Pebble [+S]
-Seeds       | Tiny Reviver [+S]
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | Oran
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver
 Wands       | Slumber
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | Oran
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver
+Wands       | 
 Orbs        | 
 Held Items  | 
 TMs         | 

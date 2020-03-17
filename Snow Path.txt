@@ -4,6 +4,8 @@ Floors:
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple
 Berries     | 
 Projectiles | Geo Pebble

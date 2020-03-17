@@ -4,13 +4,39 @@ Floors: Extension
 Warnings: 
 Wall Items: No
 - - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
 Berries     | Oran
-Projectiles | Gravelerock [+S]
-Seeds       | Eyedrop, Stun, Tiny Reviver [S]
+Projectiles | Gravelerock
+Seeds       | Eyedrop, Stun
 Wands       | Petrify
-Orbs        | Petrify [S]
-Held Items  | Cover Band [S], Gold Ribbon [T], Joy Ribbon
+Orbs        | 
+Held Items  | Joy Ribbon
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | Gravelerock
+Seeds       | Tiny Reviver
+Wands       | 
+Orbs        | Petrify
+Held Items  | Cover Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
