@@ -6,11 +6,11 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
 Berries     | Oran
-Projectiles | Gravelerock
-Seeds       | Eyedrop
+Projectiles | Gravelerock [+S]
+Seeds       | Eyedrop, Stun, Tiny Reviver [S]
 Wands       | Petrify
-Orbs        | 
-Held Items  | Gold Ribbon [T], Joy Ribbon
+Orbs        | Petrify [S]
+Held Items  | Cover Band [S], Gold Ribbon [T], Joy Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

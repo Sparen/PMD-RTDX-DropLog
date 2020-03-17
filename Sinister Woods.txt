@@ -5,9 +5,9 @@ Warnings:
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple
-Berries     | Oran, Pecha, Rawst
+Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Blast, Sleep
+Seeds       | Blast, Sleep, Tiny Reviver
 Wands       | Petrify, Tunnel
 Orbs        | 
 Held Items  | 

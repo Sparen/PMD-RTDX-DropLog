@@ -9,7 +9,7 @@ Berries     |
 Projectiles | 
 Seeds       | Reviver [T]
 Wands       | Slow [S]
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, One-Room, Petrify, Quick, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal [+S], Inviting, One-Room, Nullify, Petrify, Quick, Revive All, Rollcall, Slumber, Totter, Wigglytuff [S]
 Held Items  | Efficient Bandanna, Gold Ribbon [T], Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | Evolution Crystal [F:19]
