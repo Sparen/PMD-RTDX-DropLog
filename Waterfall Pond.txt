@@ -11,26 +11,26 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Foe-Seal, Inviting, One-Room, Nullify, Petrify, Quick, Revive All, Rollcall, Slumber, Totter
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, One-Room, Nullify, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slumber, Totter
 Held Items  | Efficient Bandanna, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Big Apple, Max Elixir
 Berries     | 
 Projectiles | 
 Seeds       | 
-Wands       | Slow
-Orbs        | Foe-Seal, Wigglytuff
-Held Items  | 
-TMs         | 
-Special     | 
+Wands       | Slow, Tunnel, Two-Edged
+Orbs        | Drought, Foe-Seal, Inviting, Rare Quality, Reset, Trapbust, Wigglytuff
+Held Items  | Weather Band
+TMs         | Rock Slide, Sandstorm, Swords Dance
+Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium
+Consumables | Calcium, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | Reviver

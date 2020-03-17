@@ -18,12 +18,12 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
 Projectiles | Geo Pebble, Gravelerock
-Seeds       | 
+Seeds       | Stun
 Wands       | 
-Orbs        | Wigglytuff
+Orbs        | All Dodge, Nullify, Slumber, Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | Link Box

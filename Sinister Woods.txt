@@ -6,7 +6,7 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Big Apple
+Consumables | Apple, Big Apple, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Sleep, Tiny Reviver
