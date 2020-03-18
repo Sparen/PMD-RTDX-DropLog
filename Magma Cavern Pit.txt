@@ -10,7 +10,7 @@ Consumables |
 Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | 
-Wands       | 
+Wands       | Petrify
 Orbs        | 
 Held Items  | 
 TMs         | 
@@ -18,7 +18,7 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Big Apple
 Berries     | 
 Projectiles | 
 Seeds       | Tiny Reviver

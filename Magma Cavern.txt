@@ -18,12 +18,12 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple, Max Elixir, Zinc
+Consumables | Big Apple, Carbos, Max Elixir, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Reviver, Tiny Reviver
 Wands       | 
-Orbs        | Health, Revive All, Rollcall, Trapbust
+Orbs        | Health, Revive All, Rollcall, Totter, Trapbust
 Held Items  | 
 TMs         | 
 Special     | 
