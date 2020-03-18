@@ -11,6 +11,8 @@ Treasure Box drops not shown
 
 Second part dungeons (e.g. Peaks) are treated separately
 
+Pickup treated as Floor
+
 Items not shown if:
 - Tiny Apple + Food Finder
 - Monster House

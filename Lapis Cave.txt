@@ -18,7 +18,7 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium [T], Max Elixir
+Consumables | Calcium, Max Elixir
 Berries     | 
 Projectiles | 
 Seeds       | 

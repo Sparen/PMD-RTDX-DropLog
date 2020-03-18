@@ -2,9 +2,45 @@
 Southern Cavern
 Floors: 50
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Cheri, Oran, Pecha, Rawst
+Projectiles | 
+Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Warp
+Wands       | Slumber
+Orbs        | 
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Persim Band, Scope Lens
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | Pecha
+Projectiles | 
+Seeds       | Quick, Reviver, Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | Persim Band
+TMs         | Light Screen
+Special     | Evolution Crystal
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos, Zinc
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
@@ -13,6 +49,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | 
-Special     | 
+TMs         | Focus Blast x 1
+Special     | Deluxe Box x 2, Evolution Crystal x 5
 ----------------------------------------------------------------

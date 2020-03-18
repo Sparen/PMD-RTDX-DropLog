@@ -2,14 +2,26 @@
 Silver Trench
 Floors: 99
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
+Wands       | 
+Orbs        | All Protect, Foe-Hold, Helper, Slumber, Storage
+Held Items  | Cover Band, Heal Ribbon, Joy Ribbon, Pecha Scarf, Recovery Scarf, Weather Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
