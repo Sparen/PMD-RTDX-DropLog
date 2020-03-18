@@ -10,7 +10,7 @@ Consumables | Max Elixir, Max Ether
 Berries     | Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Tiny Reviver, Totter
-Wands       | Confuse, Tunnel, Whirlwind
+Wands       | Confuse, Stayaway, Tunnel, Whirlwind
 Orbs        | 
 Held Items  | Persim Band, Scope Lens
 TMs         | 
@@ -19,13 +19,13 @@ Special     |
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple, Max Elixir
-Berries     | 
+Berries     | Cheri
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | All Dodge, Evasion
-Held Items  | 
-TMs         | 
+Held Items  | Efficient Bandanna
+TMs         | Dream Eater
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile

@@ -19,7 +19,7 @@ Special     |
 Tile
 - - - - - - - - - - - - - - - -
 Consumables | Carbos, Zinc
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Joy, Reviver
 Wands       | 

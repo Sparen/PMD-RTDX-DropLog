@@ -7,12 +7,12 @@ Wall Items:
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Oran
+Berries     | Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver
-Wands       | 
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver
+Wands       | HP-Swap, Pounce, Slumber, Whirlwind
 Orbs        | 
-Held Items  | Cover Band
+Held Items  | Cover Band, Efficient Bandanna, Heal Ribbon, Insomniscope, Scope Lens
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -24,7 +24,7 @@ Projectiles |
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

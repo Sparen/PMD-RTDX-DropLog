@@ -2,12 +2,12 @@
 Howling Forest
 Floors: 15
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether
-Berries     | Oran
+Berries     | Oran, Pecha
 Projectiles | 
 Seeds       | Blast, Empowerment, Sleep, Stun, Training
 Wands       | Slumber, Stayaway, Surround, Whirlwind
@@ -21,7 +21,7 @@ Tile
 Consumables | 
 Berries     | 
 Projectiles | 
-Seeds       | Hoy
+Seeds       | Joy
 Wands       | 
 Orbs        | 
 Held Items  | 
