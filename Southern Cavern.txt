@@ -10,7 +10,7 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Warp
-Wands       | Slumber
+Wands       | Slumber, Stayaway
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Persim Band, Scope Lens
 TMs         | 
