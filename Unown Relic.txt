@@ -9,17 +9,29 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Chesto, Oran, Pecha
 Projectiles | 
-Seeds       | Sleep, Tiny Reviver
+Seeds       | Eyedrop, Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Joy Ribbon, Pecha Scarf, Recovery Scarf
+Held Items  | Goggle Specs, Joy Ribbon, Pecha Scarf, Recovery Scarf
 TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Chesto
+Projectiles | Geo Pebble
+Seeds       | Energy, Reviver, Stun
+Wands       | Stayaway
+Orbs        | 
+Held Items  | Efficient Bandanna, Goggle Specs, 
+TMs         | Calm Mind
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
 Consumables | Carbos
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | 
 Wands       | 

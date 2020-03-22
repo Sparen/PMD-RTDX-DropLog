@@ -2,14 +2,26 @@
 Western Cave
 Floors: 20
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Max Ether
+Berries     | Oran, Pecha, Rawst
+Projectiles | Geo Pebble
+Seeds       | Blast, Empowerment, Eyedrop
+Wands       | Stayaway
+Orbs        | 
+Held Items  | Efficient Bandanna, Goggle Specs, Persim Band, Recovery Scarf, Weather Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Protein
+Berries     | Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 
