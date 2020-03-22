@@ -6,13 +6,13 @@ Wall Items:
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether
+Consumables | Apple, Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Eyedrop, Stun, Totter
-Wands       | Petrify, Stayaway, Surround, Switcher, Tunnel, Two-Edged
+Seeds       | Blast, Empowerment, Eyedrop, Stun, Tiny Reviver, Totter
+Wands       | Petrify, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Gold Ribbon, Heal Ribbon, Joy Ribbon, Scope Lens
+Held Items  | Efficient Bandanna, Gold Ribbon, Heal Ribbon, Joy Ribbon, Persim Band, Scope Lens
 TMs         | Earthquake
 Special     | 
 - - - - - - - - - - - - - - - -

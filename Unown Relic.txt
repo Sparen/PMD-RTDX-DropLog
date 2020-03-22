@@ -6,22 +6,34 @@ Wall Items: Yes
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
+Consumables | Apple, Max Elixir, Max Ether
 Berries     | Chesto, Oran, Pecha
 Projectiles | 
-Seeds       | Tiny Reviver
+Seeds       | Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Joy Ribbon, Pecha Scarf
+Held Items  | Joy Ribbon, Pecha Scarf, Recovery Scarf
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Wall
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Iron, Protein
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 

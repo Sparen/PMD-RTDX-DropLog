@@ -10,8 +10,20 @@ Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Sleep, Tiny Reviver
-Wands       | Petrify
+Wands       | Petrify, Slow
 Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | Rawst
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | 
