@@ -2,17 +2,41 @@
 Far-Off Sea
 Floors: 75
 Warnings: GUILLOTINE [Krabby]
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir
+Consumables | Max Elixir, Max Ether
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Revive All, Slow, Totter
-Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, One-Room, Quick, Revive All, Rollcall, Slow, Slumber, Totter
+Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Persim Band, Recovery Scarf, Scope Lens
 TMs         | 
 Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Zinc
+Berries     | Sitrus
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | Accuracy Drink x 1, Power Drink x 1, PP Up Drink x 1
+Berries     | 
+Projectiles | 
+Seeds       | Life Seed x 2
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Deluxe Box x 3
 ----------------------------------------------------------------
