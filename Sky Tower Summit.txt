@@ -11,7 +11,7 @@ Berries     | Rawst
 Projectiles | 
 Seeds       | Eyedrop, Tiny Reviver
 Wands       | 
-Orbs        | All Power-Up, Foe-Hold, Foe-Seal, Nullify, Quick, Rollcall, Slumber, Trapbust, Weather Lock
+Orbs        | All Dodge, All Power-Up, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Rollcall, Slumber, Trapbust, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 
@@ -21,7 +21,7 @@ Tile
 Consumables | Big Apple, Max Elixir
 Berries     | 
 Projectiles | 
-Seeds       | Reviver, Tiny Reviver
+Seeds       | Eyedrop, Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

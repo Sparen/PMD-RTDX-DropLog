@@ -9,7 +9,7 @@ Floor
 Consumables | Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst, 
 Projectiles | 
-Seeds       | Eyedrop, Heal
+Seeds       | Eyedrop, Heal, Tiny Reviver
 Wands       | 
 Orbs        | All Dodge, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Rollcall, Slow, Slumber, Totter, Trawl, Weather Lock
 Held Items  | 

@@ -7,12 +7,12 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Cheri, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Warp
-Wands       | Slumber, Stayaway
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Warp
+Wands       | Pounce, Slumber, Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Persim Band, Scope Lens
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Persim Band, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -30,7 +30,7 @@ Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Zinc
+Consumables | Carbos, Iron, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Reviver

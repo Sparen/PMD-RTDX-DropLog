@@ -10,7 +10,7 @@ Consumables | Grimy Food, Max Elixir, Max Ether
 Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep
-Wands       | Pounce, Surround
+Wands       | Guiding, Pounce, Surround
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Persim Band, Nullify Bandanna, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 

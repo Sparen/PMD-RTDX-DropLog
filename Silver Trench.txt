@@ -11,8 +11,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Protect, Foe-Hold, Helper, Slumber, Storage
-Held Items  | Cover Band, Heal Ribbon, Joy Ribbon, Pecha Scarf, Recovery Scarf, Weather Band
+Orbs        | All Protect, Foe-Hold, Helper, Inviting, Reset, Rollcall, Slow, Slumber, Storage, Weather Lock
+Held Items  | Cover Band, Efficient Bandanna, Goggle Specs, Heal Ribbon, Joy Ribbon, Pecha Scarf, Recovery Scarf, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -24,7 +24,7 @@ Projectiles |
 Seeds       | Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
