@@ -11,8 +11,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, One-Room, Nullify, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slumber, Totter
-Held Items  | Efficient Bandanna, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, One-Room, Nullify, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -22,15 +22,15 @@ Consumables | Big Apple, Max Elixir
 Berries     | 
 Projectiles | 
 Seeds       | 
-Wands       | Slow, Tunnel, Two-Edged
-Orbs        | Drought, Foe-Seal, Inviting, Rare Quality, Reset, Trapbust, Wigglytuff
-Held Items  | Weather Band
-TMs         | Rock Slide, Sandstorm, Swords Dance
+Wands       | Pounce, Slow, Surround, Tunnel, Two-Edged
+Orbs        | Bank, Drought, Foe-Seal, Inviting, One-Shot, Rare Quality, Reset, Trapbust, Wigglytuff
+Held Items  | Efficient Bandanna, Weather Band
+TMs         | Aurora Veil, Earthquake, Fire Blast, Reflect, Rock Slide, Sandstorm, Swords Dance
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Zinc
+Consumables | Calcium, Carbos, Iron, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | Reviver

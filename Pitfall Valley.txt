@@ -2,7 +2,7 @@
 Pitfall Valley
 Floors: 25
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
@@ -10,9 +10,21 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Tiny Reviver, Totter
-Wands       | Petrify, Warp
+Wands       | Confuse, Petrify, Slumber, Stayaway, Tunnel, Warp
 Orbs        | 
 Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -24,7 +36,7 @@ Projectiles |
 Seeds       | Joy, Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Deluxe Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

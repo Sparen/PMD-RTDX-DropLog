@@ -2,12 +2,12 @@
 Northern Range
 Floors: 25
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Oran, Pecha
+Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | HP-Swap, Pounce, Slumber, Whirlwind
@@ -18,7 +18,7 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium
+Consumables | Calcium, Protein
 Berries     | 
 Projectiles | 
 Seeds       | 
