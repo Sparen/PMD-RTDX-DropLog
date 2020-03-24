@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Mt. Faraway
 Floors: 60
-Warnings: 
+Warnings: PERISH SONG [Absol], SHEER COLD [Glalie]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -9,10 +9,10 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Warp
-Wands       | Slumber, Surround
+Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Warp
+Wands       | Pounce, Slow, Slumber, Stayaway, Surround, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Nullify Bandanna, Recovery Scarf, Weather Band
+Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Recovery Scarf, Scope Lens, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

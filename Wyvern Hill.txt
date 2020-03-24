@@ -10,9 +10,9 @@ Consumables | Apple, Max Ether
 Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
 Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
-Wands       | Switcher
+Wands       | Slumber, Switcher
 Orbs        | 
-Held Items  | Efficient Bandanna
+Held Items  | Efficient Bandanna, Persim Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
