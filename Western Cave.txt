@@ -6,13 +6,13 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether
+Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble
 Seeds       | Blast, Empowerment, Eyedrop
 Wands       | Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Persim Band, Recovery Scarf, Weather Band
+Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Persim Band, Recovery Scarf, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

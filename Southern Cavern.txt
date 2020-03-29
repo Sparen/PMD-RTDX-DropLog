@@ -21,7 +21,7 @@ Shop
 Consumables | Max Elixir
 Berries     | Pecha
 Projectiles | 
-Seeds       | Quick, Reviver, Tiny Reviver
+Seeds       | Pure, Quick, Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Persim Band
@@ -30,7 +30,7 @@ Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Iron, Zinc
+Consumables | Calcium, Carbos, Iron, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Reviver

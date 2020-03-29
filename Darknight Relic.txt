@@ -1,18 +1,30 @@
 ----------------------------------------------------------------
 Darknight Relic
 Floors: 15
-Warnings: PERISH SONG [Misdreavus]; Shedinja
-Wall Items:
+Warnings: PERISH SONG [Misdreavus]; SHEDINJA; PERISH SONG + SHEDINJA
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Rawst
 Projectiles | 
-Seeds       | Blast
+Seeds       | Blast, Eyedrop, Stun
 Wands       | HP-Swap, Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Persim Band
+Held Items  | Efficient Bandanna, Heal Ribbon, Persim Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Iron
+Berries     | Sitrus
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

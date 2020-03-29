@@ -7,7 +7,7 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | Pecha
+Berries     | Oran, Pecha
 Projectiles | 
 Seeds       | 
 Wands       | 
