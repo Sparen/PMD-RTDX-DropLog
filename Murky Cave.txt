@@ -6,22 +6,34 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple
-Berries     | Cheri, Pecha, Rawst
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Gravelerock, Iron Spike
-Seeds       | Empowerment, Stun, Warp
-Wands       | Petrify, Pounce
+Seeds       | Empowerment, Sleep, Stun, Warp
+Wands       | Petrify, Pounce, Tunnel, Warp
 Orbs        | 
-Held Items  | Cover Band, Nullify Bandanna, Persim Band
+Held Items  | Cover Band, Joy Ribbon, Nullify Bandanna, Persim Band
 TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | Cheri
+Projectiles | Geo Pebble, Iron Spike
+Seeds       | Tiny Reviver
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | Aurora Veil, Smart Strike
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
 Consumables | Carbos, Protein
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 
