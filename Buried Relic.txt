@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Buried Relic
 Floors: 99
-Warnings: 
+Warnings: SHEDINJA
 Wall Items: Yes
 - - - - - - - - - - - - - - - -
 Floor
@@ -9,10 +9,10 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Warp
-Wands       | Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Two-Edged, Warp, Whirlwind
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Two-Edged, Warp, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Recovery Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
 TMs         | Embargo, False Swipe, Fling, Focus Blast, Sky Drop, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,11 +21,11 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Cheri, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | 
+Seeds       | Tiny Reviver
 Wands       | Pounce, Stayaway
-Orbs        | One-Room, Rare Quality, Revive All, Wigglytuff
-Held Items  | Efficient Bandanna, Insomniscope
-TMs         | Aurora Veil, Giga Impact, Protect
+Orbs        | All Dodge, One-Room, Rare Quality, Revive All, Wigglytuff
+Held Items  | Efficient Bandanna, Insomniscope, X-Ray Specs
+TMs         | Aurora Veil, Giga Impact, Protect, Return
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
@@ -33,7 +33,7 @@ Tile
 Consumables | Carbos, Iron, Protein, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | Life, Reviver
+Seeds       | Heal, Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Deluxe Ribbon

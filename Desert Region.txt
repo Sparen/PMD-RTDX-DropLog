@@ -6,13 +6,13 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir, Max Ether
+Consumables | Grimy Food, Max Elixir, Max Ether
 Berries     | Chesto, Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
-Wands       | Confuse, Petrify, Pounce, Slumber, Stayaway, Tunnel, Whirlwind
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Petrify, Pounce, Slumber, Stayaway, Tunnel, Two-Edged, Whirlwind
 Orbs        | 
-Held Items  | Persim Band, Scope Lens, X-Ray Specs
+Held Items  | Efficient Bandanna, Joy Ribbon, Pecha Scarf, Persim Band, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

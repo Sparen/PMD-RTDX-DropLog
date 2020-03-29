@@ -7,12 +7,12 @@ Wall Items:
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Grimy Food, Max Elixir, Max Ether
-Berries     | Chesto, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep
-Wands       | Guiding, Pounce, Surround
+Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Warp
+Wands       | Guiding, Pounce, Slumber, Surround
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Persim Band, Nullify Bandanna, Recovery Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -22,10 +22,10 @@ Consumables | Big Apple
 Berries     | Cheri, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | 
-Wands       | 
-Orbs        | 
+Wands       | HP-Swap, Pounce
+Orbs        | See-Trap
 Held Items  | Efficient Bandanna
-TMs         | Sludge Wave
+TMs         | Dragon Tail, Sludge Wave
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
@@ -33,7 +33,7 @@ Tile
 Consumables | Calcium, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Life
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
