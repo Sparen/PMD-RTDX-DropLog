@@ -1,26 +1,38 @@
 ----------------------------------------------------------------
 Joyous Tower
-Floors: 
-Warnings: 
+Floors: 99
+Warnings: BUG BITE [Weedle]
 Wall Items:
-TODO: Determine if there is a set Escape Orb drop [Current: 1F]
+TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 36F]
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether, Perfect Apple
-Berries     | 
-Projectiles | Geo Pebble, Gravelerock, Silver Spike
-Seeds       | Quick
-Wands       | Slow
-Orbs        | Escape, Rainy
-Held Items  | 
-TMs         | Explosion
+Consumables | Apple, Big Apple, Max Ether, Perfect Apple
+Berries     | Cheri, Oran, Pecha, Rawst
+Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
+Seeds       | Ban, Doom, Empowerment, Eyedrop, Joy, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Guiding, HP-Swap, Pounce, Slow, Slumber, Stayaway, Switcher, Warp, Whirlwind
+Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Hail, Health, Nullify, Radar, Rainy, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Trawl, Weather Lock
+Held Items  | Gold Ribbon, Lock-On Specs, Sneak Scarf, Zinc Band
+TMs         | Explosion, False Swipe, Fling, Hail, Nature Power, Scald, Sunny Day
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Elixir, Max Ether
+Berries     | Chesto, Pecha
+Projectiles | 
+Seeds       | Empowerment, Eyedrop, Joy, Pure, Quick, Reviver, Tiny Reviver, Warp
+Wands       | Petrify, Slow, Switcher, Tunnel, Whirlwind
+Orbs        | All Power-Up, Drought, Foe-Hold, Hail, Lasso, Reset, Rollcall, Slow, Slumber, Trapbust, Weather Lock
+Held Items  | Insomniscope, Lock-On Specs
+TMs         | Giga Impact, Gyro Ball, Safeguard, Shadow Claw, Thunderbolt, Torment
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Zinc
-Berries     | 
+Consumables | Calcium, Carbos, Zinc
+Berries     | Sitrus
 Projectiles | 
 Seeds       | 
 Wands       | 
