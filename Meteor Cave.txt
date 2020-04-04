@@ -2,14 +2,26 @@
 Meteor Cave
 Floors: 20
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Apple, Max Elixir
+Berries     | Cheri, Chesto, Oran, Rawst
+Projectiles | 
+Seeds       | Blast, Eyedrop, Tiny Reviver, Totter, Warp
+Wands       | 
+Orbs        | 
+Held Items  | Cover Band, Recovery Scarf, Scope Lens
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Calcium, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
