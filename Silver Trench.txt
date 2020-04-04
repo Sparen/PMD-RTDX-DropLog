@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Silver Trench
 Floors: 99
-Warnings: 
+Warnings: GUILLOTINE [Krabby]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -11,17 +11,17 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Protect, Foe-Hold, Helper, Inviting, Reset, Rollcall, Slow, Slumber, Storage, Weather Lock
-Held Items  | Cover Band, Efficient Bandanna, Goggle Specs, Heal Ribbon, Joy Ribbon, Pecha Scarf, Recovery Scarf, Weather Band
+Orbs        | All Dodge, All Power-Up, All Protect, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Helper, Inviting, Lasso, Nullify, One-Room, Reset, Revive All, Rollcall, Slow, Slumber, Storage, Totter, Trawl, Weather Lock
+Held Items  | Cover Band, Efficient Bandanna, Goggle Specs, Heal Ribbon, Joy Ribbon, Munch Belt, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Stamina Band, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos
+Consumables | Calcium, Carbos, Iron, Protein
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Heal, Joy, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Gold Ribbon
