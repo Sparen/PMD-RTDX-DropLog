@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Meteor Cave
+Floors: 20
+Warnings: 
+Wall Items:
+- - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------
