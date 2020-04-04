@@ -1,24 +1,24 @@
 ----------------------------------------------------------------
 Fantasy Strait
 Floors: 25
-Warnings: 
-Wall Items:
+Warnings: SHEDINJA
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
-Projectiles | 
+Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Quick, Revive All, Slow, Slumber
+Held Items  | Cover Band, Efficient Bandanna
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Calcium
 Berries     | 
 Projectiles | 
 Seeds       | 
@@ -30,13 +30,13 @@ Special     |
 - - - - - - - - - - - - - - - -
 Dungeon End
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Accuracy Drink x 1, Power Drink x 1, PP-Up Drink x 1
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | 
-Special     | 
+TMs         | Blizzard x 1, Fire Blast x 1, Thunder x 1
+Special     | Deluxe Box x 5
 ----------------------------------------------------------------
