@@ -2,26 +2,26 @@
 Marvelous Sea
 Floors: 18
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | 
-Projectiles | 
+Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | Escape, Nullify, Quick, Rare Quality
+Held Items  | Cover Band, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Calcium
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
@@ -38,5 +38,5 @@ Wands       |
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Evolution Crystal x 5, Deluxe Box x 2
 ----------------------------------------------------------------
