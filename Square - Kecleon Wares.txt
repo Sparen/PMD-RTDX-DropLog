@@ -11,6 +11,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | 
+TMs         | Dragon Claw, Flash Cannon, Giga Impact, Psychic, Shadow Claw, Stone Edge, Wild Charge
 Special     | 
 ----------------------------------------------------------------

@@ -11,5 +11,5 @@ Wands       |
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Bronze Dojo Ticket
 ----------------------------------------------------------------

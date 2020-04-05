@@ -5,11 +5,11 @@ NOTE: Postgame observations only
 Other
 - - - - - - - - - - - - - - - -
 Consumables | Calcium, Carbos, Iron, Protein, Zinc
-Berries     | 
-Projectiles | 
-Seeds       | 
+Berries     | Oran
+Projectiles | Gravelerock
+Seeds       | Tiny Reviver
 Wands       | 
-Orbs        | 
+Orbs        | Mobile
 Held Items  | 
 TMs         | 
 Special     | Invitation

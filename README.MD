@@ -18,10 +18,10 @@ Second part dungeons (e.g. Peaks) are treated separately
 Pickup treated as Floor
 
 Items not shown if:
-- Treasure Box drops by Pokémon  
 - Tiny Apple + Food Finder  
 - Monster House  
-- Drop-only (e.g. Abra Max Ether)  
+- Drop-only (e.g. Abra Max Ether, Pretty Box, Deluxe Box)  
+- Delivery request item (they are always spawned on the floor of the request)  
 
 ### Notes on Specific Items
 
@@ -32,3 +32,5 @@ X-Ray Specs
 ### Other Notes
 
 - Kecleon Shop in Pokémon Square seems to stock permenant stack upgrade items after clearing Murky Cave
+- Boxes are not sorted by dungeon or acquisition method in logs  
+- All rescue requests are aggregated regardless of dungeon or rank  

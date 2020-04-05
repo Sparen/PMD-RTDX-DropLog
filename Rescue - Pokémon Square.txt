@@ -3,13 +3,13 @@ Standard Rescue - Pelipper Post Office Request Board
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Accuracy Drink, Calcium, Carbos, Iron, Max Elixir, Perfect Apple, Power Drink, PP-Up Drink, Protein, Zinc
+Berries     | Pecha, Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Ban, Blast, Energy, Life, Reviver, Tiny Reviver, Training, Violent
 Wands       | 
-Orbs        | 
-Held Items  | 
+Orbs        | Helper, Revive All, Weather Lock
+Held Items  | Efficient Bandanna, Fickle Specs, Fierce Bandanna, Insomniscope, Joy Ribbon, No-Stick Cap, Zinc Band
 TMs         | 
-Special     | 
+Special     | Bronze Dojo Ticket, Silver Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------

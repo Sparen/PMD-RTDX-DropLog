@@ -279,13 +279,15 @@ def loadItems():
 	itemlist.append(Item("X-Scissor", "", "TMs", "tm"))
 	# Special
 	itemlist.append(Item("Bronze Dojo Ticket", "Bronze Dojo Ticket", "Special", "ticket"))
+	itemlist.append(Item("Silver Dojo Ticket", "Silver Dojo Ticket", "Special", "silverdojoticket"))
+	itemlist.append(Item("Gold Dojo Ticket", "Gold Dojo Ticket", "Special", "golddojoticket"))
+	itemlist.append(Item("Rainbow Gummi", "Rainbow Gummi", "Special", "rainbowgummi"))
+	itemlist.append(Item("DX Gummi", "DX Gummi", "Special", "goldgummi"))
+	itemlist.append(Item("Pretty Box", "Pretty Box", "Special", "prettybox"))
 	itemlist.append(Item("Deluxe Box", "Deluxe Box", "Special", "box"))
 	itemlist.append(Item("Evolution Crystal", "Evolution Crystal", "Special", "evolutioncrystal"))
-	itemlist.append(Item("Gold Dojo Ticket", "Gold Dojo Ticket", "Special", "golddojoticket"))
 	itemlist.append(Item("Invitation", "Invitation", "Special", "invitation"))
 	itemlist.append(Item("Link Box", "Link Box", "Special", "linkbox"))
-	itemlist.append(Item("Pretty Box", "Pretty Box", "Special", "prettybox"))
-	itemlist.append(Item("Silver Dojo Ticket", "Silver Dojo Ticket", "Special", "silverdojoticket"))
 
 	return itemlist
 

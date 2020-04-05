@@ -12,7 +12,7 @@ Projectiles |
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Warp
 Wands       | Pounce, Slumber, Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Persim Band, Scope Lens, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
