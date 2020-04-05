@@ -178,11 +178,11 @@ def loadItems():
 	itemlist.append(Item("Bronze Dojo Ticket", "Bronze Dojo Ticket", "Special", "ticket"))
 	itemlist.append(Item("Deluxe Box", "Deluxe Box", "Special", "box"))
 	itemlist.append(Item("Evolution Crystal", "Evolution Crystal", "Special", "evolutioncrystal"))
-	itemlist.append(Item("Gold Dojo Ticket", "Gold Dojo Ticket", "Special", "goldticket"))
+	itemlist.append(Item("Gold Dojo Ticket", "Gold Dojo Ticket", "Special", "golddojoticket"))
 	itemlist.append(Item("Invitation", "Invitation", "Special", "invitation"))
 	itemlist.append(Item("Link Box", "Link Box", "Special", "linkbox"))
 	itemlist.append(Item("Pretty Box", "Pretty Box", "Special", "prettybox"))
-	itemlist.append(Item("Silver Dojo Ticket", "Silver Dojo Ticket", "Special", "silverticket"))
+	itemlist.append(Item("Silver Dojo Ticket", "Silver Dojo Ticket", "Special", "silverdojoticket"))
 
 	return itemlist
 
@@ -191,7 +191,7 @@ def loadItems():
 def getDungeons():
 	dungeonlist = []
 	dungeonlist.append("Buried Relic")
-	dungeonlist.append("Darkight Relic")
+	dungeonlist.append("Darknight Relic")
 	dungeonlist.append("Desert Region")
 	dungeonlist.append("Fantasy Strait")
 	dungeonlist.append("Far-Off Sea")
@@ -204,7 +204,7 @@ def getDungeons():
 	dungeonlist.append("Joyous Tower")
 	dungeonlist.append("Lapis Cave")
 	dungeonlist.append("Lightning Field")
-	dungeonlist.append("Manga Cavern Pit")
+	dungeonlist.append("Magma Cavern Pit")
 	dungeonlist.append("Magma Cavern")
 	dungeonlist.append("Marvelous Sea")
 	dungeonlist.append("Meteor Cave")
@@ -243,3 +243,13 @@ def getDungeons():
 	dungeonlist.append("Wyvern Hill")
 	
 	return dungeonlist
+
+# Returns the item object based on the DROP NAME
+# Intended use is mapping text in the drop logs to the item objects
+def getItemByName(name, itemlist):
+	for item in itemlist:
+		if item.dropname == name:
+			return item
+	print("Unable to find item " + name + " in item list")
+	return None
+	
