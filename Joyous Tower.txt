@@ -3,7 +3,7 @@ Joyous Tower
 Floors: 99
 Warnings: BUG BITE [Ariados, Pineco, Weedle], FISSURE [Camerupt], PLUCK [Doduo, Fearow], SHEER COLD [Glalie]
 Wall Items:
-TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 72F]
+TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 99F]
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
