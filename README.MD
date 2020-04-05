@@ -4,19 +4,24 @@ This is a personal database of all item drops in Pokémon Mystery Dungeon Rescue
 
 All data is stored in plain text.
 
+### Compiling Report
+
+Compile the report from the logs by running `python3 reportgen.py`
+
 ### Storage Notes
 Poké not shown. All items alphabetized by category
 
-Treasure Box drops not shown
+Treasure Box shown separately from dungeon drops.
 
 Second part dungeons (e.g. Peaks) are treated separately
 
 Pickup treated as Floor
 
 Items not shown if:
-- Tiny Apple + Food Finder
-- Monster House
-- Drop-only (e.g. Abra Max Ether)
+- Treasure Box drops by Pokémon  
+- Tiny Apple + Food Finder  
+- Monster House  
+- Drop-only (e.g. Abra Max Ether)  
 
 ### Notes on Specific Items
 
