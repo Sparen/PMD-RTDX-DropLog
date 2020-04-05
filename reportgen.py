@@ -62,7 +62,7 @@ for dname in dungeons:
 # Write table using items
 print("Now generating report...")
 for item in items:
-	report.write("<tr><td><img src='img/" + item.imagename + ".png'></td><td>" + item.name + "</td><td>")
+	report.write("<tr><td style='text-align:center'><img src='img/" + item.imagename + ".png'></td><td>" + item.name + "</td><td>")
 	report.write("Floor: " + ', '.join(item.floordrops))
 	if len(item.shopdrops) > 0:
 		report.write("<br>Shop: " + ', '.join(item.shopdrops))
