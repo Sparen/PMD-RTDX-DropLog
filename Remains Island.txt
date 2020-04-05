@@ -9,10 +9,22 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Eyedrop
+Seeds       | Empowerment, Eyedrop
 Wands       | 
 Orbs        | 
 Held Items  | Efficient Bandanna, Heal Ribbon
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | Pecha
+Projectiles | 
+Seeds       | 
+Wands       | Surround
+Orbs        | Foe-Seal, Wigglytuff
+Held Items  | Heal Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

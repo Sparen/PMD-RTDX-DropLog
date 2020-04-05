@@ -2,12 +2,12 @@
 Solar Cave
 Floors: 20
 Warnings: PERISH SONG [Jynx]
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | Cheri, Oran, Pecha
+Berries     | Cheri, Chesto, Oran, Pecha
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Stun, Tiny Reviver, Totter
 Wands       | Petrify, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged
@@ -18,25 +18,25 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
+Consumables | Big Apple
+Berries     | Rawst
 Projectiles | 
 Seeds       | Quick
 Wands       | 
-Orbs        | 
+Orbs        | Weather Lock
 Held Items  | 
-TMs         | 
+TMs         | Thief
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Carbos
 Berries     | 
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Heal, Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

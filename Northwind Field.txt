@@ -6,25 +6,25 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
+Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Sleep, Tiny Reviver
+Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Warp
 Wands       |
 Orbs        | 
-Held Items  | 
+Held Items  | Persim Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir
+Consumables | Big Apple, Max Elixir
 Berries     | Pecha
-Projectiles | 
+Projectiles | Geo Pebble
 Seeds       | Tiny Reviver
 Wands       | Pounce
-Orbs        | 
-Held Items  | 
+Orbs        | Storage
+Held Items  | Scope Lens
 TMs         | Aerial Ace, Double Team, Focus Blast
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -33,7 +33,7 @@ Tile
 Consumables | Carbos, Iron, Protein
 Berries     | Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 

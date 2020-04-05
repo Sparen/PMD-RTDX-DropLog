@@ -10,7 +10,7 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver
-Wands       | HP-Swap, Pounce, Slumber, Whirlwind
+Wands       | Confuse, HP-Swap, Pounce, Slumber, Whirlwind
 Orbs        | 
 Held Items  | Cover Band, Efficient Bandanna, Heal Ribbon, Insomniscope, Scope Lens
 TMs         | 
@@ -18,10 +18,10 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Protein
+Consumables | Calcium, Iron, Protein
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Heal
 Wands       | 
 Orbs        | 
 Held Items  | Gold Ribbon
