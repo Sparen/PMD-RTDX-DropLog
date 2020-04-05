@@ -7,7 +7,7 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Max Ether
-Berries     | Cheri, Chesto, Oran, Pecha, Rawst, 
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Eyedrop, Heal, Tiny Reviver, Totter
 Wands       | 

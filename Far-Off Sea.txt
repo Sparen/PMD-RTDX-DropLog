@@ -30,10 +30,10 @@ Special     |
 - - - - - - - - - - - - - - - -
 Dungeon End
 - - - - - - - - - - - - - - - -
-Consumables | Accuracy Drink x 1, Power Drink x 1, PP Up Drink x 1
+Consumables | Accuracy Drink x 1, Power Drink x 1, PP-Up Drink x 1
 Berries     | 
 Projectiles | 
-Seeds       | Life Seed x 2
+Seeds       | Life x 2
 Wands       | 
 Orbs        | 
 Held Items  | 

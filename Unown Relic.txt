@@ -24,7 +24,7 @@ Projectiles | Geo Pebble
 Seeds       | Energy, Reviver, Stun
 Wands       | Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, 
+Held Items  | Efficient Bandanna, Goggle Specs
 TMs         | Calm Mind
 Special     | 
 - - - - - - - - - - - - - - - -
