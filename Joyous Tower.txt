@@ -1,20 +1,20 @@
 ----------------------------------------------------------------
 Joyous Tower
 Floors: 99
-Warnings: BUG BITE [Ariados, Pineco, Weedle], PLUCK [Doduo, Fearow]
+Warnings: BUG BITE [Ariados, Pineco, Weedle], FISSURE [Camerupt], PLUCK [Doduo, Fearow], SHEER COLD [Glalie]
 Wall Items:
-TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 66F]
+TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 72F]
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether, Perfect Apple
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Golden Spike, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Blinker, Decoy, Doom, Empowerment, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
-Wands       | Confuse, Guiding, HP-Swap, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Warp, Whirlwind
-Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Nullify, Radar, Rainy, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Totter, Trawl, Weather Lock
-Held Items  | Fierce Bandanna, Friend Bow, Gold Ribbon, Lock-On Specs, Prosper Ribbon, Sneak Scarf, X-Ray Specs, Zinc Band
-TMs         | Dark Pulse, Explosion, False Swipe, Fire Blast, Flame Charge, Fling, Hail, Nature Power, Safeguard, Scald, Sunny Day, Trick Room
+Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Warp, Whirlwind
+Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Nullify, Petrify, Radar, Rainy, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trawl, Weather Lock
+Held Items  | Cover Band, Fierce Bandanna, Friend Bow, Gold Ribbon, Lock-On Specs, Prosper Ribbon, Recovery Scarf, Sneak Scarf, Tight Belt, X-Ray Specs, Zinc Band
+TMs         | Dark Pulse, Embargo, Explosion, False Swipe, Fire Blast, Flame Charge, Fling, Hail, Leech Life, Nature Power, Reflect, Roar, Safeguard, Scald, Smart Strike, Steel Wing, Sunny Day, Trick Room, Volt Switch, Waterfall
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
@@ -40,4 +40,16 @@ Orbs        |
 Held Items  | 
 TMs         | 
 Special     | 
+- - - - - - - - - - - - - - - -
+Dungeon End
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | Joy x 3
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Deluxe Box x 10
 ----------------------------------------------------------------
