@@ -1,20 +1,20 @@
 ----------------------------------------------------------------
 Joyous Tower
 Floors: 99
-Warnings: BUG BITE [Weedle]
+Warnings: BUG BITE [Ariados, Pineco, Weedle], PLUCK [Doduo, Fearow]
 Wall Items:
-TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 36F]
+TODO: Determine if there is a set Escape Orb drop [Current: 10F - Checked up to 66F]
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether, Perfect Apple
 Berries     | Cheri, Oran, Pecha, Rawst
-Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Doom, Empowerment, Eyedrop, Joy, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
-Wands       | Confuse, Guiding, HP-Swap, Pounce, Slow, Slumber, Stayaway, Switcher, Warp, Whirlwind
-Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Hail, Health, Nullify, Radar, Rainy, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Trawl, Weather Lock
-Held Items  | Gold Ribbon, Lock-On Specs, Sneak Scarf, Zinc Band
-TMs         | Explosion, False Swipe, Fling, Hail, Nature Power, Scald, Sunny Day
+Projectiles | Geo Pebble, Golden Spike, Gravelerock, Iron Spike, Silver Spike
+Seeds       | Ban, Blinker, Decoy, Doom, Empowerment, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Guiding, HP-Swap, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Warp, Whirlwind
+Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Nullify, Radar, Rainy, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Totter, Trawl, Weather Lock
+Held Items  | Fierce Bandanna, Friend Bow, Gold Ribbon, Lock-On Specs, Prosper Ribbon, Sneak Scarf, X-Ray Specs, Zinc Band
+TMs         | Dark Pulse, Explosion, False Swipe, Fire Blast, Flame Charge, Fling, Hail, Nature Power, Safeguard, Scald, Sunny Day, Trick Room
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
@@ -34,7 +34,7 @@ Tile
 Consumables | Calcium, Carbos, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
