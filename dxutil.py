@@ -9,6 +9,7 @@ class Item:
 		self.tiledrops = []
 		self.walldrops = []
 		self.dungeonenddrops = []
+		self.otherdrops = []
 
 # Loads hardcoded information on items into a list and returns that list
 def loadItems():
@@ -241,6 +242,19 @@ def getDungeons():
 	dungeonlist.append("Western Cave")
 	dungeonlist.append("Wish Cave")
 	dungeonlist.append("Wyvern Hill")
+
+	# Non-dungeons with potentially hardwired inventories
+	dungeonlist.append("Square - Kecleon Shop")
+	dungeonlist.append("Square - Kecleon Wares")
+	dungeonlist.append("Square - Felicity Bank")
+	dungeonlist.append("Square - Mailbox")
+	dungeonlist.append("Rescue - Pokémon Square")
+	dungeonlist.append("Rescue - Regular")
+	dungeonlist.append("Rescue - Special")
+	dungeonlist.append("Rescue - Deluxe")
+
+	dungeonlist.append("Box - Pretty Box")
+	dungeonlist.append("Box - Deluxe Box")
 	
 	return dungeonlist
 

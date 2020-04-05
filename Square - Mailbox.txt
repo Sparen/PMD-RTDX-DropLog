@@ -1,0 +1,15 @@
+----------------------------------------------------------------
+Pokémon Square - Mailbox items
+- - - - - - - - - - - - - - - -
+Other
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | Bronze Dojo Ticket, Silver Dojo Ticket, Gold Dojo Ticket
+----------------------------------------------------------------

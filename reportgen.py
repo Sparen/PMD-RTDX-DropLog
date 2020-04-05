@@ -59,6 +59,8 @@ for dname in dungeons:
 							curritem.walldrops.append(dname)
 						elif currmode == "Dungeon End":
 							curritem.dungeonenddrops.append(dname)
+						elif currmode == "Other":
+							curritem.otherdrops.append(dname)
 
 # Write table using items
 print("Now generating report...")
@@ -73,6 +75,8 @@ for item in items:
 		report.write("<p><b>Wall</b>: " + ', '.join(item.walldrops) + "</p>")
 	if len(item.dungeonenddrops) > 0:
 		report.write("<p><b>Dungeon End</b>: " + ', '.join(item.dungeonenddrops) + "</p>")
+	if len(item.otherdrops) > 0:
+		report.write("<p><b>Other</b>: " + ', '.join(item.otherdrops) + "</p>")
 	report.write("</td></tr>")
 
 # Finalize Report File
