@@ -9,7 +9,8 @@ dungeons = dxutil.getDungeons()
 # Initialize Report File
 report = open("report.html", "w")
 report.write("<!DOCTYPE html><title>DX Drop Logs - Drop Report</title>")
-report.write("<style>table, th, td {border: 1px solid black;}</style>")
+report.write('<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">')
+report.write("<style>body {font-family: 'PT Sans'} table, th, td {border: 1px solid black;} p {margin: 0 0.25em;}</style>")
 report.write("<body><table><thead><tr><th></th><th>Name</th><th>Drops</th></tr></thead><tbody>")
 
 # Read data from all logs and load data into item objects
@@ -63,15 +64,15 @@ for dname in dungeons:
 print("Now generating report...")
 for item in items:
 	report.write("<tr><td style='text-align:center'><img src='img/" + item.imagename + ".png'></td><td>" + item.name + "</td><td>")
-	report.write("Floor: " + ', '.join(item.floordrops))
+	report.write("<p><b>Floor</b>: " + ', '.join(item.floordrops) + "</p>")
 	if len(item.shopdrops) > 0:
-		report.write("<br>Shop: " + ', '.join(item.shopdrops))
+		report.write("<p><b>Shop</b>: " + ', '.join(item.shopdrops) + "</p>")
 	if len(item.tiledrops) > 0:
-		report.write("<br>Tile: " + ', '.join(item.tiledrops))
+		report.write("<p><b>Tile</b>: " + ', '.join(item.tiledrops) + "</p>")
 	if len(item.walldrops) > 0:
-		report.write("<br>Wall: " + ', '.join(item.walldrops))
+		report.write("<p><b>Wall</b>: " + ', '.join(item.walldrops) + "</p>")
 	if len(item.dungeonenddrops) > 0:
-		report.write("<br>Dungeon End: " + ', '.join(item.dungeonenddrops))
+		report.write("<p><b>Dungeon End</b>: " + ', '.join(item.dungeonenddrops) + "</p>")
 	report.write("</td></tr>")
 
 # Finalize Report File
