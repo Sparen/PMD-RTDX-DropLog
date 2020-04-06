@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Mt. Blaze Peak
 Floors: Extension
-Warnings: 
+Warnings: PLUCK [Fearow]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -13,6 +13,6 @@ Seeds       | Eyedrop
 Wands       | Slow
 Orbs        | 
 Held Items  | 
-TMs         | 
+TMs         | Will-O-Wisp
 Special     | Link Box
 ----------------------------------------------------------------

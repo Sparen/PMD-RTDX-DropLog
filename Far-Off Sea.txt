@@ -11,8 +11,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, One-Room, Quick, Revive All, Rollcall, Slow, Slumber, Totter
-Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Persim Band, Recovery Scarf, Scope Lens
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, One-Room, Petrify, Quick, Revive All, Rollcall, Slow, Slumber, Totter
+Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Nullify Bandanna, Persim Band, Recovery Scarf, Scope Lens
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -24,7 +24,7 @@ Projectiles |
 Seeds       | Reviver
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

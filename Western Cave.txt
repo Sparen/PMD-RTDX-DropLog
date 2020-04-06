@@ -9,10 +9,22 @@ Floor
 Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Empowerment, Eyedrop
-Wands       | Stayaway
+Seeds       | Blast, Empowerment, Eyedrop, Training
+Wands       | HP-Swap, Stayaway
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Persim Band, Recovery Scarf, Weather Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Elixir
+Berries     | 
+Projectiles | 
+Seeds       | Empowerment
+Wands       | Slow
+Orbs        | 
+Held Items  | Efficient Bandanna, Goggle Specs, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

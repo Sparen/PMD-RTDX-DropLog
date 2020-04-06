@@ -3,13 +3,13 @@ Online Rescue - Deluxe
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Accuracy Drink, Calcium, Carbos, Iron, Power Drink, PP-Up Drink, Protein, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Rainbow Gummi
 ----------------------------------------------------------------

@@ -3,12 +3,12 @@ Online Rescue - Special
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | 
+Orbs        | Reset, Storage
 Held Items  | 
 TMs         | 
 Special     | 

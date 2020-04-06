@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Mt. Blaze
 Floors: 15
-Warnings: 
+Warnings: INCINERATE [Slugma]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -9,7 +9,7 @@ Floor
 Consumables | Grimy Food, Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | Geo Pebble, Gravelerock
-Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter
+Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training
 Wands       | Confuse, Petrify, Slow, Slumber, Stayaway, Whirlwind
 Orbs        | 
 Held Items  | 
@@ -21,9 +21,9 @@ Shop
 Consumables | Max Ether
 Berries     | 
 Projectiles | Geo Pebble, Gravelerock
-Seeds       | Stun
+Seeds       | Eyedrop, Stun, Tiny Reviver
 Wands       | 
-Orbs        | All Dodge, Nullify, Slumber, Wigglytuff
+Orbs        | All Dodge, Foe-Hold, Nullify, Slumber, Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | Link Box

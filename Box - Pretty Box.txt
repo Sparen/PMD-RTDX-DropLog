@@ -4,12 +4,12 @@ Pretty Box drops
 Other
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | 
+Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | 
-Special     | Bronze Dojo Ticket
+TMs         | Earthquake
+Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------

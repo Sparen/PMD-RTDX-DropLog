@@ -12,7 +12,7 @@ Projectiles | Geo Pebble
 Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Warp
 Wands       | Pounce, Slow, Slumber, Stayaway, Surround, Tunnel, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Recovery Scarf, Scope Lens, Weather Band
+Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Pecha Scarf, Recovery Scarf, Scope Lens, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,7 +21,7 @@ Tile
 Consumables | Calcium, Iron, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Heal
+Seeds       | Heal, Life
 Wands       | 
 Orbs        | 
 Held Items  | 

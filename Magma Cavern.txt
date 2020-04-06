@@ -7,13 +7,13 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Grimy Food, Max Ether
-Berries     | Chesto, Oran, Rawst
+Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Tiny Reviver, Training
+Seeds       | Blast, Sleep, Tiny Reviver, Training
 Wands       | Petrify, Slow, Slumber, Stayaway
 Orbs        | 
-Held Items  | Cover Band, Defense Scarf, Efficient Bandanna, Fickle Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
-TMs         | Hyper Beam, Solar Beam
+Held Items  | Cover Band, Defense Scarf, Efficient Bandanna, Fickle Specs, Heavy Rotation Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
+TMs         | Earthquake, Hyper Beam, Round, Solar Beam
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile

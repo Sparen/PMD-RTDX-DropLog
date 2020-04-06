@@ -3,12 +3,12 @@ Online Rescue - Regular
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Big Apple, Calcium, Carbos, Iron, Max Elixir, Protein, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver
 Wands       | 
-Orbs        | 
+Orbs        | Bank, Reset, Revive All
 Held Items  | 
 TMs         | 
 Special     | 

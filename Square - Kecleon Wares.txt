@@ -11,6 +11,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Dragon Claw, Flash Cannon, Giga Impact, Psychic, Shadow Claw, Stone Edge, Wild Charge
+TMs         | Brutal Swing, Bulldoze, Dark Pulse, Dragon Claw, Dragon Tail, Earthquake, Facade, Fire Blast, Flame Charge, Flash Cannon, Focus Blast, Giga Impact, Gyro Ball, Leech Life, Low Sweep, Psychic, Scald, Shadow Claw, Sludge Bomb, Smack Down, Smart Strike, Solar Beam, Steel Wing, Stone Edge, Surf, Thunderbolt, Wild Charge
 Special     | 
 ----------------------------------------------------------------

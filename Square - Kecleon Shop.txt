@@ -4,12 +4,12 @@ NOTE: Postgame observations only
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Iron, Protein, Zinc
-Berries     | Oran
+Consumables | Accuracy Drink, Apple, Calcium, Carbos, Iron, Max Elixir, Max Ether, Power Drink, PP-Up Drink, Protein, Zinc
+Berries     | Oran, Pecha
 Projectiles | Gravelerock
-Seeds       | Tiny Reviver
+Seeds       | Sleep, Tiny Reviver, Warp
 Wands       | 
-Orbs        | Mobile
+Orbs        | Escape, Mobile, Rare Quality, Reset
 Held Items  | 
 TMs         | 
 Special     | Invitation

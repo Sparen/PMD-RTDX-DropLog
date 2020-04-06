@@ -6,10 +6,10 @@ Other
 Consumables | Accuracy Drink, Calcium, Carbos, Iron, Max Elixir, Perfect Apple, Power Drink, PP-Up Drink, Protein, Zinc
 Berries     | Pecha, Sitrus
 Projectiles | 
-Seeds       | Ban, Blast, Energy, Life, Reviver, Tiny Reviver, Training, Violent
+Seeds       | Ban, Blast, Decoy, Energy, Life, Pure, Reviver, Tiny Reviver, Training, Violent
 Wands       | 
-Orbs        | Helper, Revive All, Weather Lock
-Held Items  | Efficient Bandanna, Fickle Specs, Fierce Bandanna, Insomniscope, Joy Ribbon, No-Stick Cap, Zinc Band
+Orbs        | All Protect, Helper, Revive All, See-Trap, Weather Lock, Wigglytuff
+Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Fierce Bandanna, Heal Ribbon, Insomniscope, Joy Ribbon, No-Stick Cap, Special Band, Warp Scarf, Zinc Band
 TMs         | 
-Special     | Bronze Dojo Ticket, Silver Dojo Ticket, Rainbow Gummi
+Special     | Bronze Dojo Ticket, Gold Dojo Ticket, Silver Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------

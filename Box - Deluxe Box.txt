@@ -1,15 +1,15 @@
 ----------------------------------------------------------------
-Pretty Box drops
+Deluxe Box drops
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Carbos
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | 
-Special     | Silver Dojo Ticket
+TMs         | Swords Dance
+Special     | DX Gummi, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------

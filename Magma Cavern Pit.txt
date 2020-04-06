@@ -12,7 +12,7 @@ Projectiles | Geo Pebble
 Seeds       | 
 Wands       | Petrify
 Orbs        | 
-Held Items  | 
+Held Items  | Efficient Bandanna
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
