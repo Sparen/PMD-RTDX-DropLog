@@ -9,6 +9,7 @@ All data is stored in plain text.
 Compile the report from the logs by running `python3 reportgen.py`
 
 ### Storage Notes
+
 Poké not shown. All items alphabetized by category
 
 Treasure Box shown separately from dungeon drops.

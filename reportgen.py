@@ -50,17 +50,17 @@ for dname in dungeons:
 					# If None, an error message has already been output to console; we will just ignore it
 					if curritem != None:
 						if currmode == "Floor":
-							curritem.floordrops.append(dname)
+							curritem.floordrops.append(dname.split("/")[1])
 						elif currmode == "Shop":
-							curritem.shopdrops.append(dname)
+							curritem.shopdrops.append(dname.split("/")[1])
 						elif currmode == "Tile":
-							curritem.tiledrops.append(dname)
+							curritem.tiledrops.append(dname.split("/")[1])
 						elif currmode == "Wall":
-							curritem.walldrops.append(dname)
+							curritem.walldrops.append(dname.split("/")[1])
 						elif currmode == "Dungeon End":
-							curritem.dungeonenddrops.append(dname)
+							curritem.dungeonenddrops.append(dname.split("/")[1])
 						elif currmode == "Other":
-							curritem.otherdrops.append(dname)
+							curritem.otherdrops.append(dname.split("/")[1])
 
 # Write table using items
 print("Now generating report...")
