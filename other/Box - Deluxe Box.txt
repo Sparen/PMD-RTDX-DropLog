@@ -10,6 +10,6 @@ Seeds       | Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Swords Dance
-Special     | DX Gummi, Rainbow Gummi, Silver Dojo Ticket
+TMs         | Flame Charge, Shadow Ball, Swords Dance
+Special     | DX Gummi, Gold Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------

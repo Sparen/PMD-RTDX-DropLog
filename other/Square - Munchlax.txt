@@ -1,15 +1,15 @@
 ----------------------------------------------------------------
-Pokémon Square - Felicity Bank
+Pokémon Square - Munchlax Gifts
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Oran
+Consumables | 
+Berries     | 
 Projectiles | 
-Seeds       | Tiny Reviver
+Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Munch Belt
 TMs         | 
-Special     | 
+Special     | Bronze Dojo Ticket, Silver Dojo Ticket
 ----------------------------------------------------------------

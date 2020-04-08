@@ -2,15 +2,15 @@
 Fiery Field
 Floors: 30
 Warnings: FISSURE [Camerupt]
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Grimy Food, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Warp
-Wands       | Guiding, Pounce, Slumber, Surround
+Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Guiding, Pounce, Slumber, Stayaway, Surround
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
@@ -18,14 +18,14 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple
-Berries     | Cheri, Rawst
+Consumables | Big Apple, Max Elixir
+Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | 
-Wands       | HP-Swap, Pounce
+Seeds       | Ban
+Wands       | HP-Swap, Pounce, Tunnel
 Orbs        | See-Trap
 Held Items  | Efficient Bandanna
-TMs         | Dragon Tail, Sludge Wave
+TMs         | Dragon Tail, Flash Cannon, Sludge Wave
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile

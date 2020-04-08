@@ -12,7 +12,7 @@ Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter, Warp
 Wands       | Confuse, Petrify, Pounce, Slumber, Stayaway, Tunnel, Two-Edged, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Joy Ribbon, Pecha Scarf, Persim Band, Scope Lens, X-Ray Specs
+Held Items  | Efficient Bandanna, Joy Ribbon, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

@@ -11,17 +11,17 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Cleanse, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, Nullify, One-Room, Petrify, Rollcall, Slow, Totter
-Held Items  | Efficient Bandanna, Scope Lens
+Orbs        | All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rollcall, Slow, Totter
+Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Scope Lens, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Protein, Zinc
+Consumables | Carbos, Protein, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Heal, Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

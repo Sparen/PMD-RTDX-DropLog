@@ -352,6 +352,7 @@ def getDungeons():
 	dungeonlist.append("other/Square - Kecleon Wares")
 	dungeonlist.append("other/Square - Felicity Bank")
 	dungeonlist.append("other/Square - Mailbox")
+	dungeonlist.append("other/Square - Munchlax")
 	dungeonlist.append("other/Rescue - Pokémon Square")
 	dungeonlist.append("other/Rescue - Regular")
 	dungeonlist.append("other/Rescue - Special")

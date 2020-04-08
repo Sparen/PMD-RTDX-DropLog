@@ -3,13 +3,13 @@ Pretty Box drops
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Oran
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Earthquake
+TMs         | Attract, Earthquake, Explosion, Hail
 Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------
