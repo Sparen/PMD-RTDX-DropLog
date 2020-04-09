@@ -95,13 +95,11 @@ def loadItems():
 	itemlist.append(Item("Bank Orb", "Bank", "Orb", "orb"))
 	itemlist.append(Item("Cleanse Orb", "Cleanse", "Orb", "orb"))
 	itemlist.append(Item("Decoy Orb", "Decoy", "Orb", "orb"))
-	itemlist.append(Item("Deluxe Ribbon", "Deluxe Ribbon", "Held Items", "goldband"))
 	itemlist.append(Item("Drought Orb", "Drought", "Orb", "orb"))
 	itemlist.append(Item("Escape Orb", "Escape", "Orb", "orb"))
 	itemlist.append(Item("Evasion Orb", "Evasion", "Orb", "orb"))
 	itemlist.append(Item("Foe-Hold Orb", "Foe-Hold", "Orb", "orb"))
 	itemlist.append(Item("Foe-Seal Orb", "Foe-Seal", "Orb", "orb"))
-	itemlist.append(Item("Gold Ribbon", "Gold Ribbon", "Held Items", "goldband"))
 	itemlist.append(Item("Hail Orb", "Hail", "Orb", "orb"))
 	itemlist.append(Item("Health Orb", "Health", "Orb", "orb"))
 	itemlist.append(Item("Helper Orb", "Helper", "Orb", "orb"))
@@ -138,12 +136,14 @@ def loadItems():
 	itemlist.append(Item("Big Eater Belt", "Big Eater Belt", "Held Items", "band"))
 	itemlist.append(Item("Cover Band", "Cover Band", "Held Items", "band"))
 	itemlist.append(Item("Defense Scarf", "Defense Scarf", "Held Items", "band"))
+	itemlist.append(Item("Deluxe Ribbon", "Deluxe Ribbon", "Held Items", "goldband"))
 	itemlist.append(Item("Detect Band", "Detect Band", "Held Items", "band"))
 	itemlist.append(Item("Efficient Bandanna", "Efficient Bandanna", "Held Items", "band"))
 	itemlist.append(Item("Explosive Band", "Explosive Band", "Held Items", "band"))
 	itemlist.append(Item("Fickle Specs", "Fickle Specs", "Held Items", "glasses"))
 	itemlist.append(Item("Fierce Bandanna", "Fierce Bandanna", "Held Items", "band"))
 	itemlist.append(Item("Friend Bow", "Friend Bow", "Held Items", "band"))
+	itemlist.append(Item("Gold Ribbon", "Gold Ribbon", "Held Items", "goldband"))
 	itemlist.append(Item("Goggle Specs", "Goggle Specs", "Held Items", "glasses"))
 	itemlist.append(Item("Heal Ribbon", "Heal Ribbon", "Held Items", "band"))
 	itemlist.append(Item("Heavy Rotation Specs", "Heavy Rotation Specs", "Held Items", "glasses"))
@@ -365,11 +365,11 @@ def getDungeons():
 	
 	return dungeonlist
 
-# Returns the item object based on the DROP NAME
+# Returns the item object based on the FULL NAME. Drop name is insufficient due to some items having the same drop name (e.g. Totter Seed and Totter Orb)
 # Intended use is mapping text in the drop logs to the item objects
 def getItemByName(name, itemlist):
 	for item in itemlist:
-		if item.dropname == name:
+		if item.name == name:
 			return item
 	print("Unable to find item " + name + " in item list")
 	return None

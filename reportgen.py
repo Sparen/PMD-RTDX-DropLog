@@ -45,7 +45,16 @@ for dname in dungeons:
 				for drop in drops:
 					if currmode == "Dungeon End":
 						drop = drop.split(" x ")[0].strip()
-					curritem = dxutil.getItemByName(drop, items)
+					fullname = drop
+					if (currflag == "Berries"):
+						fullname = fullname + " Berry"
+					if (currflag == "Seeds"):
+						fullname = fullname + " Seed"
+					if (currflag == "Orbs"):
+						fullname = fullname + " Orb"
+					if (currflag == "Wands"):
+						fullname = fullname + " Wand"
+					curritem = dxutil.getItemByName(fullname, items)
 					# Based on the current mode, add to the correct category
 					# If None, an error message has already been output to console; we will just ignore it
 					if curritem != None:
@@ -66,7 +75,8 @@ for dname in dungeons:
 print("Now generating report...")
 for item in items:
 	report.write("<tr><td style='text-align:center'><img src='img/" + item.imagename + ".png'></td><td>" + item.name + "</td><td>")
-	report.write("<p><b>Floor</b>: " + ', '.join(item.floordrops) + "</p>")
+	if len(item.floordrops) > 0:
+		report.write("<p><b>Floor</b>: " + ', '.join(item.floordrops) + "</p>")
 	if len(item.shopdrops) > 0:
 		report.write("<p><b>Shop</b>: " + ', '.join(item.shopdrops) + "</p>")
 	if len(item.tiledrops) > 0:
