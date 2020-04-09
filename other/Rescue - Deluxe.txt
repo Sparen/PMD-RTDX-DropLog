@@ -4,7 +4,7 @@ Online Rescue - Deluxe
 Other
 - - - - - - - - - - - - - - - -
 Consumables | Accuracy Drink, Calcium, Carbos, Iron, Power Drink, PP-Up Drink, Protein, Zinc
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Life
 Wands       | 

@@ -7,12 +7,12 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether
-Berries     | Oran, Pecha
+Berries     | Cheri, Oran, Pecha
 Projectiles | 
 Seeds       | Blast, Empowerment, Sleep, Stun, Training
 Wands       | Slumber, Stayaway, Surround, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna
+Held Items  | Efficient Bandanna, Nullify Bandanna
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

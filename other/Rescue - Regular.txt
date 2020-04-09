@@ -8,7 +8,7 @@ Berries     |
 Projectiles | 
 Seeds       | Reviver
 Wands       | 
-Orbs        | Bank, Reset, Revive All
+Orbs        | Bank, Helper, Reset, Revive All, Storage
 Held Items  | 
 TMs         | 
 Special     | 

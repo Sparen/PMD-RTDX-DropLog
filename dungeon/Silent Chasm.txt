@@ -7,12 +7,24 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | Oran, Rawst
+Berries     | Oran, Pecha, Rawst
 Projectiles | Gravelerock
-Seeds       | Blast, Tiny Reviver
+Seeds       | Blast, Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Cover Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Iron
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
 TMs         | 
 Special     | 
 ----------------------------------------------------------------

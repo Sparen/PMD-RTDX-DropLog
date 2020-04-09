@@ -9,7 +9,7 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Chesto, Oran, Pecha
 Projectiles | 
-Seeds       | Eyedrop, Sleep, Tiny Reviver
+Seeds       | Blast, Eyedrop, Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Goggle Specs, Joy Ribbon, Pecha Scarf, Recovery Scarf

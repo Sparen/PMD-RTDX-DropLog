@@ -3,12 +3,12 @@ Online Rescue - Special
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Iron, Protein, Zinc
+Consumables | Accuracy Drink, Calcium, Carbos, Iron, Power Drink, PP-Up Drink, Protein, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Reset, Storage
+Orbs        | Helper, Reset, Storage
 Held Items  | 
 TMs         | 
 Special     | 

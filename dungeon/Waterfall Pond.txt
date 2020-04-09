@@ -23,8 +23,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | Pounce, Slow, Surround, Tunnel, Two-Edged
-Orbs        | Bank, Drought, Foe-Seal, Inviting, One-Shot, Rare Quality, Reset, Trapbust, Wigglytuff
-Held Items  | Efficient Bandanna, Weather Band
+Orbs        | Bank, Drought, Foe-Seal, Inviting, Lasso, Mobile, One-Room, One-Shot, Rare Quality, Reset, Trapbust, Wigglytuff
+Held Items  | Efficient Bandanna, Goggle Specs, Persim Band, Prosper Ribbon, Scope Lens, Weather Band
 TMs         | Aurora Veil, Earthquake, Fire Blast, Reflect, Rock Slide, Sandstorm, Swords Dance
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
@@ -33,7 +33,7 @@ Tile
 Consumables | Calcium, Carbos, Iron, Zinc
 Berries     | 
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Gold Ribbon
