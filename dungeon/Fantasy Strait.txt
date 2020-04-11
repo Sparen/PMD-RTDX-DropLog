@@ -11,8 +11,8 @@ Berries     |
 Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Quick, Revive All, Slow, Slumber
-Held Items  | Cover Band, Efficient Bandanna
+Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Inviting, Quick, Revive All, Slow, Slumber, Trawl
+Held Items  | Cover Band, Efficient Bandanna, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

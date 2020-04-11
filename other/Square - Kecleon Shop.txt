@@ -5,11 +5,11 @@ NOTE: Postgame observations only
 Other
 - - - - - - - - - - - - - - - -
 Consumables | Accuracy Drink, Apple, Calcium, Carbos, Iron, Max Elixir, Max Ether, Power Drink, PP-Up Drink, Protein, Zinc
-Berries     | Oran, Pecha
+Berries     | Cheri, Oran, Pecha
 Projectiles | Gravelerock
 Seeds       | Blast, Sleep, Tiny Reviver, Warp
 Wands       | 
-Orbs        | Escape, Mobile, One-Shot, Rare Quality, Reset, Rollcall
+Orbs        | Escape, Health, Mobile, One-Shot, Rare Quality, Reset, Rollcall
 Held Items  | 
 TMs         | 
 Special     | Invitation

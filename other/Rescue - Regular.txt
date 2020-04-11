@@ -3,13 +3,13 @@ Online Rescue - Regular
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple, Calcium, Carbos, Iron, Max Elixir, Protein, Zinc
-Berries     | 
+Consumables | Accuracy Drink, Big Apple, Calcium, Carbos, Iron, Max Elixir, Power Drink, PP-Up Drink, Protein, Zinc
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Reviver
 Wands       | 
 Orbs        | Bank, Helper, Reset, Revive All, Storage
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Rainbow Gummi
 ----------------------------------------------------------------

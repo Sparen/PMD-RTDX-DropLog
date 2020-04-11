@@ -12,7 +12,7 @@ Projectiles |
 Seeds       | Empowerment, Eyedrop
 Wands       | 
 Orbs        | 
-Held Items  | Efficient Bandanna, Heal Ribbon
+Held Items  | Efficient Bandanna, Heal Ribbon, Joy Ribbon, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,10 +21,10 @@ Shop
 Consumables | Max Elixir
 Berries     | Pecha
 Projectiles | 
-Seeds       | 
+Seeds       | Quick
 Wands       | Surround
-Orbs        | Foe-Seal, Wigglytuff
-Held Items  | Heal Ribbon
+Orbs        | Foe-Seal, One-Room, Revive-All, Wigglytuff
+Held Items  | Heal Ribbon, Persim Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

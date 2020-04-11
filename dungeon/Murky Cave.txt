@@ -7,9 +7,9 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Cheri, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Gravelerock, Iron Spike
-Seeds       | Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
 Wands       | Petrify, Pounce, Slow, Tunnel, Warp
 Orbs        | 
 Held Items  | Cover Band, Goggle Specs, Joy Ribbon, Nullify Bandanna, Persim Band
@@ -33,7 +33,7 @@ Tile
 Consumables | Carbos, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Life
+Seeds       | Joy, Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

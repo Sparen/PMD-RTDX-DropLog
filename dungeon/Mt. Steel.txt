@@ -15,4 +15,16 @@ Orbs        |
 Held Items  | 
 TMs         | 
 Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | 
+Projectiles | Gravelerock
+Seeds       | Sleep, Tiny Reviver
+Wands       | 
+Orbs        | Foe-Hold, Slumber
+Held Items  | 
+TMs         | 
+Special     | 
 ----------------------------------------------------------------

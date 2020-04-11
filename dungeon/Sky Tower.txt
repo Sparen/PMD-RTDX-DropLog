@@ -21,7 +21,7 @@ Tile
 Consumables | Big Apple, Calcium, Max Elixir
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver, Tiny Reviver
+Seeds       | Heal, Reviver, Tiny Reviver
 Wands       | 
 Orbs        | Foe-Hold, Nullify, Revive All, Rollcall, Slumber, Trapbust
 Held Items  | 

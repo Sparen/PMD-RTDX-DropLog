@@ -10,9 +10,9 @@ Consumables | Grimy Food, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Warp
-Wands       | Confuse, Guiding, Pounce, Slumber, Stayaway, Surround
+Wands       | Confuse, Guiding, Pounce, Slumber, Stayaway, Surround, Two-Edged
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Recovery Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,11 +21,11 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Ban
+Seeds       | Ban, Tiny Reviver
 Wands       | HP-Swap, Pounce, Tunnel
-Orbs        | See-Trap
-Held Items  | Efficient Bandanna
-TMs         | Dragon Tail, Flash Cannon, Sludge Wave
+Orbs        | See-Trap, Storage
+Held Items  | Efficient Bandanna, Heal Ribbon
+TMs         | Dragon Tail, Flash Cannon, Sludge Wave, Will-O-Wisp
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
