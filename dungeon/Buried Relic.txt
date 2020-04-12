@@ -10,28 +10,28 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
-Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Two-Edged, Warp, Whirlwind
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Tunnel, Two-Edged, Warp, Whirlwind
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
-TMs         | Embargo, False Swipe, Fling, Focus Blast, Sky Drop, Trick Room
+TMs         | Aurora Veil, Embargo, False Swipe, Fling, Focus Blast, Hyper Beam, Payback, Sky Drop, Sunny Day, Swagger, Thunder, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple, Max Elixir
-Berries     | Cheri, Pecha
+Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Tiny Reviver
-Wands       | Pounce, Stayaway
-Orbs        | All Dodge, One-Room, Rare Quality, Revive All, Wigglytuff
-Held Items  | Efficient Bandanna, Insomniscope, X-Ray Specs
-TMs         | Aurora Veil, Giga Impact, Protect, Return
+Seeds       | Reviver, Tiny Reviver
+Wands       | Pounce, Stayaway, Tunnel, Two-Edged
+Orbs        | All Dodge, All Protect, One-Room, Rare Quality, Revive All, See-Trap, Wigglytuff
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Persim Band, Prosper Ribbon, Recovery Scarf, X-Ray Specs
+TMs         | Aurora Veil, Giga Impact, Protect, Return, U-turn
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Iron, Protein, Zinc
-Berries     | 
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Heal, Life, Reviver
 Wands       | 

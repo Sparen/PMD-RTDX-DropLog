@@ -3,13 +3,13 @@ Deluxe Box drops
 - - - - - - - - - - - - - - - -
 Other
 - - - - - - - - - - - - - - - -
-Consumables | Carbos
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Flame Charge, Shadow Ball, Swords Dance
+TMs         | Flame Charge, Overheat, Shadow Ball, Sludge Wave, Swords Dance
 Special     | DX Gummi, Gold Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------
