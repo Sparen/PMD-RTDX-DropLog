@@ -7,9 +7,9 @@ Other
 Consumables | Accuracy Drink, Apple, Calcium, Carbos, Iron, Max Elixir, Max Ether, Power Drink, PP-Up Drink, Protein, Zinc
 Berries     | Cheri, Oran, Pecha
 Projectiles | Gravelerock
-Seeds       | Blast, Sleep, Tiny Reviver, Warp
+Seeds       | Blast, Life, Sleep, Tiny Reviver, Warp
 Wands       | 
-Orbs        | Escape, Health, Mobile, One-Shot, Rare Quality, Reset, Rollcall
+Orbs        | Escape, Health, Helper, Mobile, One-Shot, Rare Quality, Reset, Rollcall
 Held Items  | 
 TMs         | 
 Special     | Invitation

@@ -2,7 +2,7 @@
 Stormy Sea
 Floors: 40
 Warnings: 
-Wall Items:
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
@@ -11,8 +11,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, Petrify, Quick, Rare Quality, Rollcall, Slow, Totter, Trawl
-Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Scope Lens, Weather Band, X-Ray Specs
+Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter, Trawl
+Held Items  | Efficient Bandanna, Gold Ribbon, Goggle Specs, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
