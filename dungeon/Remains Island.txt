@@ -23,7 +23,7 @@ Berries     | Pecha
 Projectiles | 
 Seeds       | Quick
 Wands       | Surround
-Orbs        | Foe-Seal, One-Room, Revive-All, Wigglytuff
+Orbs        | Foe-Seal, One-Room, Revive All, Wigglytuff
 Held Items  | Heal Ribbon, Persim Band
 TMs         | 
 Special     | 

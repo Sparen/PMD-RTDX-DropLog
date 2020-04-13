@@ -12,7 +12,7 @@ Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
 Seeds       | Ban, Blast, Blinker, Decoy, Doom, Energy, Eyedrop, Heal, Joy, Quick, Stun, Tiny Reviver, Totter, Warp
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Whirlwind
 Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Hail, Luminous, Mobile, Monster, One-Room, One-Shot, Quick, Radar, Rainy, Reset, Revive All, Rollcall, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
-Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, No-Stock Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Weather Band, Zinc Band
+Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Weather Band, Zinc Band
 TMs         | Dark Pulse, Dragon Claw, Energy Ball, Hidden Power, Quash, Safeguard, Scald, Swagger
 Special     | 
 - - - - - - - - - - - - - - - -

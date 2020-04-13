@@ -9,9 +9,9 @@ Floor
 Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | 
-Seeds       | Blast, Sleep
+Seeds       | Blast, Sleep, Tiny Reviver
 Wands       | 
-Orbs        | Slumber, Tiny Reviver, Totter
+Orbs        | Slumber, Totter
 Held Items  | 
 TMs         | 
 Special     | Link Box
