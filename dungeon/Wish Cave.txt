@@ -1,39 +1,39 @@
 ----------------------------------------------------------------
 Wish Cave
 Floors: 99
-Warnings: 
+Warnings: BUG BITE [Pineco], INCINERATE [Magcargo]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether
-Berries     | Cheri, Oran, Pecha
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Blast, Blinker, Doom, Eyedrop, Heal, Quick, Stun, Tiny Reviver, Totter, Warp
-Wands       | HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Whirlwind
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Hail, Luminous, Mobile, Monster, One-Shot, Quick, Rainy, Reset, Revive All, Rollcall, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust
-Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Heal Ribbon, Joy Ribbon, Lucky Ribbon, No-Stock Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Reunion Cape, Twist Band, Weather Band, Zinc Band
-TMs         | Dark Pulse, Dragon Claw, Hidden Power, Safeguard, Scald, Swagger
+Seeds       | Ban, Blast, Blinker, Decoy, Doom, Energy, Eyedrop, Heal, Joy, Quick, Stun, Tiny Reviver, Totter, Warp
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Whirlwind
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Hail, Luminous, Mobile, Monster, One-Room, One-Shot, Quick, Radar, Rainy, Reset, Revive All, Rollcall, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
+Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, No-Stock Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Weather Band, Zinc Band
+TMs         | Dark Pulse, Dragon Claw, Energy Ball, Hidden Power, Quash, Safeguard, Scald, Swagger
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | Cheri
+Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Blast, Blinker, Eyedrop, Joy, Tiny Reviver, Violent
-Wands       | Confuse, Petrify, Pounce, Slumber, Tunnel, Warp
-Orbs        | All Power-Up, All Protect, Cleanse, Drought, Foe-Hold, Foe-Seal, Health, Lasso, Luminous, Mobile, Radar, Rare Quality, Rollcall, Slow, Totter
+Seeds       | Ban, Blast, Blinker, Empowerment, Eyedrop, Joy, Quick, Tiny Reviver, Violent
+Wands       | Confuse, Petrify, Pounce, Slumber, Surround, Tunnel, Two-Edged, Warp
+Orbs        | All Power-Up, All Protect, Cleanse, Drought, Foe-Hold, Foe-Seal, Health, Lasso, Luminous, Mobile, One-Room, Radar, Rare Quality, Rollcall, Slow, Slumber, Totter
 Held Items  | Efficient Bandanna, Pecha Scarf, Warp Scarf
-TMs         | Dazzling Gleam, Hidden Power, Rest, Swagger, Thunder, Trick Room
+TMs         | Dazzling Gleam, Focus Blast, Hidden Power, Rest, Swagger, Thunder, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Iron, Protein
+Consumables | Calcium, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Life
+Seeds       | Heal, Life
 Wands       | 
 Orbs        | 
 Held Items  | 
