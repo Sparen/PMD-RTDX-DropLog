@@ -7,9 +7,9 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | Oran, Pecha
+Berries     | Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | 
+Seeds       | Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
