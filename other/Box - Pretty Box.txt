@@ -10,6 +10,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Attract, Earthquake, Explosion, Hail
+TMs         | Attract, Earthquake, Explosion, Hail, Swagger
 Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------

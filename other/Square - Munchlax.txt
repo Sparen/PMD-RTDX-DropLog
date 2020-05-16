@@ -6,7 +6,7 @@ Other
 Consumables | 
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Munch Belt

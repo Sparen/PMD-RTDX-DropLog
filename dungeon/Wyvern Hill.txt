@@ -6,39 +6,39 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Chesto, Oran, Pecha, Rawst
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
 Seeds       | Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter
 Wands       | Slumber, Switcher
 Orbs        | 
-Held Items  | Efficient Bandanna, Persim Band
+Held Items  | Efficient Bandanna, Goggle Specs, Joy Ribbon, Nullify Bandanna, Persim Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Elixir
 Berries     | Pecha
 Projectiles | Geo Pebble
-Seeds       | Decoy
+Seeds       | Ban, Decoy, Quick
 Wands       | 
 Orbs        | Evasion, See-Trap
-Held Items  | 
-TMs         | 
+Held Items  | Heal Ribbon
+TMs         | Attract, Swagger
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium
+Consumables | Calcium, Carbos, Iron
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | 
+Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Dungeon End
 - - - - - - - - - - - - - - - -

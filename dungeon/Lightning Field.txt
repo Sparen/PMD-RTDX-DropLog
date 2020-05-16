@@ -9,10 +9,10 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Training, Warp
-Wands       | Confuse, HP-Swap, Petrify, Slumber, Stayaway, Surround
+Seeds       | Empowerment, Eyedrop, Heal, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
+Wands       | Confuse, HP-Swap, Petrify, Slumber, Stayaway, Surround, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -20,10 +20,10 @@ Shop
 - - - - - - - - - - - - - - - -
 Consumables | Big Apple, Max Elixir
 Berries     | Pecha
-Projectiles | 
+Projectiles | Geo Pebble
 Seeds       | 
-Wands       | Slow, Stayaway
-Orbs        | One-Room, Wigglytuff
+Wands       | HP-Swap, Slow, Stayaway
+Orbs        | Evasion, One-Room, Wigglytuff
 Held Items  | X-Ray Specs
 TMs         | 
 Special     | Evolution Crystal
