@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
 Northern Range
 Floors: 25
-Warnings: 
+Warnings: PLUCK [Fearow]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Cheri, Oran, Pecha, Rawst
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver
 Wands       | Confuse, HP-Swap, Pounce, Slumber, Whirlwind
@@ -21,7 +21,7 @@ Tile
 Consumables | Calcium, Iron, Protein
 Berries     | 
 Projectiles | 
-Seeds       | Heal
+Seeds       | Heal, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Gold Ribbon
