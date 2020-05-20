@@ -19,11 +19,11 @@ Special     |
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Max Ether
-Berries     | 
+Berries     | Oran
 Projectiles | Gravelerock
 Seeds       | Sleep, Tiny Reviver
 Wands       | 
-Orbs        | Foe-Hold, Slumber
+Orbs        | Foe-Hold, Slumber, Totter
 Held Items  | 
 TMs         | 
 Special     | 
