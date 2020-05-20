@@ -6,13 +6,13 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Max Ether
 Berries     | 
 Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
-Orbs        | Escape, Nullify, Quick, Rare Quality
-Held Items  | Cover Band, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf
+Orbs        | Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, Quick, Rare Quality, Slumber
+Held Items  | Cover Band, Efficient Bandanna, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

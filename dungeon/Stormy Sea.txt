@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Stormy Sea
 Floors: 40
-Warnings: 
+Warnings: BUG BITE [Anorith]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -11,17 +11,17 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Power-Up, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter, Trawl
-Held Items  | Efficient Bandanna, Gold Ribbon, Goggle Specs, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter, Trawl
+Held Items  | Efficient Bandanna, Gold Ribbon, Goggle Specs, Heal Ribbon, Insomniscope, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Zinc
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

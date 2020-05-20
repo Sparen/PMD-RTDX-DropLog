@@ -4,12 +4,12 @@ Deluxe Box drops
 Other
 - - - - - - - - - - - - - - - -
 Consumables | Calcium, Carbos, Iron, Protein, Zinc
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Fire Blast, Flame Charge, Overheat, Rest, Shadow Ball, Sludge Wave, Swords Dance
+TMs         | Blizzard, Facade, Fire Blast, Flame Charge, Overheat, Rest, Shadow Ball, Sludge Wave, Swords Dance
 Special     | DX Gummi, Gold Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------

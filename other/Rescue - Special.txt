@@ -8,7 +8,7 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | Helper, Reset, Storage
+Orbs        | Helper, One-Room, Reset, Storage
 Held Items  | 
 TMs         | 
 Special     | 

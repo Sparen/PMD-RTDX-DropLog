@@ -9,8 +9,8 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Blast, Tiny Reviver, Totter
-Wands       | Confuse, Petrify, Slumber, Stayaway, Tunnel, Warp
+Seeds       | Blast, Empowerment, Sleep, Tiny Reviver, Totter
+Wands       | Confuse, Petrify, Pounce, Slumber, Stayaway, Tunnel, Warp
 Orbs        | 
 Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
 TMs         | 
@@ -18,22 +18,22 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | 
-Projectiles | 
-Seeds       | 
+Consumables | Big Apple, Max Elixir
+Berries     | Pecha
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver
 Wands       | 
-Orbs        | 
-Held Items  | 
-TMs         | 
+Orbs        | Revive All
+Held Items  | Persim Band, Scope Lens, X-Ray Specs
+TMs         | Rock Polish
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Zinc
+Consumables | Calcium, Carbos, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Joy, Reviver
+Seeds       | Joy, Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Deluxe Ribbon

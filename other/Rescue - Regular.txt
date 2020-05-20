@@ -9,7 +9,7 @@ Projectiles |
 Seeds       | Reviver
 Wands       | 
 Orbs        | Bank, Helper, Reset, Revive All, Storage
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | Rainbow Gummi
 ----------------------------------------------------------------
