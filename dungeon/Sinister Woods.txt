@@ -10,8 +10,20 @@ Consumables | Apple, Big Apple, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Sleep, Tiny Reviver
-Wands       | Petrify, Tunnel
+Wands       | Petrify, Slumber, Tunnel
 Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Ether
+Berries     | Oran
+Projectiles | 
+Seeds       | Tiny Reviver
+Wands       | 
+Orbs        | Quick
 Held Items  | 
 TMs         | 
 Special     | 

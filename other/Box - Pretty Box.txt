@@ -10,6 +10,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Attract, Blizzard, Earthquake, Explosion, Frustration, Hail, Overheat, Swagger, Thief, Trick Room
+TMs         | Attract, Blizzard, Earthquake, Explosion, Frustration, Hail, Overheat, Stone Edge, Swagger, Thief, Trick Room
 Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------
