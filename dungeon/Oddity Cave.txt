@@ -27,4 +27,16 @@ Orbs        | Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | 
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
 ----------------------------------------------------------------
