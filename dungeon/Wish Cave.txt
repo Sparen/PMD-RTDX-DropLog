@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Wish Cave
 Floors: 99
-Warnings: BUG BITE [Pineco], INCINERATE [Magcargo]
+Warnings: BUG BITE [Ariados, Pineco], INCINERATE [Magcargo]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -9,11 +9,11 @@ Floor
 Consumables | Apple, Big Apple, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Blast, Blinker, Decoy, Doom, Energy, Eyedrop, Heal, Joy, Quick, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Violent, Warp
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Whirlwind
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Hail, Luminous, Mobile, Monster, One-Room, One-Shot, Quick, Radar, Rainy, Reset, Revive All, Rollcall, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
-Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Weather Band, Zinc Band
-TMs         | Dark Pulse, Dragon Claw, Energy Ball, Hidden Power, Quash, Safeguard, Scald, Swagger
+Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Mobile, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Rainy, Reset, Revive All, Rollcall, Sandy, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
+Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, Mach Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Warp Scarf, Weather Band, Zinc Band
+TMs         | Aurora Veil, Dark Pulse, Dragon Claw, Dragon Tail, Energy Ball, Frustration, Giga Impact, Hidden Power, Low Sweep, Poison Jab, Psych Up, Quash, Safeguard, Scald, Sleep Talk, Solar Beam, Swagger
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
@@ -24,13 +24,13 @@ Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
 Seeds       | Ban, Blast, Blinker, Empowerment, Eyedrop, Joy, Quick, Tiny Reviver, Violent
 Wands       | Confuse, Petrify, Pounce, Slumber, Surround, Tunnel, Two-Edged, Warp
 Orbs        | All Power-Up, All Protect, Cleanse, Drought, Foe-Hold, Foe-Seal, Health, Lasso, Luminous, Mobile, One-Room, Radar, Rare Quality, Rollcall, Slow, Slumber, Totter
-Held Items  | Efficient Bandanna, Pecha Scarf, Warp Scarf
-TMs         | Dazzling Gleam, Focus Blast, Hidden Power, Rest, Swagger, Thunder, Trick Room
+Held Items  | Efficient Bandanna, Pecha Scarf, Twist Band, Warp Scarf
+TMs         | Dazzling Gleam, Focus Blast, Frustration, Hidden Power, Nature Power, Rest, Swagger, Thunder, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Iron, Protein, Zinc
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Heal, Life
