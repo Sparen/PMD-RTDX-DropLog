@@ -7,21 +7,33 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Ether
-Berries     | Cheri, Oran, Pecha
+Berries     | Cheri, Chesto, Oran, Pecha
 Projectiles | 
-Seeds       | Blast, Empowerment, Sleep, Stun, Training
-Wands       | Slumber, Stayaway, Surround, Whirlwind
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Training, Warp
+Wands       | Slow, Slumber, Stayaway, Surround, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Nullify Bandanna
+Held Items  | Efficient Bandanna, Nullify Bandanna, Persim Band
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Elixir
+Berries     | Pecha
+Projectiles | 
+Seeds       | Reviver
+Wands       | Stayaway
+Orbs        | Rare Quality
+Held Items  | 
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Zinc
 Berries     | 
 Projectiles | 
-Seeds       | Joy
+Seeds       | Joy, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

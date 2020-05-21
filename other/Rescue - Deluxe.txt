@@ -11,5 +11,5 @@ Wands       |
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | Rainbow Gummi
+Special     | DX Gummi, Rainbow Gummi
 ----------------------------------------------------------------
