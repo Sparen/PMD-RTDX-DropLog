@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Silent Chasm
 Floors: 9
-Warnings: 
+Warnings: BUG BITE [Weedle]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -9,7 +9,7 @@ Floor
 Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | Gravelerock
-Seeds       | Blast, Sleep, Tiny Reviver
+Seeds       | Blast, Sleep, Tiny Reviver, Training
 Wands       | 
 Orbs        | 
 Held Items  | Cover Band
