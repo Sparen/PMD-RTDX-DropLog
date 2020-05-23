@@ -7,9 +7,9 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | Oran, Pecha, Rawst
+Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | Gravelerock
-Seeds       | Blast, Eyedrop, Sleep, Tiny Reviver, Totter, Training
+Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training
 Wands       | Confuse, Petrify, Slow, Tunnel
 Orbs        | 
 Held Items  | Defense Scarf, Heavy Rotation Specs
@@ -36,7 +36,7 @@ Projectiles |
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
