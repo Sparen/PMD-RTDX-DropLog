@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Great Canyon
 Floors: 12
-Warnings: 
+Warnings: BUG BITE [Ariados]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -18,12 +18,12 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Apple
-Berries     | Rawst
+Consumables | Apple, Max Ether
+Berries     | Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Totter
+Seeds       | Sleep, Totter
 Wands       | 
-Orbs        | All Power-Up, Foe-Hold
+Orbs        | All Power-Up, Foe-Hold, Quick, Slow, Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | 
@@ -33,7 +33,7 @@ Tile
 Consumables | Zinc
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 
