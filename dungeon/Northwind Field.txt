@@ -30,7 +30,7 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Iron, Protein
+Consumables | Calcium, Carbos, Iron, Protein
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Life

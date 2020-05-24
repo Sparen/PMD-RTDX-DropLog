@@ -10,31 +10,31 @@ Floor
 Consumables | Apple, Big Apple, Max Ether, Perfect Apple
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Golden Spike, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Warp
+Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Reviver, Sleep, Stun, Tiny Reviver, Totter, Warp
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Warp, Whirlwind
-Orbs        | All Dodge, All Power-Up, Cleanse, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Nullify, Petrify, Radar, Rainy, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trawl, Weather Lock
-Held Items  | Cover Band, Fierce Bandanna, Friend Bow, Gold Ribbon, Lock-On Specs, Prosper Ribbon, Recovery Scarf, Sneak Scarf, Tight Belt, X-Ray Specs, Zinc Band
-TMs         | Dark Pulse, Embargo, Explosion, False Swipe, Fire Blast, Flame Charge, Fling, Hail, Leech Life, Nature Power, Reflect, Roar, Safeguard, Scald, Smart Strike, Steel Wing, Sunny Day, Trick Room, Volt Switch, Waterfall
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Monster, Nullify, Petrify, Radar, Rainy, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trapbust, Trawl, Weather Lock
+Held Items  | Cover Band, Fierce Bandanna, Friend Bow, Gold Ribbon, Lock-On Specs, No-Stick Cap, Pecha Scarf, Prosper Ribbon, Recovery Scarf, Sneak Scarf, Tight Belt, X-Ray Specs, Zinc Band
+TMs         | Dark Pulse, Dazzling Gleam, Embargo, Energy Ball, Explosion, False Swipe, Fire Blast, Flame Charge, Fling, Fly, Hail, Leech Life, Nature Power, Reflect, Roar, Safeguard, Scald, Smart Strike, Snarl, Steel Wing, Sunny Day, Thunder Wave, Trick Room, Volt Switch, Waterfall
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple, Max Elixir, Max Ether
-Berries     | Chesto, Pecha
+Consumables | Big Apple, Max Elixir, Max Ether, Perfect Apple
+Berries     | Cheri, Chesto, Pecha
 Projectiles | 
-Seeds       | Empowerment, Eyedrop, Joy, Pure, Quick, Reviver, Tiny Reviver, Warp
-Wands       | Petrify, Slow, Switcher, Tunnel, Whirlwind
-Orbs        | All Power-Up, Drought, Foe-Hold, Hail, Lasso, Reset, Rollcall, Slow, Slumber, Trapbust, Weather Lock
-Held Items  | Insomniscope, Lock-On Specs
-TMs         | Giga Impact, Gyro Ball, Safeguard, Shadow Claw, Thunderbolt, Torment
+Seeds       | Blinker, Empowerment, Energy, Eyedrop, Joy, Pure, Quick, Reviver, Sleep, Tiny Reviver, Violent, Warp
+Wands       | Petrify, Pounce, Slow, Stayaway, Switcher, Tunnel, Warp, Whirlwind
+Orbs        | All Power-Up, Drought, Foe-Hold, Hail, Health, Lasso, Radar, Rare Quality, Reset, Rollcall, Slow, Slumber, Trapbust, Trawl, Weather Lock
+Held Items  | Insomniscope, Lock-On Specs, Scope Lens
+TMs         | Giga Impact, Gyro Ball, Safeguard, Shadow Claw, Solar Beam, Thunderbolt, Torment, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Zinc
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Heal, Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 

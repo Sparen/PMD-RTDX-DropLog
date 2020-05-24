@@ -9,7 +9,7 @@ Floor
 Consumables | Max Ether, Grimy Food
 Berries     | Pecha
 Projectiles | Geo Pebble, Gravelerock
-Seeds       | Eyedrop
+Seeds       | Eyedrop, Tiny Reviver
 Wands       | Slow
 Orbs        | 
 Held Items  | 

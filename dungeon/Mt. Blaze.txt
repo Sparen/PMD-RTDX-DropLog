@@ -18,8 +18,8 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether
-Berries     | 
+Consumables | Apple, Max Ether
+Berries     | Cheri
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Stun, Tiny Reviver
 Wands       | 

@@ -9,7 +9,7 @@ Projectiles |
 Seeds       | 
 Wands       | 
 Orbs        | Helper, One-Room, Reset, Storage
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
