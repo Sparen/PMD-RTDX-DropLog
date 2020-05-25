@@ -22,7 +22,7 @@ Consumables | Apple, Max Ether
 Berries     | Cheri
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Stun, Tiny Reviver
-Wands       | 
+Wands       | Confuse
 Orbs        | All Dodge, Foe-Hold, Nullify, Slumber, Wigglytuff
 Held Items  | 
 TMs         | 

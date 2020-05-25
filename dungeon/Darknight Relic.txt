@@ -9,16 +9,16 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Oran, Rawst
 Projectiles | 
-Seeds       | Blast, Eyedrop, Stun
-Wands       | HP-Swap, Stayaway
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver
+Wands       | HP-Swap, Stayaway, Surround
 Orbs        | 
-Held Items  | Efficient Bandanna, Heal Ribbon, Persim Band
+Held Items  | Efficient Bandanna, Heal Ribbon, Insomniscope, Persim Band, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Iron
+Consumables | Carbos, Iron
 Berries     | Sitrus
 Projectiles | 
 Seeds       | 

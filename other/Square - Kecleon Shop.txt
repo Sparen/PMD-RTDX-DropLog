@@ -9,7 +9,7 @@ Berries     | Cheri, Oran, Pecha
 Projectiles | Gravelerock
 Seeds       | Blast, Life, Sleep, Tiny Reviver, Totter, Warp
 Wands       | 
-Orbs        | Escape, Health, Helper, Mobile, One-Shot, Rare Quality, Reset, Rollcall
+Orbs        | Escape, Health, Helper, Inviting, Mobile, One-Shot, Rare Quality, Reset, Rollcall
 Held Items  | 
 TMs         | 
 Special     | Invitation

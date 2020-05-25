@@ -9,7 +9,7 @@ Floor
 Consumables | Apple, Max Ether
 Berries     | Cheri, Oran, Pecha
 Projectiles | 
-Seeds       | Eyedrop, Tiny Reviver, Totter
+Seeds       | Blast, Eyedrop, Stun, Tiny Reviver, Totter
 Wands       | 
 Orbs        | 
 Held Items  | 
@@ -36,7 +36,7 @@ Projectiles |
 Seeds       | Life
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 ----------------------------------------------------------------
