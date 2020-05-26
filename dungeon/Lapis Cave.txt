@@ -18,12 +18,12 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | 
-Berries     | Oran
-Projectiles | 
-Seeds       | Tiny Reviver
+Consumables | Max Ether
+Berries     | Oran, Rawst
+Projectiles | Geo Pebble
+Seeds       | Blast, Tiny Reviver
 Wands       | 
-Orbs        | Slumber, Wigglytuff
+Orbs        | Foe-Hold, Slumber, Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | Link Box
