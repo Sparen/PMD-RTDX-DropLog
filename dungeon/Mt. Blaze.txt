@@ -13,7 +13,7 @@ Seeds       | Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training
 Wands       | Confuse, Petrify, Slow, Slumber, Stayaway, Whirlwind
 Orbs        | 
 Held Items  | 
-TMs         | Dragon Claw, Focus Blast
+TMs         | Dragon Claw, Focus Blast, Safeguard
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop

@@ -7,7 +7,7 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Max Ether, Grimy Food
-Berries     | Pecha
+Berries     | Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Eyedrop, Tiny Reviver
 Wands       | Slow
