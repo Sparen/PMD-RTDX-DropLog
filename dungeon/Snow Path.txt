@@ -15,4 +15,16 @@ Orbs        |
 Held Items  | 
 TMs         | 
 Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Apple
+Berries     | Oran
+Projectiles | Geo Pebble
+Seeds       | Tiny Reviver
+Wands       | 
+Orbs        | Revive All, Totter
+Held Items  | 
+TMs         | 
+Special     | Link Box
 ----------------------------------------------------------------

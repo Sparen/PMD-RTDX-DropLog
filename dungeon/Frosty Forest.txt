@@ -10,11 +10,23 @@ Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | Blast, Stun, Tiny Reviver, Totter
-Wands       | Slow
+Wands       | Slow, Stayaway
 Orbs        | Slumber
 Held Items  | Defense Scarf, Heal Ribbon, Mach Ribbon
 TMs         | 
 Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Ether
+Berries     | 
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | Revive All, Wigglytuff
+Held Items  | 
+TMs         | 
+Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -

@@ -9,9 +9,9 @@ Floor
 Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble
-Seeds       | Blast, Tiny Reviver
+Seeds       | Blast, Stun, Tiny Reviver
 Wands       | 
-Orbs        | Foe-Hold, Nullify, Slumber
+Orbs        | Foe-Hold, Foe-Seal, Nullify, Slumber
 Held Items  | 
 TMs         | 
 Special     | 
