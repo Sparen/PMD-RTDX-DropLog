@@ -8,7 +8,7 @@ Berries     | Pecha, Sitrus
 Projectiles | 
 Seeds       | Ban, Blast, Decoy, Empowerment, Energy, Life, Pure, Reviver, Sleep, Stun, Tiny Reviver, Training, Violent
 Wands       | 
-Orbs        | All Protect, Bank, Helper, Reset, Revive All, See-Trap, Weather Lock, Wigglytuff
+Orbs        | All Protect, Bank, Helper, Rare Quality, Reset, Revive All, See-Trap, Weather Lock, Wigglytuff
 Held Items  | Defense Scarf, Detect Band, Efficient Bandanna, Explosive Band, Fickle Specs, Fierce Bandanna, Gold Ribbon, Heal Ribbon, Heavy Rotation Specs, Insomniscope, Joy Ribbon, Lucky Ribbon, No-Stick Cap, Pass Scarf, Pecha Scarf, Persim Band, Power Band, Scope Lens, Special Band, Stamina Band, Twist Band, Warp Scarf, Zinc Band
 TMs         | 
 Special     | Bronze Dojo Ticket, Gold Dojo Ticket, Silver Dojo Ticket, Rainbow Gummi

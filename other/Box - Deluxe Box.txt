@@ -10,6 +10,6 @@ Seeds       | Reviver, Tiny Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Blizzard, Bulldoze, Facade, Fire Blast, Flame Charge, Fling, Overheat, Rest, Shadow Ball, Sludge Wave, Swords Dance, Thunderbolt
+TMs         | Blizzard, Bulldoze, Facade, Fire Blast, Flame Charge, Fling, Overheat, Psyshock, Rest, Shadow Ball, Sludge Wave, Swords Dance, Thunderbolt
 Special     | DX Gummi, Gold Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------
