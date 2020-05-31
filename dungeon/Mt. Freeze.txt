@@ -10,7 +10,7 @@ Consumables | Apple, Max Ether
 Berries     | Chesto, Oran
 Projectiles | Geo Pebble
 Seeds       | Blast, Sleep, Stun, Tiny Reviver, Totter
-Wands       | Petrify, Slow, Stayaway
+Wands       | Confuse, Petrify, Slow, Stayaway
 Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Petrify, Rollcall, Slumber, Totter, Trawl
 Held Items  | Detect Band, Efficient Bandanna, Heavy Rotation Specs, Mach Ribbon
 TMs         | Hyper Beam, Surf
@@ -18,15 +18,15 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Apple
-Berries     | Rawst
+Consumables | Apple, Max Ether
+Berries     | Chesto, Oran, Rawst
 Projectiles | 
-Seeds       | Tiny Reviver
+Seeds       | Stun, Tiny Reviver
 Wands       | 
-Orbs        | 
+Orbs        | All Power-Up
 Held Items  | Zinc Band
 TMs         | 
-Special     | 
+Special     | Link Box
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -

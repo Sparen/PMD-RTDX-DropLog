@@ -10,9 +10,21 @@ Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | 
 Seeds       | Blast, Sleep, Tiny Reviver
-Wands       | 
+Wands       | Confuse
 Orbs        | Slumber, Totter
 Held Items  | 
+TMs         | 
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Max Ether
+Berries     | 
+Projectiles | 
+Seeds       | Sleep
+Wands       | 
+Orbs        | Totter
+Held Items  | Mach Ribbon
 TMs         | 
 Special     | Link Box
 - - - - - - - - - - - - - - - -

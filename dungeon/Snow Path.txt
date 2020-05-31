@@ -7,10 +7,10 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple
-Berries     | 
+Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | Sleep, Tiny Reviver
-Wands       | 
+Wands       | Switcher
 Orbs        | 
 Held Items  | 
 TMs         | 
@@ -18,7 +18,7 @@ Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Apple
+Consumables | Apple, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | Tiny Reviver
