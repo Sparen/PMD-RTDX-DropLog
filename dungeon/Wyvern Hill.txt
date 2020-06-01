@@ -38,7 +38,7 @@ Wands       |
 Orbs        | 
 Held Items  | 
 TMs         | 
-Special     | Evolution Crystal
+Special     | 
 - - - - - - - - - - - - - - - -
 Dungeon End
 - - - - - - - - - - - - - - - -
