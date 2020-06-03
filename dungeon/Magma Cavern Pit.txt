@@ -10,7 +10,7 @@ Consumables |
 Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | 
-Wands       | Petrify
+Wands       | Confuse, Petrify
 Orbs        | 
 Held Items  | Efficient Bandanna
 TMs         | 

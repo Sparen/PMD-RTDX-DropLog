@@ -9,11 +9,11 @@ Floor
 Consumables | Grimy Food, Max Ether
 Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble
-Seeds       | Blast, Sleep, Tiny Reviver, Training
-Wands       | Petrify, Slow, Slumber, Stayaway
+Seeds       | Blast, Eyedrop, Sleep, Tiny Reviver, Training
+Wands       | Confuse, Petrify, Slow, Slumber, Stayaway
 Orbs        | 
 Held Items  | Cover Band, Defense Scarf, Efficient Bandanna, Fickle Specs, Heavy Rotation Specs, Mach Ribbon, Nullify Bandanna, Reunion Cape
-TMs         | Earthquake, Hyper Beam, Round, Solar Beam
+TMs         | Earthquake, Hyper Beam, Round, Solar Beam, Stone Edge
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile

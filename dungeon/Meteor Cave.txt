@@ -9,17 +9,17 @@ Floor
 Consumables | Apple, Max Elixir
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Blast, Eyedrop, Tiny Reviver, Totter, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Tiny Reviver, Totter, Warp
 Wands       | 
 Orbs        | 
-Held Items  | Cover Band, Heal Ribbon, Recovery Scarf, Scope Lens
+Held Items  | Cover Band, Efficient Bandanna, Heal Ribbon, Insomniscope, Recovery Scarf, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
 Consumables | Calcium, Iron, Zinc
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Reviver
 Wands       | 
