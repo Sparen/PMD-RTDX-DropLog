@@ -10,8 +10,8 @@ dungeons = dxutil.getDungeons()
 report = open("report.html", "w")
 report.write("<!DOCTYPE html><title>DX Drop Logs - Drop Report</title>")
 report.write('<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">')
-report.write("<style>body {font-family: 'PT Sans'} table, th, td {border: 1px solid black;} p {margin: 0 0.25em;}</style>")
-report.write("<body><table><thead><tr><th></th><th>Name</th><th>Drops</th></tr></thead><tbody>")
+report.write("<style>body {font-family: 'PT Sans'} table, th, td {border: 1px solid black;} p {margin: 0 0.25em;}</style>\n")
+report.write("<body><table><thead><tr><th></th><th>Name</th><th>Drops</th></tr></thead><tbody>\n")
 
 # Read data from all logs and load data into item objects
 dividerline = "- - - - - - - - - - - - - - - -"
@@ -87,7 +87,7 @@ for item in items:
 		report.write("<p><b>Dungeon End</b>: " + ', '.join(item.dungeonenddrops) + "</p>")
 	if len(item.otherdrops) > 0:
 		report.write("<p><b>Other</b>: " + ', '.join(item.otherdrops) + "</p>")
-	report.write("</td></tr>")
+	report.write("</td></tr>\n")
 
 # Finalize Report File
 report.write("</tbody></table>")
