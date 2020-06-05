@@ -16,6 +16,10 @@ p {
 	max-height: 32px;
 }
 
+.reportimg-sm {
+	max-height: 16px;
+}
+
 #nav {
 	float: center;
 	text-align: center;
@@ -37,4 +41,21 @@ p {
 .navitem a:hover {
 	padding: 2px;
 	border: 1px solid #8899AA;
+}
+
+.dropmode {
+	background-color: #AAEEFF;
+	border-left: 4px double #8899AA;
+	padding: 4px 4px;
+}
+
+.flexcontainer {
+	display: flex;
+	flex-direction: column;
+}
+
+.flexcontainer-inner {
+	display: flex;
+	flex-direction: row;
+	padding: 4px;
 }

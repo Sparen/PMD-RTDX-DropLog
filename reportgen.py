@@ -16,11 +16,21 @@ report.write("<table><thead><tr><th>Icon</th><th>Art</th><th>Name</th><th>Drops<
 
 # Read data from all logs and load data into item objects
 dividerline = "- - - - - - - - - - - - - - - -"
+footerline = "----------------------------------------------------------------"
 for dname in dungeons:
 	with open(dname + ".txt") as log:
 		print("Now Analyzing - " + dname)
 		currmode = "Floor" # Mode defines drop mode, noting how to parse and which item field to insert into
 		currflag = "NONE" # Current flag notes if we are currently switching mode, or which category/row we are on
+		# Initialize dungeon report file
+		dname_stripped = dname.split("/")[1]
+		dungeonreport = open("report/" + dname_stripped + ".html", "w") # RHS of the dungeon/<name> dname
+		dungeonreport.write("<!DOCTYPE html><title>DX Drop Logs - Drops by Dungeon - " + dname_stripped + "</title>")
+		dungeonreport.write('<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">')
+		dungeonreport.write('<link href="itemdb.css" rel="stylesheet">')
+		dungeonreport.write("<body><nav id='nav'></nav>\n")
+		dungeonreport.write("<h1>" + dname_stripped + "</h1><div class='flexcontainer'>")
+		# Begin analysis
 		for line in log:
 			line = line.strip()
 			if (currflag == "NONE" and line == dividerline): # End of header
@@ -29,20 +39,22 @@ for dname in dungeons:
 				pass 
 			elif (currflag != "MODECHANGE" and line == dividerline): # Switching to a mode change
 				currflag = "MODECHANGE"
+				dungeonreport.write("</div></div>")
 			elif (currflag == "MODECHANGE" and line != dividerline): # Mode Label
 				currmode = line.strip() # Now Floor, Shop, Tile, Wall, or Dungeon End
+				dungeonreport.write("<div><h2 class='dropmode'>" + currmode + "</h2><div class='flexcontainer-inner'>")
 			elif (currflag == "MODECHANGE" and line == dividerline): # Preparing for shift to Consumables
 				currflag = "STASIS"
-			else: # Category line
+			elif (line != footerline): # Category line. Need to make sure we're not at the footer (edge case)
 				currflag = line.split("|")[0].strip()
 				# Now parse. Remember special case for Dungeon End mode
 				splitdropline = line.split("|")
-				if (len(splitdropline) == 1): # This is the case for the footer line at the end of each log
-					drops = []
-				elif (splitdropline[1].strip() == ""): # This is the case when there are no drops in the category
+				if (splitdropline[1].strip() == ""): # This is the case when there are no drops in the category
 					drops = []
 				else:
 					drops = splitdropline[1].strip().split(", ")
+				if (len(drops) > 0): # Don't write to the dungeon report if there are no drops for this category
+					dungeonreport.write("<div><table><tr><th colspan='3'>" + currflag + "</th></tr>")
 				for drop in drops:
 					if currmode == "Dungeon End":
 						drop = drop.split(" x ")[0].strip()
@@ -71,6 +83,15 @@ for dname in dungeons:
 							curritem.dungeonenddrops.append(dname.split("/")[1])
 						elif currmode == "Other":
 							curritem.otherdrops.append(dname.split("/")[1])
+					# Write the item drop to the dungeon report
+					dungeonreport.write("<tr><td style='text-align:center'><img src='../img/" + curritem.imagename + ".png' class='reportimg-sm'></td><td style='text-align:center'><img src='../itemart/" + curritem.artname + ".png' class='reportimg-sm'></td><td>" + curritem.name + "</td></tr>")
+				if (len(drops) > 0): # Don't write to the dungeon report if there are no drops for this category
+					dungeonreport.write("</table></div>")
+		# Finalize dungeon report
+		dungeonreport.write("</div></body>\n")
+		dungeonreport.write("<footer id='footer'></footer>\n")
+		dungeonreport.write("<script src='itemdb.js'></script>")
+		dungeonreport.close()
 
 # Write table using items
 print("Now generating report...")
