@@ -1,0 +1,40 @@
+body {
+	font-family: 'PT Sans'
+} 
+
+table, th, td {
+	border: 1px solid #AAAAAA; 
+	border-collapse: collapse; 
+	padding: 0.25em;
+} 
+
+p {
+	margin: 0 0.25em;
+} 
+
+.reportimg {
+	max-height: 32px;
+}
+
+#nav {
+	float: center;
+	text-align: center;
+	margin: auto; 
+}
+
+.navitem {
+	display: inline-block;
+	text-decoration: none;
+	background-color: #AAEEFF;
+	padding: 4px;
+}
+
+.navitem a {
+	text-decoration: none;
+	color: #001122;
+}
+
+.navitem a:hover {
+	padding: 2px;
+	border: 1px solid #8899AA;
+}
