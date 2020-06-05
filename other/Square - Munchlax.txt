@@ -11,5 +11,5 @@ Wands       |
 Orbs        | 
 Held Items  | Munch Belt
 TMs         | 
-Special     | Bronze Dojo Ticket, Silver Dojo Ticket
+Special     | Bronze Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------

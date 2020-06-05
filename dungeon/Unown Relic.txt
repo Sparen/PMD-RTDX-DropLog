@@ -7,12 +7,12 @@ Wall Items: Yes
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Elixir, Max Ether
-Berries     | Chesto, Oran, Pecha
+Berries     | Chesto, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Eyedrop, Sleep, Tiny Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Goggle Specs, Joy Ribbon, Pecha Scarf, Recovery Scarf
+Held Items  | Efficient Bandanna, Goggle Specs, Joy Ribbon, Pecha Scarf, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -20,12 +20,12 @@ Shop
 - - - - - - - - - - - - - - - -
 Consumables | 
 Berries     | Chesto
-Projectiles | Geo Pebble
+Projectiles | Geo Pebble, Iron Spike
 Seeds       | Energy, Reviver, Stun
-Wands       | Stayaway
-Orbs        | 
+Wands       | Slow, Stayaway
+Orbs        | One-Room
 Held Items  | Efficient Bandanna, Goggle Specs
-TMs         | Calm Mind
+TMs         | Calm Mind, Rock Tomb
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
