@@ -10,8 +10,8 @@ dungeons = dxutil.getDungeons()
 report = open("report.html", "w")
 report.write("<!DOCTYPE html><title>DX Drop Logs - Drop Report</title>")
 report.write('<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">')
-report.write("<style>body {font-family: 'PT Sans'} table, th, td {border: 1px solid #AAAAAA; border-collapse: collapse; padding: 0.25em;} p {margin: 0 0.25em;}</style>\n")
-report.write("<body><table><thead><tr><th></th><th>Name</th><th>Drops</th></tr></thead><tbody>\n")
+report.write("<style>body {font-family: 'PT Sans'} table, th, td {border: 1px solid #AAAAAA; border-collapse: collapse; padding: 0.25em;} p {margin: 0 0.25em;} img {max-height: 32px}</style>\n")
+report.write("<body><table><thead><tr><th>Icon</th><th>Art</th><th>Name</th><th>Drops</th></tr></thead><tbody>\n")
 
 # Read data from all logs and load data into item objects
 dividerline = "- - - - - - - - - - - - - - - -"
@@ -74,7 +74,7 @@ for dname in dungeons:
 # Write table using items
 print("Now generating report...")
 for item in items:
-	report.write("<tr><td style='text-align:center'><img src='img/" + item.imagename + ".png'></td><td>" + item.name + "</td><td>")
+	report.write("<tr><td style='text-align:center'><img src='img/" + item.imagename + ".png'></td><td style='text-align:center'><img src='itemart/" + item.artname + ".png'></td><td>" + item.name + "</td><td>")
 	if len(item.floordrops) > 0:
 		report.write("<p><b>Floor</b>: " + ', '.join(item.floordrops) + "</p>")
 	if len(item.shopdrops) > 0:
