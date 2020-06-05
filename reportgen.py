@@ -56,9 +56,11 @@ for dname in dungeons:
 				if (len(drops) > 0): # Don't write to the dungeon report if there are no drops for this category
 					dungeonreport.write("<div><table><tr><th colspan='3'>" + currflag + "</th></tr>")
 				for drop in drops:
-					if currmode == "Dungeon End":
-						drop = drop.split(" x ")[0].strip()
 					fullname = drop
+					dungeonenddropcount = "" # Empty by default. Only used for dungeon report, not for main report.
+					if currmode == "Dungeon End":
+						fullname = drop.split(" x ")[0].strip()
+						dungeonenddropcount = " x " + drop.split(" x ")[1].strip()
 					if (currflag == "Berries"):
 						fullname = fullname + " Berry"
 					if (currflag == "Seeds"):
@@ -84,7 +86,7 @@ for dname in dungeons:
 						elif currmode == "Other":
 							curritem.otherdrops.append(dname.split("/")[1])
 					# Write the item drop to the dungeon report
-					dungeonreport.write("<tr><td style='text-align:center'><img src='../img/" + curritem.imagename + ".png' class='reportimg-sm'></td><td style='text-align:center'><img src='../itemart/" + curritem.artname + ".png' class='reportimg-sm'></td><td>" + curritem.name + "</td></tr>")
+					dungeonreport.write("<tr><td style='text-align:center'><img src='../img/" + curritem.imagename + ".png' class='reportimg-sm'></td><td style='text-align:center'><img src='../itemart/" + curritem.artname + ".png' class='reportimg-sm'></td><td>" + curritem.name + dungeonenddropcount + "</td></tr>")
 				if (len(drops) > 0): # Don't write to the dungeon report if there are no drops for this category
 					dungeonreport.write("</table></div>")
 		# Finalize dungeon report
