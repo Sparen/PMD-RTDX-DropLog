@@ -6,7 +6,7 @@ All data is stored in plain text.
 
 ### Compiling Report
 
-Compile the report from the logs by running `python3 reportgen.py`
+Compile the report from the logs by running `python3 reportgen.py`. This will build a report (`report.html`) in `/report` as well as prettified versions of each raw data file
 
 ### Storage Notes
 
