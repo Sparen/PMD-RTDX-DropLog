@@ -1,16 +1,39 @@
 ----------------------------------------------------------------
 Purity Forest
 Floors: 99
-Warnings: 
+Warnings: BUG BITE [Caterpie]
 Wall Items:
-TODO: Determine if there is a set Escape Orb drop 
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Apple, Big Apple, Max Elixir, Max Ether, Perfect Apple
+Berries     | Cheri, Chesto, Oran, Pecha
+Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
+Seeds       | Decoy, Doom, Joy, Quick
+Wands       | HP-Swap, Slow, Whirlwind
+Orbs        | All Protect, Decoy, Escape, Foe-Hold, Foe-Seal, Health, See-Trap, Sunny
+Held Items  | Defense Scarf, Explosive Band, Warp Scarf
+TMs         | Dragon Tail
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | Apple, Max Elixir
 Berries     | 
 Projectiles | 
-Seeds       | 
+Seeds       | Eyedrop, Totter
+Wands       | Surround, Tunnel, Whirlwind
+Orbs        | Foe-Hold, Revive All
+Held Items  | 
+TMs         | Earthquake, Low Sweep, Surf
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | Carbos, Iron, Protein, Zinc
+Berries     | 
+Projectiles | 
+Seeds       | Life
 Wands       | 
 Orbs        | 
 Held Items  | 
