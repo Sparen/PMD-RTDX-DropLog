@@ -9,11 +9,11 @@ Floor
 Consumables | Apple, Big Apple, Max Elixir, Max Ether, Perfect Apple
 Berries     | Cheri, Chesto, Oran, Pecha
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Decoy, Doom, Joy, Quick
-Wands       | HP-Swap, Slow, Whirlwind
+Seeds       | Decoy, Doom, Eyedrop, Joy, Quick
+Wands       | HP-Swap, Slow, Warp, Whirlwind
 Orbs        | All Protect, Decoy, Escape, Foe-Hold, Foe-Seal, Health, See-Trap, Sunny
-Held Items  | Defense Scarf, Explosive Band, Warp Scarf
-TMs         | Dragon Tail
+Held Items  | Defense Scarf, Explosive Band, Fierce Bandanna, Warp Scarf
+TMs         | Aerial Ace, Dragon Tail
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop

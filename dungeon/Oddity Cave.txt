@@ -7,7 +7,7 @@ Wall Items: No
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Max Ether
-Berries     | Oran, Pecha, Rawst
+Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Sleep, Tiny Reviver
 Wands       | Petrify, Slow
@@ -18,19 +18,19 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Max Ether
-Berries     | Rawst
+Consumables | Apple, Max Ether
+Berries     | Oran, Rawst
 Projectiles | 
-Seeds       | 
+Seeds       | Blast, Tiny Reviver
 Wands       | 
-Orbs        | Wigglytuff
+Orbs        | Nullify, Slow, Slumber, Wigglytuff
 Held Items  | 
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos
+Consumables | Calcium, Carbos
 Berries     | 
 Projectiles | 
 Seeds       | 

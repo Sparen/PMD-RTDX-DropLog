@@ -11,8 +11,8 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rollcall, Slow, Totter
-Held Items  | Efficient Bandanna, Insomniscope, Nullify Bandanna, Scope Lens, Weather Band
+Orbs        | All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rollcall, Slow, Slumber, Totter
+Held Items  | Efficient Bandanna, Heal Ribbon, Insomniscope, Nullify Bandanna, Scope Lens, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
