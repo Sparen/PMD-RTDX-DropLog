@@ -1,31 +1,31 @@
 ----------------------------------------------------------------
 Purity Forest
 Floors: 99
-Warnings: BUG BITE [Caterpie, Weedle]
+Warnings: BUG BITE [Caterpie, Weedle], FISSURE [Camerupt], PLUCK [Doduo, Altaria], SHEER COLD [Glalie]
 Wall Items:
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Elixir, Max Ether, Perfect Apple
-Berries     | Cheri, Chesto, Oran, Pecha
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Blinker, Decoy, Doom, Eyedrop, Heal, Joy, Quick, Stun, Tiny Reviver, Warp
-Wands       | HP-Swap, Petrify, Slow, Slumber, Tunnel, Warp, Whirlwind
-Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Radar, Scanner, See-Trap, Slumber, Sunny, Trapbust
-Held Items  | Defense Scarf, Explosive Band, Fierce Bandanna, Heal Ribbon, Heavy Rotation Specs, Warp Scarf
-TMs         | Aerial Ace, Dragon Tail, Hyper Beam, Psychic, Roar, Rock Polish, Rock Slide, Shadow Claw, Surf
+Seeds       | Blast, Blinker, Decoy, Doom, Energy, Eyedrop, Heal, Joy, Quick, Reviver, Sleep, Stun, Tiny Reviver, Violent, Warp
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Surround, Tunnel, Two-Edged, Warp, Whirlwind
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Inviting, Lasso, Luminous, Monster, Nullify, One-Shot, Quick, Radar, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trapbust, Trawl, Weather Lock
+Held Items  | Defense Scarf, Explosive Band, Fierce Bandanna, Heal Ribbon, Heavy Rotation Specs, Lucky Ribbon, Munch Belt, No-Stick Cap, Scope Lens, Sneak Scarf, Special Band, Warp Scarf
+TMs         | Aerial Ace, Aurora Veil, Charge Beam, Dazzling Gleam, Dragon Tail, Embargo, Explosion, Flame Charge, Hyper Beam, Overheat, Psychic, Reflect, Roar, Rock Polish, Rock Slide, Shadow Claw, Smart Strike, Substitute, Sunny Day, Surf
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Elixir, Perfect Apple
-Berries     | Oran
+Berries     | Oran, Pecha
 Projectiles | 
 Seeds       | Doom, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Tiny Reviver, Totter, Violent
-Wands       | Confuse, Petrify, Pounce, Surround, Switcher, Tunnel, Two-Edged, Warp, Whirlwind
-Orbs        | Decoy, Foe-Hold, Health, One-Room, Quick, Rare Quality, Revive All, See-Trap
-Held Items  | Insomniscope
-TMs         | Dragon Tail, Earthquake, Fire Blast, Low Sweep, Sunny Day, Surf
+Wands       | Confuse, HP-Swap, Petrify, Pounce, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged, Warp, Whirlwind
+Orbs        | Decoy, Foe-Hold, Health, Monster, One-Room, Quick, Rare Quality, Revive All, Rollcall, See-Trap, Trawl
+Held Items  | Insomniscope, Mach Ribbon, Power Band, Special Band
+TMs         | Acrobatics, Bulldoze, Dragon Claw, Dragon Tail, Earthquake, Fire Blast, Gyro Ball, Light Screen, Low Sweep, Roar, Sunny Day, Surf
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Tile
@@ -33,7 +33,7 @@ Tile
 Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Life
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | 
