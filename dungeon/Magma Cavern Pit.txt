@@ -6,7 +6,7 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | 
+Consumables | Grimy Food, Max Ether
 Berries     | Oran
 Projectiles | Geo Pebble
 Seeds       | 

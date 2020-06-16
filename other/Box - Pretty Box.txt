@@ -10,6 +10,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Attract, Blizzard, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Explosion, Frustration, Hail, Low Sweep, Overheat, Steel Wing, Stone Edge, Swagger, Thief, Trick Room, U-turn, Volt Switch
+TMs         | Attract, Blizzard, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Explosion, Frustration, Hail, Low Sweep, Overheat, Protect, Rest, Round, Steel Wing, Stone Edge, Swagger, Thief, Trick Room, U-turn, Volt Switch
 Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------
