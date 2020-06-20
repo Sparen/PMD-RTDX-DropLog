@@ -11,7 +11,7 @@ Berries     | Rawst
 Projectiles | 
 Seeds       | Eyedrop, Tiny Reviver
 Wands       | 
-Orbs        | All Dodge, All Power-Up, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Rollcall, Slumber, Trapbust, Weather Lock
+Orbs        | All Dodge, All Power-Up, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Rollcall, Slumber, Totter, Trapbust, Weather Lock
 Held Items  | 
 TMs         | 
 Special     | 
