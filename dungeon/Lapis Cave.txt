@@ -11,7 +11,7 @@ Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock
 Seeds       | Blast, Eyedrop, Sleep, Stun, Tiny Reviver, Totter
 Wands       | Confuse, Petrify, Slow, Stayaway, Switcher
-Orbs        | All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Slow, Slumber
+Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Foe-Seal, Nullify, Petrify, Quick, Slow, Slumber
 Held Items  | Cover Band, Detect Band, Efficient Bandanna, Heal Ribbon, Mach Ribbon, Nullify Bandanna, Power Band, Twist Band
 TMs         | Embargo, Flash Cannon, Rest, Smart Strike
 Special     | Link Box
