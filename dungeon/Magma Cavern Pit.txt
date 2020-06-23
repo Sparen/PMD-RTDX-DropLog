@@ -12,7 +12,7 @@ Projectiles | Geo Pebble
 Seeds       | 
 Wands       | Confuse, Petrify
 Orbs        | 
-Held Items  | Efficient Bandanna
+Held Items  | Efficient Bandanna, Joy Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
