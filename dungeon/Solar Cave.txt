@@ -6,26 +6,26 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Max Ether
-Berries     | Cheri, Chesto, Oran, Pecha
+Consumables | Apple, Max Elixir, Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Stun, Tiny Reviver, Totter
-Wands       | Petrify, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged
+Wands       | Guiding, Petrify, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged, Warp
 Orbs        | 
-Held Items  | Efficient Bandanna, Gold Ribbon, Heal Ribbon, Joy Ribbon, Persim Band, Scope Lens
-TMs         | Earthquake
+Held Items  | Efficient Bandanna, Gold Ribbon, Goggle Specs, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Persim Band, Scope Lens, Weather Band
+TMs         | Earthquake, Fire Blast
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Big Apple
+Consumables | Big Apple, Max Elixir
 Berries     | Rawst
-Projectiles | 
+Projectiles | Geo Pebble
 Seeds       | Quick
-Wands       | 
-Orbs        | Weather Lock
-Held Items  | 
-TMs         | Thief
+Wands       | Guiding, HP-Swap, Tunnel
+Orbs        | Drought, Lasso, Nullify, Weather Lock
+Held Items  | Efficient Bandanna, Heal Ribbon
+TMs         | Attract, Sludge Wave, Thief, Trick Room
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
