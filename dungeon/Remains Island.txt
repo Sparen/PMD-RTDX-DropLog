@@ -9,34 +9,34 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Empowerment, Eyedrop
+Seeds       | Blast, Empowerment, Eyedrop, Tiny Reviver
 Wands       | 
-Orbs        | 
-Held Items  | Efficient Bandanna, Heal Ribbon, Joy Ribbon, Recovery Scarf
+Orbs        | Escape
+Held Items  | Cover Band, Efficient Bandanna, Heal Ribbon, Joy Ribbon, Recovery Scarf
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir
+Consumables | Big Apple, Max Elixir
 Berries     | Pecha
 Projectiles | 
-Seeds       | Quick
+Seeds       | Quick, Violent
 Wands       | Surround
 Orbs        | Foe-Seal, One-Room, Revive All, Wigglytuff
 Held Items  | Heal Ribbon, Persim Band
-TMs         | 
+TMs         | Brutal Swing
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Iron
+Consumables | Iron, Zinc
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
