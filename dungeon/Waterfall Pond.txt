@@ -12,7 +12,7 @@ Projectiles |
 Seeds       | 
 Wands       | 
 Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, One-Room, Nullify, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter
-Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Prosper Ribbon, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -22,16 +22,16 @@ Consumables | Big Apple, Max Elixir
 Berries     | 
 Projectiles | 
 Seeds       | 
-Wands       | Pounce, Slow, Surround, Tunnel, Two-Edged
-Orbs        | Bank, Drought, Foe-Seal, Inviting, Lasso, Mobile, One-Room, One-Shot, Rare Quality, Reset, Trapbust, Wigglytuff
-Held Items  | Efficient Bandanna, Goggle Specs, Persim Band, Prosper Ribbon, Scope Lens, Weather Band
-TMs         | Aurora Veil, Earthquake, Fire Blast, Reflect, Rock Slide, Sandstorm, Swords Dance
+Wands       | HP-Swap, Pounce, Slow, Surround, Tunnel, Two-Edged
+Orbs        | Bank, Drought, Foe-Hold, Foe-Seal, Helper, Inviting, Lasso, Mobile, One-Room, One-Shot, Rare Quality, Reset, Trapbust, Wigglytuff
+Held Items  | Efficient Bandanna, Goggle Specs, Persim Band, Prosper Ribbon, Recovery Scarf, Scope Lens, Weather Band
+TMs         | Aurora Veil, Earthquake, Fire Blast, Leech Life, Psychic, Reflect, Rock Slide, Sandstorm, Swords Dance
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
 Consumables | Calcium, Carbos, Iron, Zinc
-Berries     | 
+Berries     | Sitrus
 Projectiles | 
 Seeds       | Life, Reviver
 Wands       | 

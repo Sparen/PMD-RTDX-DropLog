@@ -9,10 +9,10 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Gravelerock, Iron Spike
-Seeds       | Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
+Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
 Wands       | Petrify, Pounce, Slow, Tunnel, Warp
 Orbs        | 
-Held Items  | Cover Band, Goggle Specs, Joy Ribbon, Nullify Bandanna, Persim Band
+Held Items  | Cover Band, Goggle Specs, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,16 +21,16 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Cheri
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Pure, Tiny Reviver
-Wands       | 
+Seeds       | Pure, Quick, Tiny Reviver
+Wands       | Surround
 Orbs        | 
-Held Items  | 
-TMs         | Aurora Veil, Smart Strike
+Held Items  | Cover Band
+TMs         | Aurora Veil, Leech Life, Smart Strike
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Carbos, Protein, Zinc
+Consumables | Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Joy, Life, Reviver
