@@ -36,7 +36,7 @@ Projectiles |
 Seeds       | Heal, Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Gold Ribbon
+Held Items  | Deluxe Ribbon, Gold Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

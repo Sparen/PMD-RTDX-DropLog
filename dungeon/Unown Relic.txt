@@ -19,14 +19,14 @@ Special     |
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | 
-Berries     | Chesto
+Berries     | Chesto, Pecha
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Energy, Reviver, Stun
 Wands       | Slow, Stayaway
 Orbs        | One-Room
 Held Items  | Efficient Bandanna, Goggle Specs
 TMs         | Calm Mind, Rock Tomb
-Special     | 
+Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
