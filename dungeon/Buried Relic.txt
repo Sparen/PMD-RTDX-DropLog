@@ -13,7 +13,7 @@ Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Tr
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged, Warp, Whirlwind
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
-TMs         | Aurora Veil, Embargo, False Swipe, Fire Blast, Fling, Focus Blast, Hyper Beam, Leech Life, Payback, Sky Drop, Solar Beam, Sunny Day, Surf, Swagger, Thunder, Trick Room
+TMs         | Aurora Veil, Embargo, False Swipe, Fire Blast, Fling, Focus Blast, Giga Impact, Hyper Beam, Leech Life, Payback, Reflect, Sky Drop, Solar Beam, Sunny Day, Surf, Swagger, Thief, Thunder, Trick Room
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
@@ -21,10 +21,10 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Quick, Reviver, Stun, Tiny Reviver
+Seeds       | Ban, Quick, Reviver, Stun, Tiny Reviver
 Wands       | Guiding, HP-Swap, Pounce, Slow, Stayaway, Tunnel, Two-Edged
 Orbs        | All Dodge, All Protect, Bank, Cleanse, Drought, One-Room, Rare Quality, Reset, Revive All, See-Trap, Trapbust, Weather Lock, Wigglytuff
-Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Prosper Ribbon, Recovery Scarf, Scope Lens, X-Ray Specs
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Prosper Ribbon, Recovery Scarf, Scope Lens, Weather Band, X-Ray Specs
 TMs         | Aurora Veil, Earthquake, Flash Cannon, Giga Impact, Leech Life, Protect, Return, Surf, Thunder, U-turn, Volt Switch
 Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
