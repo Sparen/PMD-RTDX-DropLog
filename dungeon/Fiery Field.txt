@@ -10,7 +10,7 @@ Consumables | Grimy Food, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Heal, Sleep, Tiny Reviver, Totter, Warp
-Wands       | Confuse, Guiding, Pounce, Slumber, Stayaway, Surround, Two-Edged
+Wands       | Confuse, Guiding, Pounce, Slumber, Stayaway, Surround, Two-Edged, Warp
 Orbs        | 
 Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band, Recovery Scarf, Weather Band, X-Ray Specs
 TMs         | 
@@ -30,7 +30,7 @@ Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Iron, Protein, Zinc
+Consumables | Calcium, Carbos, Iron, Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Life, Reviver
