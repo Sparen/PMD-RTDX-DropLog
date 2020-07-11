@@ -21,7 +21,7 @@ Shop
 Consumables | Apple, Max Ether
 Berries     | Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Sleep, Totter
+Seeds       | Eyedrop, Sleep, Tiny Reviver, Totter
 Wands       | 
 Orbs        | All Power-Up, Foe-Hold, Quick, Slow, Wigglytuff
 Held Items  | 
