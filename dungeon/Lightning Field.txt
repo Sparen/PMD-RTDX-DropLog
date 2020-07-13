@@ -10,9 +10,9 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Iron Spike
 Seeds       | Empowerment, Eyedrop, Heal, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
-Wands       | Confuse, HP-Swap, Petrify, Slumber, Stayaway, Surround, Whirlwind
+Wands       | Confuse, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Two-Edged, Whirlwind
 Orbs        | 
-Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, X-Ray Specs
+Held Items  | Efficient Bandanna, Gold Ribbon, Insomniscope, Nullify Bandanna, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

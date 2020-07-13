@@ -9,7 +9,7 @@ Projectiles |
 Seeds       | Reviver
 Wands       | 
 Orbs        | 
-Held Items  | Munch Belt
+Held Items  | Big Eater Belt, Munch Belt
 TMs         | 
 Special     | Bronze Dojo Ticket, Rainbow Gummi, Silver Dojo Ticket
 ----------------------------------------------------------------
