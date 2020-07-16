@@ -9,7 +9,7 @@ Floor
 Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Oran, Pecha, Rawst
 Projectiles | 
-Seeds       | Blast, Empowerment, Eyedrop, Tiny Reviver
+Seeds       | Blast, Empowerment, Eyedrop, Stun, Tiny Reviver
 Wands       | 
 Orbs        | Escape
 Held Items  | Cover Band, Efficient Bandanna, Heal Ribbon, Joy Ribbon, Recovery Scarf

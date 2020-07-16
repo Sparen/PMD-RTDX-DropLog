@@ -11,17 +11,17 @@ Berries     |
 Projectiles | 
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, One-Room, Petrify, Quick, Revive All, Rollcall, Slow, Slumber, Totter
-Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Nullify Bandanna, Persim Band, Recovery Scarf, Scope Lens
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Lasso, Nullify, One-Room, Petrify, Quick, Rare Quality, Revive All, Rollcall, Slow, Slumber, Totter
+Held Items  | Efficient Bandanna, Goggle Specs, Heal Ribbon, Insomniscope, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Zinc
+Consumables | Protein, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Life, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Gold Ribbon
