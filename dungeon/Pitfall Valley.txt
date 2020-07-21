@@ -12,7 +12,7 @@ Projectiles | Geo Pebble, Iron Spike
 Seeds       | Blast, Empowerment, Sleep, Tiny Reviver, Totter
 Wands       | Confuse, Petrify, Pounce, Slumber, Stayaway, Tunnel, Warp
 Orbs        | 
-Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, X-Ray Specs
+Held Items  | Efficient Bandanna, Gold Ribbon, Nullify Bandanna, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
@@ -21,16 +21,16 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Pecha
 Projectiles | Geo Pebble
-Seeds       | Tiny Reviver
-Wands       | 
+Seeds       | Tiny Reviver, Violent
+Wands       | Slow, Stayaway
 Orbs        | Revive All
-Held Items  | Persim Band, Scope Lens, X-Ray Specs
-TMs         | Rock Polish
-Special     | 
+Held Items  | Goggle Specs, Persim Band, Scope Lens, X-Ray Specs
+TMs         | Frost Breath, Rock Polish
+Special     | Evolution Crystal
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Carbos, Zinc
+Consumables | Calcium, Carbos, Iron, Zinc
 Berries     | Sitrus
 Projectiles | 
 Seeds       | Joy, Life, Reviver
