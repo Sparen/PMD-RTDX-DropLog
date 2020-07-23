@@ -18,10 +18,10 @@ Special     |
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium, Iron, Zinc
+Consumables | Calcium, Carbos, Iron, Zinc
 Berries     | Sitrus
 Projectiles | 
-Seeds       | Reviver
+Seeds       | Heal, Reviver
 Wands       | 
 Orbs        | 
 Held Items  | Deluxe Ribbon

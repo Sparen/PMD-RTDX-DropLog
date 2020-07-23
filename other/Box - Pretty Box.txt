@@ -10,6 +10,6 @@ Seeds       |
 Wands       | 
 Orbs        | 
 Held Items  | 
-TMs         | Attract, Aurora Veil, Blizzard, Bulldoze, Charge Beam, Dream Eater, Earthquake, Echoed Voice, Explosion, False Swipe, Fire Blast, Flame Charge, Frost Breath, Frustration, Hail, Low Sweep, Overheat, Protect, Rain Dance, Reflect, Rest, Rock Slide, Round, Shadow Claw, Smack Down, Steel Wing, Stone Edge, Surf, Swagger, Thief, Thunder, Trick Room, U-turn, Volt Switch
+TMs         | Attract, Aurora Veil, Blizzard, Bulldoze, Charge Beam, Dream Eater, Earthquake, Echoed Voice, Explosion, False Swipe, Fire Blast, Flame Charge, Frost Breath, Frustration, Hail, Low Sweep, Overheat, Protect, Rain Dance, Reflect, Rest, Roar, Rock Slide, Round, Shadow Claw, Smack Down, Steel Wing, Stone Edge, Surf, Swagger, Thief, Thunder, Trick Room, U-turn, Volt Switch
 Special     | Bronze Dojo Ticket, Rainbow Gummi
 ----------------------------------------------------------------
