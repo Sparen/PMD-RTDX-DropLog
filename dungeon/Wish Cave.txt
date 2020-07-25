@@ -9,11 +9,11 @@ Floor
 Consumables | Apple, Big Apple, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
-Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Stun, Tiny Reviver, Totter, Violent, Warp
+Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Reviver, Sleep, Stun, Tiny Reviver, Totter, Violent, Warp
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Whirlwind
-Orbs        | All Dodge, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Luminous, Mobile, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Rainy, Reset, Revive All, Rollcall, Sandy, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Lasso, Luminous, Mobile, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Rainy, Rare Quality, Reset, Revive All, Rollcall, Sandy, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
 Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, Mach Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Warp Scarf, Weather Band, Zinc Band
-TMs         | Aurora Veil, Brick Break, Dark Pulse, Dragon Claw, Dragon Tail, Energy Ball, Frustration, Giga Impact, Hidden Power, Low Sweep, Poison Jab, Psych Up, Quash, Safeguard, Scald, Sleep Talk, Solar Beam, Swagger
+TMs         | Aurora Veil, Brick Break, Dark Pulse, Dragon Claw, Dragon Tail, Dream Eater, Energy Ball, Frustration, Giga Impact, Hidden Power, Low Sweep, Poison Jab, Psych Up, Quash, Safeguard, Scald, Sleep Talk, Solar Beam, Swagger
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
