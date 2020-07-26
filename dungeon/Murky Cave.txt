@@ -10,7 +10,7 @@ Consumables | Apple, Max Elixir, Max Ether
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Gravelerock, Iron Spike
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Totter, Training, Warp
-Wands       | Petrify, Pounce, Slow, Tunnel, Warp
+Wands       | Petrify, Pounce, Slow, Slumber, Surround, Tunnel, Warp
 Orbs        | 
 Held Items  | Cover Band, Goggle Specs, Insomniscope, Joy Ribbon, Nullify Bandanna, Persim Band
 TMs         | 
@@ -21,7 +21,7 @@ Shop
 Consumables | Big Apple, Max Elixir
 Berries     | Cheri
 Projectiles | Geo Pebble, Iron Spike
-Seeds       | Pure, Quick, Tiny Reviver
+Seeds       | Pure, Quick, Tiny Reviver, Violent
 Wands       | Surround
 Orbs        | 
 Held Items  | Cover Band

@@ -12,7 +12,7 @@ Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
 Orbs        | Decoy, Escape, Foe-Hold, Foe-Seal, Health, Inviting, Nullify, Quick, Rare Quality, Slumber
-Held Items  | Cover Band, Efficient Bandanna, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens
+Held Items  | Cover Band, Efficient Bandanna, Joy Ribbon, Nullify Bandanna, Pecha Scarf, Persim Band, Recovery Scarf, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
