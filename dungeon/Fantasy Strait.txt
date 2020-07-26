@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 Fantasy Strait
 Floors: 25
-Warnings: SHEDINJA
+Warnings: SHEDINJA, BUG BITE [Weekle], PERISH SONG [Altaria, Smoochum]
 Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
@@ -11,20 +11,20 @@ Berries     |
 Projectiles | Gravelerock
 Seeds       | 
 Wands       | 
-Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Inviting, One-Room, Quick, Revive All, Slow, Slumber, Trawl
-Held Items  | Cover Band, Efficient Bandanna, Recovery Scarf, X-Ray Specs
+Orbs        | All Dodge, All Power-Up, Escape, Foe-Hold, Inviting, Nullify, One-Room, Petrify, Quick, Revive All, Rollcall, Slow, Slumber, Trawl
+Held Items  | Cover Band, Efficient Bandanna, Insomniscope, Joy Ribbon, Recovery Scarf, Scope Lens, X-Ray Specs
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
 Tile
 - - - - - - - - - - - - - - - -
-Consumables | Calcium
+Consumables | Calcium, Protein
 Berries     | 
 Projectiles | 
 Seeds       | 
 Wands       | 
 Orbs        | 
-Held Items  | 
+Held Items  | Gold Ribbon
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

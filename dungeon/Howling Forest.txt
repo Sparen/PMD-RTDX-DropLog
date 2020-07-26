@@ -6,8 +6,8 @@ Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
-Consumables | Apple, Big Apple, Max Ether
-Berries     | Cheri, Chesto, Oran, Pecha
+Consumables | Apple, Big Apple, Max Elixir, Max Ether
+Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | 
 Seeds       | Blast, Empowerment, Eyedrop, Sleep, Stun, Tiny Reviver, Training, Warp
 Wands       | Slow, Slumber, Stayaway, Surround, Whirlwind
@@ -18,13 +18,13 @@ Special     |
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
-Consumables | Max Elixir
+Consumables | Big Apple, Max Elixir
 Berries     | Pecha
 Projectiles | 
-Seeds       | Reviver
-Wands       | Stayaway
-Orbs        | Rare Quality
-Held Items  | 
+Seeds       | Reviver, Tiny Reviver
+Wands       | Slow, Stayaway, Surround
+Orbs        | Rare Quality, Wigglytuff
+Held Items  | Nullify Bandanna
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -
