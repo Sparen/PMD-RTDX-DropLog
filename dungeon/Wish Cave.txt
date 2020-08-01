@@ -11,9 +11,9 @@ Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
 Seeds       | Ban, Blast, Blinker, Decoy, Doom, Empowerment, Energy, Eyedrop, Heal, Joy, Pure, Quick, Reviver, Sleep, Stun, Tiny Reviver, Totter, Violent, Warp
 Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Switcher, Tunnel, Whirlwind
-Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Lasso, Luminous, Mobile, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Rainy, Rare Quality, Reset, Revive All, Rollcall, Sandy, See-Trap, Slow, Slumber, Spurn, Sunny, Trapbust, Weather Lock
-Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Joy Ribbon, Lock-On Specs, Lucky Ribbon, Mach Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Warp Scarf, Weather Band, Zinc Band
-TMs         | Aurora Veil, Brick Break, Dark Pulse, Dragon Claw, Dragon Tail, Dream Eater, Energy Ball, Frustration, Giga Impact, Hidden Power, Low Sweep, Poison Jab, Psych Up, Quash, Safeguard, Scald, Sleep Talk, Solar Beam, Swagger
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Lasso, Luminous, Mobile, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Rainy, Rare Quality, Reset, Revive All, Rollcall, Sandy, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trapbust, Trawl, Weather Lock
+Held Items  | Defense Scarf, Efficient Bandanna, Fickle Specs, Friend Bow, Gold Ribbon, Heal Ribbon, Heavy Rotation Specs, Joy Ribbon, Lock-On Specs, Lucky Ribbon, Mach Ribbon, No-Stick Cap, Nullify Bandanna, Pass Scarf, Pecha Scarf, Power Band, Prosper Ribbon, Reunion Cape, Twist Band, Warp Scarf, Weather Band, Zinc Band
+TMs         | Aurora Veil, Brick Break, Brutal Swing, Dark Pulse, Dragon Claw, Dragon Tail, Dream Eater, Energy Ball, Frustration, Giga Impact, Hidden Power, Low Sweep, Poison Jab, Psych Up, Quash, Safeguard, Scald, Sleep Talk, Solar Beam, Swagger, Work Up
 Special     | 
 - - - - - - - - - - - - - - - -
 Shop
@@ -22,8 +22,8 @@ Consumables | Apple, Max Ether
 Berries     | Cheri, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
 Seeds       | Ban, Blast, Blinker, Empowerment, Eyedrop, Joy, Quick, Tiny Reviver, Violent
-Wands       | Confuse, Petrify, Pounce, Slumber, Surround, Tunnel, Two-Edged, Warp
-Orbs        | All Power-Up, All Protect, Cleanse, Drought, Foe-Hold, Foe-Seal, Health, Lasso, Luminous, Mobile, One-Room, Radar, Rare Quality, Rollcall, Slow, Slumber, Totter
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slumber, Surround, Tunnel, Two-Edged, Warp
+Orbs        | All Power-Up, All Protect, Cleanse, Drought, Foe-Hold, Foe-Seal, Health, Lasso, Luminous, Mobile, One-Room, Radar, Rainy, Rare Quality, Rollcall, Slow, Slumber, Totter
 Held Items  | Efficient Bandanna, Pecha Scarf, Twist Band, Warp Scarf
 TMs         | Dazzling Gleam, Focus Blast, Frustration, Hidden Power, Nature Power, Rest, Swagger, Thunder, Trick Room
 Special     | 
