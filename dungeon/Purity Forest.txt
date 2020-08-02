@@ -1,8 +1,8 @@
 ----------------------------------------------------------------
 Purity Forest
 Floors: 99
-Warnings: BUG BITE [Caterpie, Weedle], FISSURE [Camerupt], PLUCK [Doduo, Altaria], SHEER COLD [Glalie]
-Wall Items:
+Warnings: BUG BITE [Caterpie, Weedle], FISSURE [Camerupt], PLUCK [Doduo, Fearow, Altaria], SHEER COLD [Glalie]
+Wall Items: No
 - - - - - - - - - - - - - - - -
 Floor
 - - - - - - - - - - - - - - - -
@@ -10,22 +10,22 @@ Consumables | Apple, Big Apple, Max Elixir, Max Ether, Perfect Apple
 Berries     | Cheri, Chesto, Oran, Pecha, Rawst
 Projectiles | Geo Pebble, Gravelerock, Iron Spike, Silver Spike
 Seeds       | Blast, Blinker, Decoy, Doom, Energy, Eyedrop, Heal, Joy, Quick, Reviver, Sleep, Stun, Tiny Reviver, Violent, Warp
-Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Surround, Tunnel, Two-Edged, Warp, Whirlwind
-Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Inviting, Lasso, Luminous, Monster, Nullify, One-Shot, Quick, Radar, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trapbust, Trawl, Weather Lock
-Held Items  | Defense Scarf, Explosive Band, Fierce Bandanna, Heal Ribbon, Heavy Rotation Specs, Lucky Ribbon, Munch Belt, No-Stick Cap, Scope Lens, Sneak Scarf, Special Band, Warp Scarf
-TMs         | Aerial Ace, Aurora Veil, Charge Beam, Dazzling Gleam, Dragon Tail, Embargo, Explosion, Flame Charge, Hyper Beam, Overheat, Psychic, Reflect, Roar, Rock Polish, Rock Slide, Shadow Claw, Smart Strike, Substitute, Sunny Day, Surf
+Wands       | Confuse, Guiding, HP-Swap, Petrify, Pounce, Slow, Slumber, Stayaway, Surround, Tunnel, Two-Edged, Warp, Whirlwind
+Orbs        | All Dodge, All Power-Up, All Protect, Cleanse, Decoy, Drought, Escape, Evasion, Foe-Hold, Foe-Seal, Hail, Health, Inviting, Lasso, Luminous, Monster, Nullify, One-Room, One-Shot, Quick, Radar, Revive All, Rollcall, Scanner, See-Trap, Slow, Slumber, Spurn, Sunny, Totter, Trapbust, Trawl, Weather Lock
+Held Items  | Defense Scarf, Explosive Band, Fierce Bandanna, Heal Ribbon, Heavy Rotation Specs, Lucky Ribbon, Munch Belt, No-Stick Cap, Scope Lens, Sneak Scarf, Special Band, Tight Belt, Twist Band, Warp Scarf
+TMs         | Aerial Ace, Aurora Veil, Brutal Swing, Charge Beam, Dazzling Gleam, Dragon Tail, Embargo, Explosion, Flame Charge, Grass Knot, Hyper Beam, Nature Power, Overheat, Psychic, Reflect, Roar, Rock Polish, Rock Slide, Shadow Claw, Smart Strike, Substitute, Sunny Day, Surf
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Shop
 - - - - - - - - - - - - - - - -
 Consumables | Apple, Big Apple, Max Elixir, Perfect Apple
-Berries     | Oran, Pecha
+Berries     | Cheri, Oran, Pecha
 Projectiles | 
-Seeds       | Doom, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Tiny Reviver, Totter, Violent
+Seeds       | Blast, Doom, Eyedrop, Heal, Joy, Pure, Quick, Sleep, Tiny Reviver, Totter, Violent
 Wands       | Confuse, HP-Swap, Petrify, Pounce, Slumber, Stayaway, Surround, Switcher, Tunnel, Two-Edged, Warp, Whirlwind
-Orbs        | Decoy, Foe-Hold, Health, Monster, One-Room, Quick, Rare Quality, Revive All, Rollcall, See-Trap, Trawl
-Held Items  | Insomniscope, Mach Ribbon, Power Band, Special Band
-TMs         | Acrobatics, Bulldoze, Dragon Claw, Dragon Tail, Earthquake, Fire Blast, Gyro Ball, Light Screen, Low Sweep, Roar, Sunny Day, Surf
+Orbs        | Decoy, Foe-Hold, Foe-Seal, Health, Monster, Nullify, One-Room, Quick, Rare Quality, Revive All, Rollcall, See-Trap, Trawl
+Held Items  | Insomniscope, Mach Ribbon, Power Band, Special Band, Trap Scarf
+TMs         | Acrobatics, Bulldoze, Dragon Claw, Dragon Tail, Earthquake, Fire Blast, Gyro Ball, Light Screen, Low Sweep, Overheat, Roar, Sunny Day, Surf
 Special     | Link Box
 - - - - - - - - - - - - - - - -
 Tile
