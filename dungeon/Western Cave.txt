@@ -12,7 +12,7 @@ Projectiles | Geo Pebble
 Seeds       | Blast, Empowerment, Eyedrop, Training
 Wands       | HP-Swap, Slumber, Stayaway
 Orbs        | 
-Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Joy Ribbon, Persim Band, Recovery Scarf, Weather Band
+Held Items  | Efficient Bandanna, Goggle Specs, Insomniscope, Joy Ribbon, Persim Band, Recovery Scarf, Stamina Band, Weather Band
 TMs         | 
 Special     | 
 - - - - - - - - - - - - - - - -

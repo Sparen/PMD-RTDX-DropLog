@@ -1,0 +1,43 @@
+----------------------------------------------------------------
+Illusory Grotto
+Floors: Random
+Warnings: 
+Wall Items:
+NOTE: Requires having no Reviver Seeds, Tiny Reviver Seeds, and Revive All Orb in bag and storage to access
+- - - - - - - - - - - - - - - -
+Floor
+- - - - - - - - - - - - - - - -
+Consumables | Big Apple, Max Elixir
+Berries     | Oran
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | Revive All
+Held Items  | 
+TMs         | 
+Special     | 
+- - - - - - - - - - - - - - - -
+Shop
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Oran
+Projectiles | 
+Seeds       | Reviver
+Wands       | 
+Orbs        | Bank
+Held Items  | 
+TMs         | 
+Special     | Link Box
+- - - - - - - - - - - - - - - -
+Tile
+- - - - - - - - - - - - - - - -
+Consumables | 
+Berries     | Sitrus
+Projectiles | 
+Seeds       | 
+Wands       | 
+Orbs        | 
+Held Items  | 
+TMs         | 
+Special     | 
+----------------------------------------------------------------

@@ -358,6 +358,8 @@ def getDungeons():
 	dungeonlist.append("dungeon/Meteor Cave")
 	dungeonlist.append("dungeon/Marvelous Sea")
 	dungeonlist.append("dungeon/Fantasy Strait")
+
+	dungeonlist.append("dungeon/Illusory Grotto")
 	
 	# Non-dungeons with potentially hardwired inventories
 	dungeonlist.append("other/Square - Kecleon Shop")
